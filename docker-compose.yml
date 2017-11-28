@@ -1,0 +1,53 @@
+app:
+  restart: always
+  build: .
+  volumes:
+    - .:/pandora
+    - /etc/pandora:/etc/pandora
+    - /opt/pandora/static:/pandora/collected_static
+    - /opt/pandora/media:/pandora/media
+    - /opt/pandora/datasets:/pandora/datasets
+  ports:
+    - "8080:8080"
+  links:
+    - db
+    - redis
+    - ipanda
+  command: ./deploy/docker_entry.sh
+db:
+  restart: always
+  image: postgres:latest
+  volumes_from:
+    - data
+  ports:
+    - "5432"
+data:
+  image: busybox
+  volumes:
+    - /var/lib/postgresql
+  command: "true"
+redis:
+  image: redis:latest
+  hostname: redis
+worker:
+  build: .
+  command: ./deploy/run_celery.sh
+  volumes:
+    - .:/pandora
+    - .:/app
+    - /etc/pandora:/etc/pandora
+    - /opt/pandora/media:/pandora/media
+  links:
+    - db
+    - redis
+ipanda:
+  image: registry.gitlab.com/insilicoteam/ipanda/image
+  volumes:
+    - /etc/ipanda:/etc/ipanda
+    - /opt/ipanda/media:/ipanda/media
+    - /opt/ipanda/pathway_db:/ipanda/pathway_db
+  ports:
+    - "8081:8081"
+  links:
+    - db
+
