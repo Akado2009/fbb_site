@@ -81,7 +81,7 @@ def login(request):
     if request.method == 'POST':
         username = request.POST.get('username')
         password1 = request.POST.get('password1')
-        users = User.objects.all()
+        print(request.POST)
         user = authenticate(username=username, password=password1)
         if user:
             django_login(request, user)

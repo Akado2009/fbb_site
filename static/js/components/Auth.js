@@ -157,6 +157,7 @@ export class AuthForm extends Component {
                     </Col>
                 </FormGroup>
 
+                {this.state.status == 'register' && 
                 <FormGroup controlId="formHorizontalEmail">
                     <Col componentClass={ControlLabel} md={2}>Email</Col>
                     <Col md={8}>
@@ -167,7 +168,7 @@ export class AuthForm extends Component {
                             Wrong e-mail
                         </p>
                     </Col>
-                </FormGroup>
+                </FormGroup>}
 
                 <FormGroup controlId="formHorizontalPassword">
                     <Col componentClass={ControlLabel} md={2}>Password</Col>
@@ -204,7 +205,7 @@ export class LogoutForm extends Component {
     onLogout () {
         $.post('/users/logout/', {}, function(response) {
             if ( !response.error ) {
-                console.log(response);
+                window.location.href = '127.0.0.1:8000/users/auth/?next=/';
                 location.reload();
             }
         });
