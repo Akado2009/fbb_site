@@ -16,12 +16,14 @@ export class AuthForm extends Component {
         this.state = {
             status: 'login',
 
+            username: null,
             email: null,
             password: null,
 
 
         };
 
+        this.onChangeUsername = this.onChangeUsername.bind(this);
         this.onChangeLogin = this.onChangeLogin.bind(this);
         this.onChangePassword = this.onChangePassword.bind(this);
 
@@ -52,6 +54,7 @@ export class AuthForm extends Component {
     componentWillUnmount() {
         document.removeEventListener("keydown", this._handleKeyDown);
     }
+
     onChangeAction () {
         if (this.state.status == 'register') {
             this.setState({
@@ -63,6 +66,13 @@ export class AuthForm extends Component {
                 status: 'register',
             })
         }
+        this.returnToDefault();
+    }
+
+    onChangeUsername (e) {
+        this.setState({
+            username: e.target.value
+        });
         this.returnToDefault();
     }
 
@@ -83,12 +93,14 @@ export class AuthForm extends Component {
     onSubmit () {
     
         let data =  {
+            username: this.state.username,
             email: this.state.email,
-            password: this.state.password,
+            password1: this.state.password,
+            password2: this.state.password
         }
 
         let urlMap = {
-            register: '/users/register/',
+            register: '/users/signup/',
             login: '/users/login/'
         }
 
@@ -137,6 +149,14 @@ export class AuthForm extends Component {
                 <Col mdOffset={2} md={10}>
                     <h4>{textMap[this.state.status].header}</h4>
                 </Col>
+
+                <FormGroup controlId="formHorizontalEmail">
+                    <Col componentClass={ControlLabel} md={2}>Username</Col>
+                    <Col md={8}>
+                        <FormControl onChange={this.onChangeUsername} type="username" className="username" placeholder="Username" /> 
+                    </Col>
+                </FormGroup>
+
                 <FormGroup controlId="formHorizontalEmail">
                     <Col componentClass={ControlLabel} md={2}>Email</Col>
                     <Col md={8}>
@@ -184,7 +204,8 @@ export class LogoutForm extends Component {
     onLogout () {
         $.post('/users/logout/', {}, function(response) {
             if ( !response.error ) {
-                window.location = '/';
+                console.log(response);
+                location.reload();
             }
         });
     }

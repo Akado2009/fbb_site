@@ -14,6 +14,7 @@
     "datatables.net-select": "^1.2.2",
     "highcharts": "^5.0.14",
     "jstree": "^3.3.4",
+    "material-ui": "^0.19.4",
     "plotly": "^1.0.6",
     "react": "^15.5.4",
     "react-bootstrap": "^0.31.0",
@@ -21,8 +22,11 @@
     "react-dynamic-modal": "^1.1.1",
     "react-highcharts": "^12.0.0",
     "react-radio-buttons": "^1.1.1",
+    "react-router-dom": "^4.2.2",
     "react-select": "^1.0.0-rc.10",
     "react-select-box": "^3.0.1",
+    "react-sticky": "^6.0.1",
+    "react-sticky-dynamic-header": "^0.1.2",
     "react-tooltip": "^3.3.0"
   },
   "devDependencies": {

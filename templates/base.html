@@ -11,27 +11,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% block 'title' %}FBB{% endblock %}</title>
   </head>
+{% block 'header' %}
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">FBB TRASH</a>
+      </div>
+      <div id="navbar">
+        <ul class="nav navbar-nav">
+          <li><a href="#">TRASH</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          {% if user.is_authenticated %}
+            <li><a href="" id="logout">Logout</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+{% endblock %}
   <body>
-    {% block 'header' %}
-      <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-          <div class="navbar-header">
-            <a class="navbar-brand" href="/">FBB</a>
-          </div>
-          <div id="navbar">
-            <ul class="nav navbar-nav">
-              <li><a href="/report/">Report</a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-              {% if user.is_authenticated %}
-                <li><a href="" id="logout">Logout</a></li>
-              {% endif %}
-            </ul>
-          </div>
-        </div>
-      </nav>
-    {% endblock %}
-
     <div id="container">
       {% block content %}
       {% endblock %}

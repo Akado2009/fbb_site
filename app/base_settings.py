@@ -5,8 +5,8 @@ import raven
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-config_dev_path = os.path.join(BASE_DIR, 'deploy/pandora_dev.conf')
-config_prod_path = '/etc/pandora/pandora.conf'
+config_dev_path = os.path.join(BASE_DIR, 'deploy/fbb_dev.conf')
+config_prod_path = '/etc/fbb/fbb.conf'
 
 config = configparser.RawConfigParser()
 config.read((config_dev_path, config_prod_path))
@@ -23,7 +23,8 @@ ALLOWED_HOSTS = ['*']
 
 PROJECT_APPS = [
     'api',
-    'fbb_site'
+    'fbb_site',
+    'users'
 ]
 
 THIRD_PARTY_APPS = [
@@ -101,6 +102,12 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
+
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'fbb.msu.general@gmail.com'
+EMAIL_HOST_PASSWORD = 'google06'
+EMAIL_PORT = 587
 
 STATIC_URL = '/static/'
 STATIC_ROOT = config_get('static', 'STATIC_ROOT')

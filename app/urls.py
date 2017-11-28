@@ -8,7 +8,9 @@ from fbb_site.views import IndexView
 
 
 urlpatterns = [
-    url(r'^$', IndexView.as_view(), name='index')
+    url(r'^$', login_required(IndexView.as_view()), name='index'),
+    url(r'^users/', include('users.urls', namespace='users')),
+    url(r'^admin/', admin.site.urls),
 ]
 
 
