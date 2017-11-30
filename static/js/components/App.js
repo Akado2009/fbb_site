@@ -14,13 +14,20 @@ import '../../styles/header.css';
 
 import * as utils from '../utils.js';
 
+$(window).scroll(function () {
+    if ($(document).scrollTop() > 50) {
+        $('.navbar').css("background-color", "rgba(0, 0, 0, 0.5)");
+    }
+    else {
+        $('nav').css("background-color", "black");
+    }
+});
 
 class App extends Component {
     render() {PureComponent
         return (
             <HashRouter>
                 <div>
-                    <h1>FBB MAIN PAGE</h1>
                     <ul className="header">
                         <li><NavLink exact to="/">Home</NavLink></li>
                         <li><NavLink to="/stuff">Stuff</NavLink></li>

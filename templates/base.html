@@ -9,10 +9,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
     <meta http-equiv="Access-Control-Allow-Origin" content="*">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <title>{% block 'title' %}FBB{% endblock %}</title>
   </head>
 {% block 'header' %}
-  <nav class="navbar navbar-default navbar-fixed-top">
+  <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="/">FBB TRASH</a>
@@ -24,6 +25,12 @@
         <ul class="nav navbar-nav navbar-right">
           {% if user.is_authenticated %}
             <li><a href="" id="logout">Logout</a></li>
+          {% endif %}
+          {% if not user.is_authenticated %}
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+              <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
           {% endif %}
         </ul>
       </div>

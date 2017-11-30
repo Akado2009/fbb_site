@@ -19,22 +19,6 @@ from django.core.mail import EmailMessage
 class AuthView(TemplateView):
     template_name = 'users/auth.html'
 
-
-def register(request):
-    if request.method == 'POST':
-        email = request.POST.get('email')
-        password = request.POST.get('password')
-
-        if get_user_model().objects.filter(username=email).exists():
-            return JsonResponse({'reponse': 'error'})
-
-        get_user_model().objects.create_user(
-            username=email, password=password
-        )
-
-        return JsonResponse({'response': 'success'})
-
-
 def signup(request):
     if request.method == 'POST':
         form = SignupForm(request.POST)
@@ -81,7 +65,6 @@ def login(request):
     if request.method == 'POST':
         username = request.POST.get('username')
         password1 = request.POST.get('password1')
-        print(request.POST)
         user = authenticate(username=username, password=password1)
         if user:
             django_login(request, user)

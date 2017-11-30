@@ -13,6 +13,6 @@ import * as utils from './utils.js';
 import 'jquery';
 import '../styles/base.css';
 
-ReactDOM.render(<LogoutForm />, document.getElementById("logout"))
+// ReactDOM.render(<LogoutForm />, document.getElementById("logout"))
 ReactDOM.render(<App />, document.getElementById("app"));
 
