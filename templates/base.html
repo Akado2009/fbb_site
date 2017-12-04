@@ -20,7 +20,13 @@
       </div>
       <div id="navbar">
         <ul class="nav navbar-nav">
-          <li><a href="#">TRASH</a></li>
+          <li><a href="#">Postupaushim</a></li>
+          <li><a href="#">Studentam</a></li>
+          <li><a href="#">Aspirantam</a></li>
+          <li><a href="#">Nauka</a></li>
+          <li><a href="#">Lektorii</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contacts</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
           {% if user.is_authenticated %}
@@ -42,6 +48,6 @@
       {% block content %}
       {% endblock %}
     </div>
-
   </body>
+  </div>
 </html>

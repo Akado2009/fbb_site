@@ -25,7 +25,7 @@ ul.header li a {
   display: inline-block;
 }
 .content {
-  background-color: #FFF;
+  background-color: #e0e0e0;
   padding: 20px;
 }
 .content h2 {
@@ -37,4 +37,16 @@ ul.header li a {
 }
 .active {
     background-color: #0099FF;
+}
+.logo-list {
+  list-style-type: none;
+}
+.align-center {
+  text-align: center !important;
+}
+.strong-text {
+  font-size: 16px !important;
+}
+.align-left {
+  text-align: left;
 }
