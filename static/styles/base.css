@@ -25,7 +25,7 @@ ul.header li a {
   display: inline-block;
 }
 .content {
-  background-color: #e0e0e0;
+  background-color: white;
   padding: 20px;
 }
 .content h2 {
@@ -46,7 +46,4 @@ ul.header li a {
 }
 .strong-text {
   font-size: 16px !important;
-}
-.align-left {
-  text-align: left;
 }

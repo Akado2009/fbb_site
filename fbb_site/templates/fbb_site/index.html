@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% load render_bundle from webpack_loader %}
+{% load static %}
+
+{% block content %}
+    <div id="app"></div>
+    <div id="footer">
+    {% render_bundle 'main' %}
+{% endblock %}

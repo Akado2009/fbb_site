@@ -4,11 +4,19 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.contrib.auth.decorators import login_required
 
-from fbb_site.views import IndexView
+from fbb_site.views import IndexView, ApplyView, ContactsViews, AboutView, PhdView, LectureView, ScienceView, StudentsView, ProfileView
 
 
 urlpatterns = [
     url(r'^$', IndexView.as_view(), name='index'),
+    url(r'^apply/$', ApplyView.as_view(), name='apply'),
+    url(r'^contacts/$', ContactsViews.as_view(), name='contacts'),
+    url(r'^about/$', AboutView.as_view(), name='about'),
+    url(r'^phd/$', PhdView.as_view(), name='phd'),
+    url(r'^lecture/$', LectureView.as_view(), name='lecture'),
+    url(r'^science/$', ScienceView.as_view(), name='science'),
+    url(r'^students/$', StudentsView.as_view(), name='students'),
+    url(r'^profile/$', ProfileView.as_view(), name='profile'),
     url(r'^users/', include('users.urls', namespace='users')),
     url(r'^admin/', admin.site.urls),
 ]

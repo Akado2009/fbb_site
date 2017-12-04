@@ -18,6 +18,36 @@ from rest_framework import viewsets
 
 
 class IndexView(TemplateView):
-    template_name = 'pandora/index.html'
+    template_name = 'fbb_site/index.html'
 
 
+class ApplyView(TemplateView):
+    template_name = 'fbb_site/apply.html'
+
+
+class ContactsViews(TemplateView):
+    template_name = 'fbb_site/contacts.html'
+
+
+class AboutView(TemplateView):
+    template_name = 'fbb_site/about.html'
+
+
+class PhdView(TemplateView):
+    template_name = 'fbb_site/phd.html'
+
+
+class LectureView(TemplateView):
+    template_name = 'fbb_site/lecture.html'
+
+
+class ScienceView(TemplateView):
+    template_name = 'fbb_site/science.html'
+
+
+class StudentsView(TemplateView):
+    template_name = 'fbb_site/students.html'
+
+
+class ProfileView(TemplateView):
+    template_name = 'fbb_site/profile.html'

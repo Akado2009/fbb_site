@@ -38,11 +38,11 @@ export class App extends Component {
         return (
             <HashRouter>
                 <div>
-                    <ul className="header">
+                    {/* <ul className="header">
                         <li><NavLink exact to="/">Home</NavLink></li>
                         <li><NavLink to="/stuff">Stuff</NavLink></li>
                         <li><NavLink to="/contact">Contact</NavLink></li>
-                    </ul>
+                    </ul> */}
 
                     <div className="content">
                         <Route exact path="/" component={Home}/>
