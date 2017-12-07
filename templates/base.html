@@ -30,13 +30,13 @@
         </ul>
         <ul class="nav navbar-nav navbar-right">
           {% if user.is_authenticated %}
-            <li><a href="/profile" id="profile">Profile</a></li>
-            <li><a href="" id="logout">Logout</a></li>
+            <li><a href="/profile" id="profile"><span class="glyphicon glyphicon-modal-window"></span> Profile</a></li>
+            <li><a id="logout">Logout</a></li>
           {% endif %}
           {% if not user.is_authenticated %}
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-              <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+              <li><a href="/users/auth"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+              <li><a href="/users/auth"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
           {% endif %}
         </ul>

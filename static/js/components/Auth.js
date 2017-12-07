@@ -205,7 +205,7 @@ export class LogoutForm extends Component {
     onLogout () {
         $.post('/users/logout/', {}, function(response) {
             if ( !response.error ) {
-                window.location.href = '127.0.0.1:8000/users/auth/?next=/';
+                window.location.href = '/';
                 location.reload();
             }
         });
@@ -213,7 +213,7 @@ export class LogoutForm extends Component {
 
     render () {
         return (
-            <span onClick={this.onLogout}>Logout</span>
+            <span onClick={this.onLogout}><span className="glyphicon glyphicon-share-alt"></span>Logout</span>
         )
     }
 }

@@ -13,6 +13,9 @@ import * as utils from './utils.js';
 import 'jquery';
 import '../styles/base.css';
 
+if (document.getElementById("logout")) {
+    ReactDOM.render(<LogoutForm />, document.getElementById("logout"));
+}
 // ReactDOM.render(<LogoutForm />, document.getElementById("logout"))
 ReactDOM.render(<App />, document.getElementById("app"));
 ReactDOM.render(<Footer />, document.getElementById("footer"));

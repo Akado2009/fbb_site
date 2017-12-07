@@ -63,9 +63,11 @@ def activate(request, uidb64, token):
 
 def login(request):
     if request.method == 'POST':
+
         username = request.POST.get('username')
         password1 = request.POST.get('password1')
         user = authenticate(username=username, password=password1)
+        print(user)
         if user:
             django_login(request, user)
             return JsonResponse({'response': 'success'})
@@ -74,5 +76,7 @@ def login(request):
 
 
 def logout(request):
+    print(100)
+    print(request)
     django_logout(request)
     return JsonResponse({'response': 'success'})

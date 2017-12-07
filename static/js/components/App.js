@@ -26,9 +26,18 @@ import FBB from '../../img/logo_fbb.gif';
 $(window).scroll(function () {
     if ($(document).scrollTop() > 50) {
         $('.navbar').css("background-color", "rgba(0, 0, 0, 0.5)");
+        var menu = document.getElementsByClassName('navbar')[0];
+        $(menu).mouseenter(function() {
+            $(this).css("background-color", "black");
+        }).mouseleave(function() {
+            $(this).css("background-color", "rgba(0, 0, 0, 0.5)");
+        })
     }
     else {
         $('nav').css("background-color", "black");
+        var menu = document.getElementsByClassName('navbar')[0];
+        $(menu).off("mouseenter");
+        $(menu).off("mouseleave");
     }
 });
 
@@ -57,7 +66,6 @@ export class App extends Component {
 
 export class Footer extends Component {
     render() {
-        console.log(1)
         return(
             <div>
                 <Row>
@@ -93,6 +101,3 @@ export class Footer extends Component {
         )
     }
 }
-
-// glyphicon glyphicon-envelope
-// glyphicon glyphicon-phone-alt
