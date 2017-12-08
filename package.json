@@ -27,7 +27,8 @@
     "react-select-box": "^3.0.1",
     "react-sticky": "^6.0.1",
     "react-sticky-dynamic-header": "^0.1.2",
-    "react-tooltip": "^3.3.0"
+    "react-tooltip": "^3.3.0",
+    "semantic-ui-react": "^0.77.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
