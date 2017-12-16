@@ -9,10 +9,12 @@ module.exports = {
         'webpack/hot/only-dev-server',
         './static/js/main',
         './static/js/auth',
+        './static/js/contacts',
     ],
     entry: {
         main: './static/js/main',
         auth: './static/js/auth',
+        contacts: './static/js/contacts'
     },
     output: {
         path: path.resolve('./static/bundles/'),

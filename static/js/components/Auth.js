@@ -6,7 +6,6 @@ import Col from 'react-bootstrap/lib/Col';
 import FormControl from 'react-bootstrap/lib/FormControl';
 import ControlLabel from 'react-bootstrap/lib/ControlLabel';
 import Dialog from 'material-ui/Dialog';
-import FlatButton from 'material-ui/FlatButton';
 import RaisedButton from 'material-ui/RaisedButton';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import TextField from 'material-ui/TextField';
@@ -147,10 +146,10 @@ export class RegisterForm extends Component {
         return (
             <MuiThemeProvider>
                 <div className="align-center">
-                    <TextField hintText="username" onChange={this.onChangeUsername} /><br />
-                    <TextField hintText="email" onChange={this.onChangeEmail} errorText={this.state.emailError} /><br />
-                    <TextField hintText="password" onChange={this.onChangePassword1} errorText={this.state.assMatchError} type="password"/><br />
-                    <TextField hintText="password" onChange={this.onChangePassword2} errorText={this.state.passMatchError} type="password"/><br />
+                    <TextField hintText="Enter username" onChange={this.onChangeUsername} /><br />
+                    <TextField hintText="Enter e-mail" onChange={this.onChangeEmail} errorText={this.state.emailError} /><br />
+                    <TextField hintText="Enter password" onChange={this.onChangePassword1} errorText={this.state.assMatchError} type="password"/><br />
+                    <TextField hintText="Enter password again" onChange={this.onChangePassword2} errorText={this.state.passMatchError} type="password"/><br />
                     <RaisedButton label="Register" onClick={this.onSubmit} backgroundColor="#ffd1dc" /><br /><br />
                 </div>
             </MuiThemeProvider>
@@ -159,6 +158,7 @@ export class RegisterForm extends Component {
 }
 
 export class LoginForm extends Component {
+    
     constructor () {
         super();
         this.state = {
@@ -242,7 +242,7 @@ export class LoginForm extends Component {
       return (
         <MuiThemeProvider>
             <div >
-            <span onClick={this.handleOpen}><span className="glyphicon glyphicon-share-alt"></span>Login</span>
+            <span onClick={this.handleOpen}><span className="glyphicon glyphicon-share-alt"></span> Login</span>
             <Dialog
                 title="Login"
                 modal={false}
@@ -283,7 +283,7 @@ export class LogoutForm extends Component {
 
     render () {
         return (
-            <span onClick={this.onLogout}><span className="glyphicon glyphicon-share-alt"></span>Logout</span>
+            <span onClick={this.onLogout}><span className="glyphicon glyphicon-share-alt"></span> Logout</span>
         )
     }
 }

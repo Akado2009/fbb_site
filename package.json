@@ -12,6 +12,8 @@
     "datatables.net-bs": "^1.10.15",
     "datatables.net-buttons": "^1.4.1",
     "datatables.net-select": "^1.2.2",
+    "google-map-react": "^0.25.0",
+    "google-maps-react": "^1.1.2",
     "highcharts": "^5.0.14",
     "jstree": "^3.3.4",
     "material-ui": "^0.19.4",
@@ -20,6 +22,7 @@
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
     "react-dynamic-modal": "^1.1.1",
+    "react-google-maps": "^9.4.3",
     "react-highcharts": "^12.0.0",
     "react-radio-buttons": "^1.1.1",
     "react-router-dom": "^4.2.2",
@@ -28,7 +31,8 @@
     "react-sticky": "^6.0.1",
     "react-sticky-dynamic-header": "^0.1.2",
     "react-tooltip": "^3.3.0",
-    "semantic-ui-react": "^0.77.0"
+    "semantic-ui-react": "^0.77.0",
+    "transform-runtime": "0.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",

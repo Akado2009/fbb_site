@@ -67,7 +67,7 @@ export class App extends Component {
 export class Footer extends Component {
     render() {
         return(
-            <div>
+            <div className="container">
                 <Row>
                     <br />
                     <Col md={2}>

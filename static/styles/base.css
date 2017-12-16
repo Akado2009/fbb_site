@@ -27,6 +27,7 @@ ul.header li a {
 .content {
   background-color: white;
   padding: 20px;
+  min-height: 300px;
 }
 .content h2 {
   padding: 0;

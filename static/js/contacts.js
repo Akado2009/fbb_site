@@ -4,6 +4,7 @@ import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 import { App, Footer } from './components/App';
 import { LoginForm, LogoutForm } from './components/Auth';
 import { ProfileForm } from './components/Profile';
+import { ContactForm } from './components/Contacts';
 import darkBaseTheme from 'material-ui/styles/baseThemes/darkBaseTheme';
 
 import * as utils from './utils.js';
@@ -18,5 +19,5 @@ if (document.getElementById("logout")) {
 if (document.getElementById("login")) {
     ReactDOM.render(<LoginForm />, document.getElementById("login"));
 }
-ReactDOM.render(<App />, document.getElementById("app"));
+ReactDOM.render(<ContactForm />, document.getElementById("contacts"));
 ReactDOM.render(<Footer />, document.getElementById("footer"));

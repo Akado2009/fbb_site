@@ -10,6 +10,7 @@
     <meta http-equiv="Access-Control-Allow-Origin" content="*">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo"></script>    
     <title>{% block 'title' %}FBB{% endblock %}</title>
   </head>
 {% block 'header' %}
@@ -30,7 +31,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-right">
           {% if user.is_authenticated %}
-            <li><a href="/profile" id="profile"><span class="glyphicon glyphicon-modal-window"></span> Profile</a></li>
+            <li><a id="profile"><span class="glyphicon glyphicon-modal-window"></span> Profile</a></li>
             <li><a id="logout">Logout</a></li>
           {% endif %}
           {% if not user.is_authenticated %}
