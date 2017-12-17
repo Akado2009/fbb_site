@@ -17,6 +17,7 @@ config.entry = {
     main: './static/js/main',
     auth: './static/js/auth',
     contacts:  './static/js/contacts',
+    about: './static/js/about',
 };
 
 module.exports = config;

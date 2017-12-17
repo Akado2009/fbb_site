@@ -19,6 +19,7 @@
     "material-ui": "^0.19.4",
     "plotly": "^1.0.6",
     "react": "^15.5.4",
+    "react-animate-on-scroll": "^1.6.0",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
     "react-dynamic-modal": "^1.1.1",
