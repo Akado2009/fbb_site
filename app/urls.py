@@ -19,6 +19,8 @@ urlpatterns = [
     url(r'^profile/$', ProfileView.as_view(), name='profile'),
     url(r'^users/', include('users.urls', namespace='users')),
     url(r'^admin/', admin.site.urls),
+
+    url(r'^fbb_site/', include('fbb_site.urls', namespace='fbb_site')),
 ]
 
 

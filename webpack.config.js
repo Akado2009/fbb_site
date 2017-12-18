@@ -11,12 +11,14 @@ module.exports = {
         './static/js/auth',
         './static/js/contacts',
         './static/js/about',
+        './static/js/lectorium',
     ],
     entry: {
         main: './static/js/main',
         auth: './static/js/auth',
         contacts: './static/js/contacts',
         about: './static/js/about',
+        lectorium: './static/js/lectorium',
     },
     output: {
         path: path.resolve('./static/bundles/'),

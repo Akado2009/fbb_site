@@ -18,6 +18,7 @@ config.entry = {
     auth: './static/js/auth',
     contacts:  './static/js/contacts',
     about: './static/js/about',
+    lectorium: './static/js/lectorium',
 };
 
 module.exports = config;

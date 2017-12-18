@@ -44,6 +44,7 @@ export class ContactForm extends React.Component {
                     <Col mdOffset={3}>
                         <div id="map">
                         </div>
+                        <br /><br />
                     </Col>
                 </Row>
                 <br />
