@@ -1,0 +1,87 @@
+.active {
+    background-color: #ff507a;
+  }
+
+ul.horizontal-menu-router li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+ul.horizontal-menu-router {
+    background-color: #111;
+    padding: 0;
+    width: 70%;
+}
+ul.horizontal-menu-router li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+
+#directions-info {
+    width: 70%;
+    font-size: 16px;
+}
+
+#journals-info {
+    width: 70%;
+    font-size: 16px;
+}
+
+#center-info {
+    width: 70%;
+    font-size: 16px;
+}
+
+#publications-info {
+    font-size: 16px;
+}
+
+#publications {
+    width: 70%;
+}
+a:link, a:visited {
+    color: #ff507a;
+}
+
+.article-name {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.authors {
+    font-size: 15px;
+}
+
+.journal {
+    font-size: 13px;
+}
+
+.particular-article {
+    text-align: left;
+    height: 400px;
+    overflow: auto;
+}
+
+.authors-popup {
+    font-size: 16px;
+}
+
+.journal-popup {
+    font-size: 15px;
+}
+
+.name-popup {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.abstract-popup {
+    font-size: 17px;
+}
+
+.overflow-popup {
+    overflow:scroll;
+}

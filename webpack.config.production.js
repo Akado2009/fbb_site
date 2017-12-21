@@ -19,6 +19,8 @@ config.entry = {
     contacts:  './static/js/contacts',
     about: './static/js/about',
     lectorium: './static/js/lectorium',
+    science: './static/js/science',
+    phd: './static/js/phd'
 };
 
 module.exports = config;

@@ -9,4 +9,3 @@ with open('utils/lectoriums.txt') as input_file:
         date = '-'.join(pre_date[::-1])
         new_lectorium = Lectorium(name=name, professor=professor, date=date)
         new_lectorium.save()
-        print(date)

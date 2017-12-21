@@ -12,6 +12,9 @@ module.exports = {
         './static/js/contacts',
         './static/js/about',
         './static/js/lectorium',
+        './static/js/science',
+        './static/js/phd',
+        './static/js/apply'
     ],
     entry: {
         main: './static/js/main',
@@ -19,6 +22,9 @@ module.exports = {
         contacts: './static/js/contacts',
         about: './static/js/about',
         lectorium: './static/js/lectorium',
+        science: './static/js/science',
+        phd: './static/js/phd',
+        apply: './static/js/apply',
     },
     output: {
         path: path.resolve('./static/bundles/'),

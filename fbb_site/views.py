@@ -16,7 +16,7 @@ from django.contrib.auth.models import User
 
 from rest_framework import viewsets
 
-from .models import Lectorium
+from .models import Lectorium, Publication
 
 
 class IndexView(TemplateView):
@@ -110,4 +110,26 @@ def get_five_last_lectoriums(request):
         current_info['year'] = current_info['year'] % 100
         new_data.append(current_info)
 
-    return JsonResponse({ 'data' : new_data})
+    return JsonResponse({ 'data' : new_data })
+
+def get_publications_by_date(request, year):
+
+    publications = Publication.objects.all().filter(year=year).values(
+            'id', 'name', 'authors', 'journal', 'pubmed_link', 'doi_link'
+        )
+
+    return JsonResponse({ 'data' : list(publications) })
+
+def get_publication_by_id(request, id):
+    
+    publication = Publication.objects.get(id=id)
+    return_publication = {
+        'name': publication.name,
+        'authors': publication.authors,
+        'abstract': publication.abstract,
+        'journal': publication.journal,
+        'pubmed_link': publication.pubmed_link,
+        'doi_link': publication.doi_link
+    }
+
+    return JsonResponse({ 'data' : return_publication})

@@ -207,3 +207,20 @@ class Lectorium(models.Model):
 
     def __str__(self):
         return self.name 
+
+
+class Publication(models.Model):
+    name = models.CharField(max_length=1024)
+    authors = models.CharField(max_length=1024)
+    journal = models.CharField(max_length=128)
+    pubmed_link = models.CharField(max_length=128)
+    doi_link = models.CharField(max_length=128)
+    year = models.CharField(max_length=32, default='2012')
+    abstract = models.CharField(max_length=10000, default='Empty')
+
+
+# class Grant(models.Model):
+#     name = models.CharField(max_length=128)
+#     description = models.CharField(max_length=10000)
+#     url = models.CharField(max_length=128)
+#     icon = models.ImageField()

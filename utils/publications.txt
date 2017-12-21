@@ -1,0 +1,1771 @@
+2014
+Selective chromogenic and fluorogenic peptide substrates for the assay of cysteine peptidases in complex mixture
+Semashko, T. A.; Vorotnikova, E. A.; Sharikova, V. F.; Vinokurov, K. S.; Smirnova, Y. A.; Dunaevsky, Y. E.; Belozersky, M. A.; Oppert, B.; Elpidina, E. N.; Filippova, I. Y.
+Anal Biochem. 2014 Jan 3. pii: S0003-2697(13)00618-0. 
+http://www.ncbi.nlm.nih.gov/pubmed/24388866 
+http://dx.doi.org//10.1016/j.ab.2013.12.032 >doi 10.1016/j.ab.2013.12.032</p>
+Bioinformatic analysis of protein families for identification of variable amino acid residues responsible for functional diversity.
+Suplatov, D.; Shalaeva, D.; Kirilin, E.; Arzhanik, V.; Svedas, V.
+J Biomol Struct Dyn. 2014;32(1):75-87. 
+http://www.ncbi.nlm.nih.gov/pubmed/23384165 
+http://dx.doi.org//10.1080/07391102.2012.750249 >doi 10.1080/07391102.2012.750249</p>
+Stroke-induced brain parenchymal injury drives blood-brain barrier early leakage  kinetics: a combined in vivo/in vitro study.
+Kuntz, M.; Mysiorek, C.; Petrault, O.; Petrault, M.; Uzbekov, R.; Bordet, R.; Fenart, L.; Cecchelli, R.; Berezowski, V.
+J Cereb Blood Flow Metab. 2014 Jan;34(1):95-107. 
+http://www.ncbi.nlm.nih.gov/pubmed/24084699 
+http://dx.doi.org//10.1038/jcbfm.2013.169 >doi 10.1038/jcbfm.2013.169</p>
+Transient oxygen-glucose deprivation sensitizes brain capillary endothelial cells to rtPA at 4h of reoxygenation.
+Kuntz, M.; Mysiorek, C.; Petrault, O.; Boucau, M. C.; Aijjou, R.; Uzbekov, R.; Berezowski, V.
+Microvasc Res. 2014 Jan;91:44-57. 
+http://www.ncbi.nlm.nih.gov/pubmed/24333620 
+http://dx.doi.org//10.1016/j.mvr.2013.12.002 >doi 10.1016/j.mvr.2013.12.002</p>
+Intrasubtype Reassortments Cause Adaptive Amino Acid Replacements in H3N2 Influenza Genes.
+Neverov, A. D.; Lezhnina, K. V.; Kondrashov, A. S.; Bazykin, G. A.
+PLoS Genet. 2014 Jan;10(1):e1004037. 
+http://www.ncbi.nlm.nih.gov/pubmed/24415946 
+http://dx.doi.org//10.1371/journal.pgen.1004037 >doi 10.1371/journal.pgen.1004037</p>
+Sequence-derived structural features driving proteolytic processing.
+Belushkin, A. A.; Vinogradov, D. V.; Gelfand, M. S.; Osterman, A. L.; Cieplak, P.; Kazanov, M. D.
+Proteomics. 2014 Jan;14(1):42-50. 
+http://www.ncbi.nlm.nih.gov/pubmed/24227478 
+http://dx.doi.org//10.1002/pmic.201300416 >doi 10.1002/pmic.201300416</p>
+2013
+RNASurface: fast and accurate detection of locally optimal potentially structured RNA segments.
+Soldatov, R. A.; Vinogradova, S. V.; Mironov, A. A.
+Bioinformatics. 2013 Dec 27.
+http://www.ncbi.nlm.nih.gov/pubmed/24292360 
+http://dx.doi.org//10.1093/bioinformatics/btt701 >doi 10.1093/bioinformatics/btt701</p>
+Structural basis for the regulatory function of a complex zinc-binding domain in  a replicative arterivirus helicase resembling a nonsense-mediated mRNA decay helicase.
+Deng, Z.; Lehmann, K. C.; Li, X.; Feng, C.; Wang, G.; Zhang, Q.; Qi, X.; Yu, L.; Zhang, X.; Feng, W.; Wu, W.; Gong, P.; Tao, Y.; Posthuma, C. C.; Snijder, E. J.; Gorbalenya, A. E.; Chen, Z.
+Nucleic Acids Res. 2013 Dec 24.
+http://www.ncbi.nlm.nih.gov/pubmed/24369429 
+http://dx.doi.org//10.1093/nar/gkt1310 >doi 10.1093/nar/gkt1310</p>
+Thiamin-dependent enzymes: new perspectives from the interface between chemistry  and biology.
+Bunik, V. I.
+FEBS J. 2013 Dec;280(24):6373. 
+http://www.ncbi.nlm.nih.gov/pubmed/24286623 
+http://dx.doi.org//10.1111/febs.12589 >doi 10.1111/febs.12589</p>
+Thiamin diphosphate-dependent enzymes: from enzymology to metabolic regulation, drug design and disease models.
+Bunik, V. I.; Tylicki, A.; Lukashev, N. V.
+FEBS J. 2013 Dec;280(24):6412-42. 
+http://www.ncbi.nlm.nih.gov/pubmed/24004353 
+http://dx.doi.org//10.1111/febs.12512 >doi 10.1111/febs.12512</p>
+Thermo-switchable activity of the restriction endonuclease SsoII achieved by site-directed enzyme modification.
+Abrosimova, L. A.; Monakhova, M. V.; Migur, A. Y.; Wolfgang, W.; Pingoud, A.; Kubareva, E. A.; Oretskaya, T. S.
+IUBMB Life. 2013 Dec;65(12):1012-6. 
+http://www.ncbi.nlm.nih.gov/pubmed/24376208 
+http://dx.doi.org//10.1002/iub.1222 >doi 10.1002/iub.1222</p>
+Method for site-specific detection of m6A nucleoside presence in RNA based on high-resolution melting (HRM) analysis.
+Golovina, A. Y.; Dzama, M. M.; Petriukov, K. S.; Zatsepin, T. S.; Sergiev, P. V.; Bogdanov, A. A.; Dontsova, O. A.
+Nucleic Acids Res. 2013 Nov 21.
+http://www.ncbi.nlm.nih.gov/pubmed/24265225 
+http://dx.doi.org//10.1093/nar/gkt1160 >doi 10.1093/nar/gkt1160</p>
+Genome sequence analysis indicates that the model eukaryote Nematostella vectensis harbors bacterial consorts.
+Artamonova, I. I.; Mushegian, A. R.
+Appl Environ Microbiol. 2013 Nov;79(22):6868-73. 
+http://www.ncbi.nlm.nih.gov/pubmed/23995941 
+http://dx.doi.org//10.1128/AEM.01635-13 >doi 10.1128/AEM.01635-13</p>
+Evolution of cytochrome bc complexes: from membrane-anchored dehydrogenases of ancient bacteria to triggers of apoptosis in vertebrates.
+Dibrova, D. V.; Cherepanov, D. A.; Galperin, M. Y.; Skulachev, V. P.; Mulkidjanian, A. Y.
+Biochim Biophys Acta. 2013 Nov-Dec;1827(11-12):1407-27. 
+http://www.ncbi.nlm.nih.gov/pubmed/23871937 
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006 >doi 10.1016/j.bbabio.2013.07.006</p>
+Aptamer RA36 inhibits of human, rabbit, and rat plasma coagulation activated with thrombin or snake venom coagulases.
+Savchik, E. Y.; Kalinina, T. B.; Drozd, N. N.; Makarov, V. A.; Zav'yalova, E. G.; Lapsheva, E. N.; Mudrik, N. N.; Babij, A. V.; Pavlova, G. V.; Golovin, A. V.; Kopylov, A. M.
+Bull Exp Biol Med. 2013 Nov;156(1):44-8.
+http://www.ncbi.nlm.nih.gov/pubmed/24319726
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Polyreactive monoclonal autoantibodies in multiple sclerosis: functional selection from phage display library and characterization by deep sequencing analysis.
+Lomakin, Y. A.; Zakharova, M. Y.; Belogurov, A. A.; Bykova, N. A.; Dronina, M. A.; Tupikin, A. E.; Knorre, V. D.; Boyko, A. N.; Favorov, A. V.; Kabilov, M. R.; Ponomarenko, N. A.; Gabibov, G.
+Acta Naturae. 2013 Oct;5(4):94-104.
+http://www.ncbi.nlm.nih.gov/pubmed/24455188
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Effect of poly(phosphate) anions on glyceraldehyde-3-phosphate dehydrogenase structure and thermal aggregation: comparison with influence of poly(sulfoanions).
+Semenyuk, P. I.; Muronetz, V. I.; Haertle, T.; Izumrudov, V. A.
+Biochim Biophys Acta. 2013 Oct;1830(10):4800-5. 
+http://www.ncbi.nlm.nih.gov/pubmed/23811344 
+http://dx.doi.org//10.1016/j.bbagen.2013.06.024 >doi 10.1016/j.bbagen.2013.06.024</p>
+Minimal genome encoding proteins with constrained amino acid repertoire.
+Tsoy, O.; Yurieva, M.; Kucharavy, A.; O'Reilly, M.; Mushegian, A.
+Nucleic Acids Res. 2013 Oct;41(18):8444-51. 
+http://www.ncbi.nlm.nih.gov/pubmed/23873957 
+http://dx.doi.org//10.1093/nar/gkt610 >doi 10.1093/nar/gkt610</p>
+Paratrypanosoma is a novel early-branching trypanosomatid.
+Flegontov, P.; Votypka, J.; Skalicky, T.; Logacheva, M. D.; Penin, A. A.; Tanifuji, G.; Onodera, N. T.; Kondrashov, A. S.; Volf, P.; Archibald, J. M.; Lukes, J.
+Curr Biol. 2013 Sep 23;23(18):1787-93. 
+http://www.ncbi.nlm.nih.gov/pubmed/24012313 
+http://dx.doi.org//10.1016/j.cub.2013.07.045 >doi 10.1016/j.cub.2013.07.045</p>
+Zebra: a web server for bioinformatic analysis of diverse protein families.
+Suplatov, D.; Kirilin, E.; Takhaveev, V.; Svedas, V.
+J Biomol Struct Dyn. 2013 Sep 13.
+http://www.ncbi.nlm.nih.gov/pubmed/24028489 
+http://dx.doi.org//10.1080/07391102.2013.834514 >doi 10.1080/07391102.2013.834514</p>
+Short indels are subject to insertion-biased gene conversion.
+Leushkin, E. V.; Bazykin, G. A.
+Evolution. 2013 Sep;67(9):2604-13. 
+http://www.ncbi.nlm.nih.gov/pubmed/24033170 
+http://dx.doi.org//10.1111/evo.12129 >doi 10.1111/evo.12129</p>
+Functional implications of splicing polymorphisms in the human genome.
+Kurmangaliyev, Y. Z.; Sutormin, R. A.; Naumenko, S. A.; Bazykin, G. A.; Gelfand, M. S.
+Hum Mol Genet. 2013 Sep 1;22(17):3449-59. 
+http://www.ncbi.nlm.nih.gov/pubmed/23640990 
+http://dx.doi.org//10.1093/hmg/ddt200 >doi 10.1093/hmg/ddt200</p>
+Role of charge screening and delocalization for lipophilic cation permeability of model and mitochondrial membranes.
+Trendeleva, T. A.; Sukhanova, E. I.; Rogov, A. G.; Zvyagilskaya, R. A.; Seveina, I. I.; Ilyasova, T. M.; Cherepanov, D. A.; Skulachev, V. P.
+Mitochondrion. 2013 Sep;13(5):500-6. 
+http://www.ncbi.nlm.nih.gov/pubmed/23085197 
+http://dx.doi.org//10.1016/j.mito.2012.10.006 >doi 10.1016/j.mito.2012.10.006</p>
+Derivatives of the cationic plant alkaloids berberine and palmatine amplify protonophorous activity of fatty acids in model membranes and mitochondria.
+Pustovidko, A. V.; Rokitskaya, T. I.; Severina, I. I.; Simonyan, R. A.; Trendeleva, T. A.; Lyamzaev, K. G.; Antonenko, Y. N.; Rogov, A. G.; Zvyagilskaya, R. A.; Skulachev, V. P.; Chernyak, B. V.
+Mitochondrion. 2013 Sep;13(5):520-5. 
+http://www.ncbi.nlm.nih.gov/pubmed/23026390 
+http://dx.doi.org//10.1016/j.mito.2012.09.006 >doi 10.1016/j.mito.2012.09.006</p>
+Genomic evidence for ameiotic evolution in the bdelloid rotifer Adineta vaga.
+Flot, J. F.; Hespeels, B.; Li, X.; Noel, B.; Arkhipova, I.; Danchin, E. G.; Hejnol, A.; Henrissat, B.; Koszul, R.; Aury, J. M.; Barbe, V.; Barthelemy, R. M.; Bast, J.; Bazykin, G. A.; Chabrol, O.; Couloux, A.; Da&nbsp;Rocha, M.; Da&nbsp;Silva, C.; Gladyshev, E.; Gouret, P.; Hallatschek, O.; Hecox-Lea, B.; Labadie, K.; Lejeune, B.; Piskurek, O.; Poulain, J.; Rodriguez, F.; Ryan, J. F.; Vakhrusheva, O. A.; Wajnberg, E.; Wirth, B.; Yushenova, I.; Kellis, M.; Kondrashov, A. S.; Mark&nbsp;Welch, D. B.; Pontarotti, P.; Weissenbach, J.; Wincker, P.; Jaillon, O.; Van&nbsp;Doninck, K.
+Nature. 2013 Aug 22;500(7463):453-7. 
+http://www.ncbi.nlm.nih.gov/pubmed/23873043 
+http://dx.doi.org//10.1038/nature12326 >doi 10.1038/nature12326</p>
+Protective effect of mitochondria-targeted antioxidants in an acute bacterial infection.
+Plotnikov, E. Y.; Morosanova, M. A.; Pevzner, I. B.; Zorova, L. D.; Manskikh, V. N.; Pulkova, N. V.; Galkina, S. I.; Skulachev, V. P.; Zorov, D. B.
+Proc Natl Acad Sci U S A. 2013 Aug 13;110(33):E3100-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/23898194 
+http://dx.doi.org//10.1073/pnas.1307096110 >doi 10.1073/pnas.1307096110</p>
+Structure-based design of small-molecule ligands of phosphofructokinase-2 activating or inhibiting glycolysis.
+Pyrkov, T. V.; Sevostyanova, I. A.; Schmalhausen, E. V.; Shkoporov, A. N.; Vinnik, A. A.; Muronetz, V. I.; Severin, F. F.; Fedichev, P. O.
+ChemMedChem. 2013 Aug;8(8):1322-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/23813838 
+http://dx.doi.org//10.1002/cmdc.201300154 >doi 10.1002/cmdc.201300154</p>
+The miniature genome of a carnivorous plant Genlisea aurea contains a low number  of genes and short non-coding sequences.
+Leushkin, E. V.; Sutormin, R. A.; Nabieva, E. R.; Penin, A. A.; Kondrashov, A. S.; Logacheva, M. D.
+BMC Genomics. 2013 Jul 15;14(1):476.
+http://www.ncbi.nlm.nih.gov/pubmed/23855885 
+http://dx.doi.org//10.1186/1471-2164-14-476 >doi 10.1186/1471-2164-14-476</p>
+Image-based analysis of lipid nanoparticle-mediated siRNA delivery, intracellular trafficking and endosomal escape.
+Gilleron, J.; Querbes, W.; Zeigerer, A.; Borodovsky, A.; Marsico, G.; Schubert, U.; Manygoats, K.; Seifert, S.; Andree, C.; Stoter, M.; Epstein-Barash, H.; Zhang, L.; Koteliansky, V.; Fitzgerald, K.; Fava, E.; Bickle, M.; Kalaidzidis, Y.; Akinc, A.; Maier, M.; Zerial, M.
+Nat Biotechnol. 2013 Jul;31(7):638-46. 
+http://www.ncbi.nlm.nih.gov/pubmed/23792630 
+http://dx.doi.org//10.1038/nbt.2612 >doi 10.1038/nbt.2612</p>
+In search of novel highly active mitochondria-targeted antioxidants: thymoquinone and its cationic derivatives.
+Severina, I. I.; Severin, F. F.; Korshunova, G. A.; Sumbatyan, N. V.; Ilyasova, T. M.; Simonyan, R. A.; Rogov, A. G.; Trendeleva, T. A.; Zvyagilskaya, R. A.; Dugina, V. B.; Domnina, L. V.; Fetisova, E. K.; Lyamzaev, K. G.; Vyssokikh, M. Y.; Chernyak, B. V.; Skulachev, M. V.; Skulachev, V. P.; Sadovnichii, V. A.
+FEBS Lett. 2013 Jun 27;587(13):2018-24. 
+http://www.ncbi.nlm.nih.gov/pubmed/23665033 
+http://dx.doi.org//10.1016/j.febslet.2013.04.043 >doi 10.1016/j.febslet.2013.04.043</p>
+Hidden Markov models for evolution and comparative genomics analysis.
+Bykova, N. A.; Favorov, A. V.; Mironov, A. A.
+PLoS One. 2013 Jun 7;8(6):e65012. 
+http://www.ncbi.nlm.nih.gov/pubmed/23762278 
+http://dx.doi.org//10.1371/journal.pone.0065012 >doi 10.1371/journal.pone.0065012</p>
+Electrogenic proton transport across lipid bilayer membranes mediated by cationic derivatives of rhodamine 19: comparison with anionic protonophores.
+Rokitskaya, T. I.; Ilyasova, T. M.; Severina, I. I.; Antonenko, Y. N.; Skulachev, V. P.
+Eur Biophys J. 2013 Jun;42(6):477-85. 
+http://www.ncbi.nlm.nih.gov/pubmed/23558512 
+http://dx.doi.org//10.1007/s00249-013-0898-9 >doi 10.1007/s00249-013-0898-9</p>
+Mitochondrial signaling in Saccharomyces cerevisiae pseudohyphae formation induced by butanol.
+Starovoytova, A. N.; Sorokin, M. I.; Sokolov, S. S.; Severin, F. F.; Knorre, D. A.
+FEMS Yeast Res. 2013 Jun;13(4):367-74. 
+http://www.ncbi.nlm.nih.gov/pubmed/23448552 
+http://dx.doi.org//10.1111/1567-1364.12039 >doi 10.1111/1567-1364.12039</p>
+Evolution of pan-genomes of Escherichia coli, Shigella spp., and Salmonella enterica.
+Gordienko, E. N.; Kazanov, M. D.; Gelfand, M. S.
+J Bacteriol. 2013 Jun;195(12):2786-92. 
+http://www.ncbi.nlm.nih.gov/pubmed/23585535 
+http://dx.doi.org//10.1128/JB.02285-12 >doi 10.1128/JB.02285-12</p>
+Prevalence of multinucleotide replacements in evolution of primates and Drosophila.
+Terekhanova, N. V.; Bazykin, G. A.; Neverov, A.; Kondrashov, A. S.; Seplyarskiy, V. B.
+Mol Biol Evol. 2013 Jun;30(6):1315-25. 
+http://www.ncbi.nlm.nih.gov/pubmed/23447710 
+http://dx.doi.org//10.1093/molbev/mst036 >doi 10.1093/molbev/mst036</p>
+Penetrating cations enhance uncoupling activity of anionic protonophores in mitochondria.
+Antonenko, Y. N.; Khailova, L. S.; Knorre, D. A.; Markova, O. V.; Rokitskaya, T. I.; Ilyasova, T. M.; Severina, I. I.; Kotova, E. A.; Karavaeva, Y. E.; Prikhodko, A. S.; Severin, F. F.; Skulachev, V. P.
+PLoS One. 2013 Apr 23;8(4):e61902. 
+http://www.ncbi.nlm.nih.gov/pubmed/23626747 
+http://dx.doi.org//10.1371/journal.pone.0061902 >doi 10.1371/journal.pone.0061902</p>
+Structural lability of Barley stripe mosaic virus virions.
+Makarov, V. V.; Skurat, E. V.; Semenyuk, P. I.; Abashkin, D. A.; Kalinina, N. O.; Arutyunyan, A. M.; Solovyev, A. G.; Dobrov, E. N.
+PLoS One. 2013 Apr 17;8(4):e60942. 
+http://www.ncbi.nlm.nih.gov/pubmed/23613760 
+http://dx.doi.org//10.1371/journal.pone.0060942 >doi 10.1371/journal.pone.0060942</p>
+RegTransBase--a database of regulatory sequences and interactions based on literature: a resource for investigating transcriptional regulation in prokaryotes.
+Cipriano, M. J.; Novichkov, P. N.; Kazakov, A. E.; Rodionov, D. A.; Arkin, A. P.; Gelfand, M. S.; Dubchak, I.
+BMC Genomics. 2013 Apr 2;14:213. 
+http://www.ncbi.nlm.nih.gov/pubmed/23547897 
+http://dx.doi.org//10.1186/1471-2164-14-213 >doi 10.1186/1471-2164-14-213</p>
+Mitochondrially-encoded protein Var1 promotes loss of respiratory function in Saccharomyces cerevisiae under stressful conditions.
+Litvinchuk, A. V.; Sokolov, S. S.; Rogov, A. G.; Markova, O. V.; Knorre, D. A.; Severin, F. F.
+Eur J Cell Biol. 2013 Apr-May;92(4-5):169-74. 
+http://www.ncbi.nlm.nih.gov/pubmed/23523087 
+http://dx.doi.org//10.1016/j.ejcb.2013.02.001 >doi 10.1016/j.ejcb.2013.02.001</p>
+Collateral presentation of antigens as physiological prototype for lymph node metastases.
+Manskikh, V. N.; Perelmuter, V. M.
+Biochemistry (Mosc). 2013 Mar;78(3):314-23. 
+http://www.ncbi.nlm.nih.gov/pubmed/23586727 
+http://dx.doi.org//10.1134/S0006297913030152 >doi 10.1134/S0006297913030152</p>
+Statistical methods of comparative genomic analysis based on diffusion processes.
+Soldatov, R. A.; Mironov, A. A.
+Biofizika. 2013 Mar-Apr;58(2):203-9.
+http://www.ncbi.nlm.nih.gov/pubmed/23755544
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Evolution of cell division: from shear mechanics to complex molecular machineries.
+Koonin, E. V.; Mulkidjanian, A. Y.
+Cell. 2013 Feb 28;152(5):942-4. 
+http://www.ncbi.nlm.nih.gov/pubmed/23452845 
+http://dx.doi.org//10.1016/j.cell.2013.02.008 >doi 10.1016/j.cell.2013.02.008</p>
+Improving the dispersity of detonation nanodiamond: differential scanning calorimetry as a new method of controlling the aggregation state of nanodiamond powders.
+Korobov, M. V.; Volkov, D. S.; Avramenko, N. V.; Belyaeva, L. A.; Semenyuk, P. I.; Proskurnin, M. A.
+Nanoscale. 2013 Feb 21;5(4):1529-36. 
+http://www.ncbi.nlm.nih.gov/pubmed/23314800 
+http://dx.doi.org//10.1039/c2nr33512c >doi 10.1039/c2nr33512c</p>
+On the role of the mitochondrial 2-oxoglutarate dehydrogenase complex in amino acid metabolism.
+Araujo, W. L.; Trofimova, L.; Mkrtchyan, G.; Steinhauser, D.; Krall, L.; Graf, A.; Fernie, A. R.; Bunik, V. I.
+Amino Acids. 2013 Feb;44(2):683-700. 
+http://www.ncbi.nlm.nih.gov/pubmed/22983303 
+http://dx.doi.org//10.1007/s00726-012-1392-x >doi 10.1007/s00726-012-1392-x</p>
+Dynamics of bioenergetic microcompartments.
+Busch, K. B.; Deckers-Hebestreit, G.; Hanke, G. T.; Mulkidjanian, A. Y.
+Biol Chem. 2013 Feb;394(2):163-88. 
+http://www.ncbi.nlm.nih.gov/pubmed/23104839 
+http://dx.doi.org//10.1515/hsz-2012-0254 >doi 10.1515/hsz-2012-0254</p>
+Intron-centric estimation of alternative splicing from RNA-seq data.
+Pervouchine, D. D.; Knowles, D. G.; Guigo, R.
+Bioinformatics. 2013 Jan 15;29(2):273-4. 
+http://www.ncbi.nlm.nih.gov/pubmed/23172860 
+http://dx.doi.org//10.1093/bioinformatics/bts678 >doi 10.1093/bioinformatics/bts678</p>
+Comparative analysis of context-dependent mutagenesis using human and mouse models.
+Medvedeva, S. A.; Panchin, A. Y.; Alexeevski, A. V.; Spirin, S. A.; Panchin, Y. V.
+Biomed Res Int. 2013;2013:989410. 
+http://www.ncbi.nlm.nih.gov/pubmed/24058920 
+http://dx.doi.org//10.1155/2013/989410 >doi 10.1155/2013/989410</p>
+Molecular modeling of different substrate-binding modes and their role in penicillin acylase catalysis.
+Novikov, F. N.; Stroganov, O. V.; Khaliullin, I. G.; Panin, N. V.; Shapovalova, I. V.; Chilov, G. G.; Svedas, V. K.
+FEBS J. 2013 Jan;280(1):115-26. 
+http://www.ncbi.nlm.nih.gov/pubmed/23121694 
+http://dx.doi.org//10.1111/febs.12054 >doi 10.1111/febs.12054</p>
+Genome-Level Analysis of Selective Constraint without Apparent Sequence Conservation.
+Vakhrusheva, O. A.; Bazykin, G. A.; Kondrashov, A. S.
+Genome Biol Evol. 2013;5(3):532-41. 
+http://www.ncbi.nlm.nih.gov/pubmed/23418180 
+http://dx.doi.org//10.1093/gbe/evt023 >doi 10.1093/gbe/evt023</p>
+Strong mutational bias toward deletions in the Drosophila melanogaster genome is  compensated by selection.
+Leushkin, E. V.; Bazykin, G. A.; Kondrashov, A. S.
+Genome Biol Evol. 2013;5(3):514-24. 
+http://www.ncbi.nlm.nih.gov/pubmed/23395983 
+http://dx.doi.org//10.1093/gbe/evt021 >doi 10.1093/gbe/evt021</p>
+Up-regulation of 2-oxoglutarate dehydrogenase as a stress response.
+Graf, A.; Trofimova, L.; Loshinskaja, A.; Mkrtchyan, G.; Strokina, A.; Lovat, M.; Tylicky, A.; Strumilo, S.; Bettendorff, L.; Bunik, V. I.
+Int J Biochem Cell Biol. 2013 Jan;45(1):175-89. 
+http://www.ncbi.nlm.nih.gov/pubmed/22814169 
+http://dx.doi.org//10.1016/j.biocel.2012.07.002 >doi 10.1016/j.biocel.2012.07.002</p>
+Comparative analysis of context-dependent mutagenesis in humans and fruit flies.
+Medvedeva, S. A.; Panchin, A. Y.; Alexeevski, A. V.; Spirin, S. A.; Panchin, Y. V.
+Int J Genomics. 2013;2013:173616. 
+http://www.ncbi.nlm.nih.gov/pubmed/23984310 
+http://dx.doi.org//10.1155/2013/173616 >doi 10.1155/2013/173616</p>
+Evolution of the protein stoichiometry in the L12 stalk of bacterial and organellar ribosomes.
+Davydov, I. I.; Wohlgemuth, I.; Artamonova, I. I.; Urlaub, H.; Tonevitsky, A. G.; Rodnina, M. V.
+Nat Commun. 2013;4:1387. 
+http://www.ncbi.nlm.nih.gov/pubmed/23340427 
+http://dx.doi.org//10.1038/ncomms2373 >doi 10.1038/ncomms2373</p>
+NPIDB: Nucleic acid-Protein Interaction DataBase.
+Kirsanov, D. D.; Zanegina, O. N.; Aksianov, E. A.; Spirin, S. A.; Karyagina, A. S.; Alexeevski, A. V.
+Nucleic Acids Res. 2013 Jan;41(Database issue):D517-23. 
+http://www.ncbi.nlm.nih.gov/pubmed/23193292 
+http://dx.doi.org//10.1093/nar/gks1199 >doi 10.1093/nar/gks1199</p>
+Base-calling algorithm with vocabulary (BCV) method for analyzing population sequencing chromatograms.
+Fantin, Y. S.; Neverov, A. D.; Favorov, A. V.; Alvarez-Figueroa, M. V.; Braslavskaya, S. I.; Gordukova, M. A.; Karandashova, I. V.; Kuleshov, K. V.; Myznikova, A. I.; Polishchuk, M. S.; Reshetov, D. A.; Voiciehovskaya, Y. A.; Mironov, A. A.; Chulanov, V. P.
+PLoS One. 2013;8(1):e54835. 
+http://www.ncbi.nlm.nih.gov/pubmed/23382983 
+http://dx.doi.org//10.1371/journal.pone.0054835 >doi 10.1371/journal.pone.0054835</p>
+2012
+Programmed cell death in plants.
+Fomicheva, A. S.; Tuzhikov, A. I.; Beloshistov, R. E.; Trusova, S. V.; Galiullina, R. A.; Mochalova, L. V.; Chichkova, N. V.; Vartapetian, A. B.
+Biochemistry (Mosc). 2012 Dec;77(13):1452-64. 
+http://www.ncbi.nlm.nih.gov/pubmed/23379521 
+http://dx.doi.org//10.1134/S0006297912130044 >doi 10.1134/S0006297912130044</p>
+Genomic characterization of a newly discovered coronavirus associated with acute  respiratory distress syndrome in human
+van&nbsp;Boheemen, S.; de&nbsp;Graaf, M.; Lauber, C.; Bestebroer, T. M.; Raj, V. S.; Zaki, A. M.; Osterhaus, A. D.; Haagmans, B. L.; Gorbalenya, A. E.; Snijder, E. J.; Fouchier, R. A.
+MBio. 2012 Nov 20;3(6). pii: e00473-12. 
+http://www.ncbi.nlm.nih.gov/pubmed/23170002 
+http://dx.doi.org//10.1128/mBio.00473-12 >doi 10.1128/mBio.00473-12</p>
+Cryptic diversity of the 'cosmopolitan' harpacticoid copepod Nannopus palustris:  genetic and morphological evidence.
+Garlitska, L.; Neretina, T.; Schepetov, D.; Mugue, N.; De&nbsp;Troch, M.; Baguley, J. G.; Azovsky, A.
+Mol Ecol. 2012 Nov;21(21):5336-47. 
+http://www.ncbi.nlm.nih.gov/pubmed/22989315 
+http://dx.doi.org//10.1111/mec.12016 >doi 10.1111/mec.12016</p>
+Solitary restriction endonucleases in prokaryotic genomes.
+Ershova, A. S.; Karyagina, A. S.; Vasiliev, M. O.; Lyashchuk, A. M.; Lunin, V. G.; Spirin, S. A.; Alexeevski, A. V.
+Nucleic Acids Res. 2012 Nov 1;40(20):10107-15. 
+http://www.ncbi.nlm.nih.gov/pubmed/22965118 
+http://dx.doi.org//10.1093/nar/gks853 >doi 10.1093/nar/gks853</p>
+Bioinformatic analysis of alpha/beta-hydrolase fold enzymes reveals subfamily-specific positions responsible for discrimination of amidase and lipase activities.
+Suplatov, D. A.; Besenmatter, W.; Svedas, V. K.; Svendsen, A.
+Protein Eng Des Sel. 2012 Nov;25(11):689-97. 
+http://www.ncbi.nlm.nih.gov/pubmed/23043134 
+http://dx.doi.org//10.1093/protein/gzs068 >doi 10.1093/protein/gzs068</p>
+Sperm-specific glyceraldehyde-3-phosphate dehydrogenase is expressed in melanoma  cells.
+Sevostyanova, I. A.; Kulikova, K. V.; Kuravsky, M. L.; Schmalhausen, E. V.; Muronetz, V. I.
+Biochem Biophys Res Commun. 2012 Oct 26;427(3):649-53. 
+http://www.ncbi.nlm.nih.gov/pubmed/23026046 
+http://dx.doi.org//10.1016/j.bbrc.2012.09.115 >doi 10.1016/j.bbrc.2012.09.115</p>
+Fitness conferred by replaced amino acids declines with time.
+Naumenko, S. A.; Kondrashov, A. S.; Bazykin, G. A.
+Biol Lett. 2012 Oct 23;8(5):825-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/22628094 
+http://dx.doi.org//10.1098/rsbl.2012.0356 >doi 10.1098/rsbl.2012.0356</p>
+Evolution of transcriptional regulation in closely related bacteria.
+Tsoy, O. V.; Pyatnitskiy, M. A.; Kazanov, M. D.; Gelfand, M. S.
+BMC Evol Biol. 2012 Oct 6;12:200. 
+http://www.ncbi.nlm.nih.gov/pubmed/23039862 
+http://dx.doi.org//10.1186/1471-2148-12-200 >doi 10.1186/1471-2148-12-200</p>
+Identification of Novel RNA-Protein Contact in Complex of Ribosomal Protein S7 and 3'-Terminal Fragment of 16S rRNA in E. coli.
+Golovin, A. V.; Khayrullina, G. A.; Kraal, B.; Kopylov, C. A.
+Acta Naturae. 2012 Oct;4(4):65-72.
+http://www.ncbi.nlm.nih.gov/pubmed/23346381
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+N-homocysteinylation of ovine prion protein induces amyloid-like transformation.
+Stroylova, Y. Y.; Chobert, J. M.; Muronetz, V. I.; Jakubowski, H.; Haertle, T.
+Arch Biochem Biophys. 2012 Oct 1;526(1):29-37. 
+http://www.ncbi.nlm.nih.gov/pubmed/22782079 
+http://dx.doi.org//10.1016/j.abb.2012.06.008 >doi 10.1016/j.abb.2012.06.008</p>
+Open questions on the origin of life at anoxic geothermal fields.
+Mulkidjanian, A. Y.; Bychkov, A. Y.; Dibrova, D. V.; Galperin, M. Y.; Koonin, E. V.
+Orig Life Evol Biosph. 2012 Oct;42(5):507-16. 
+http://www.ncbi.nlm.nih.gov/pubmed/23132762 
+http://dx.doi.org//10.1007/s11084-012-9315-0 >doi 10.1007/s11084-012-9315-0</p>
+The role of energy in the emergence of biology from chemistry.
+Dibrova, D. V.; Chudetsky, M. Y.; Galperin, M. Y.; Koonin, E. V.; Mulkidjanian, A. Y.
+Orig Life Evol Biosph. 2012 Oct;42(5):459-68. 
+http://www.ncbi.nlm.nih.gov/pubmed/23100130 
+http://dx.doi.org//10.1007/s11084-012-9308-z >doi 10.1007/s11084-012-9308-z</p>
+Major role of positive selection in the evolution of conservative segments of Drosophila proteins.
+Bazykin, G. A.; Kondrashov, A. S.
+Proc Biol Sci. 2012 Sep 7;279(1742):3409-17. 
+http://www.ncbi.nlm.nih.gov/pubmed/22673359 
+http://dx.doi.org//10.1098/rspb.2012.0776 >doi 10.1098/rspb.2012.0776</p>
+Mild uncoupling of respiration and phosphorylation as a mechanism providing nephro- and neuroprotective effects of penetrating cations of the SkQ family.
+Plotnikov, E. Y.; Silachev, D. N.; Jankauskas, S. S.; Rokitskaya, T. I.; Chupyrkina, A. A.; Pevzner, I. B.; Zorova, L. D.; Isaev, N. K.; Antonenko, Y. N.; Skulachev, V. P.; Zorov, D. B.
+Biochemistry (Mosc). 2012 Sep;77(9):1029-37. 
+http://www.ncbi.nlm.nih.gov/pubmed/23157263 
+http://dx.doi.org//10.1134/S0006297912090106 >doi 10.1134/S0006297912090106</p>
+Genetics-based classification of filoviruses calls for expanded sampling of genomic sequences.
+Lauber, C.; Gorbalenya, A. E.
+Viruses. 2012 Sep;4(9):1425-37. 
+http://www.ncbi.nlm.nih.gov/pubmed/23170166 
+http://dx.doi.org//10.3390/v4091425 >doi 10.3390/v4091425</p>
+Insertions and deletions trigger adaptive walks in Drosophila proteins.
+Leushkin, E. V.; Bazykin, G. A.; Kondrashov, A. S.
+Proc Biol Sci. 2012 Aug 7;279(1740):3075-82. 
+http://www.ncbi.nlm.nih.gov/pubmed/22456880 
+http://dx.doi.org//10.1098/rspb.2011.2571 >doi 10.1098/rspb.2011.2571</p>
+Heterogeneity of the transition/transversion ratio in Drosophila and Hominidae genomes.
+Seplyarskiy, V. B.; Kharchenko, P.; Kondrashov, A. S.; Bazykin, G. A.
+Mol Biol Evol. 2012 Aug;29(8):1943-55. 
+http://www.ncbi.nlm.nih.gov/pubmed/22337862 
+http://dx.doi.org//10.1093/molbev/mss071 >doi 10.1093/molbev/mss071</p>
+Isolation of antibodies against different protein conformations using immunoaffinity chromatography.
+Kuravsky, M. L.; Schmalhausen, E. V.; Pozdnyakova, N. V.; Muronetz, V. I.
+Anal Biochem. 2012 Jul 1;426(1):47-53. 
+http://www.ncbi.nlm.nih.gov/pubmed/22484035 
+http://dx.doi.org//10.1016/j.ab.2012.03.026 >doi 10.1016/j.ab.2012.03.026</p>
+The phenoptosis problem: what is causing the death of an organism? Lessons from acute kidney injury.
+Zorov, D. B.; Plotnikov, E. Y.; Jankauskas, S. S.; Isaev, N. K.; Silachev, D. N.; Zorova, L. D.; Pevzner, I. B.; Pulkova, N. V.; Zorov, S. D.; Morosanova, M. A.
+Biochemistry (Mosc). 2012 Jul;77(7):742-53. 
+http://www.ncbi.nlm.nih.gov/pubmed/22817538 
+http://dx.doi.org//10.1134/S0006297912070073 >doi 10.1134/S0006297912070073</p>
+What is phenoptosis and how to fight it?
+Skulachev, V. P.
+Biochemistry (Mosc). 2012 Jul;77(7):689-706. 
+http://www.ncbi.nlm.nih.gov/pubmed/22817532 
+http://dx.doi.org//10.1134/S0006297912070012 >doi 10.1134/S0006297912070012</p>
+CORECLUST: identification of the conserved CRM grammar together with prediction of gene regulation.
+Nikulova, A. A.; Favorov, A. V.; Sutormin, R. A.; Makeev, V. J.; Mironov, A. A.
+Nucleic Acids Res. 2012 Jul;40(12):e93. 
+http://www.ncbi.nlm.nih.gov/pubmed/22422836 
+http://dx.doi.org//10.1093/nar/gks235 >doi 10.1093/nar/gks235</p>
+Mitochondria-targeted antioxidant SkQR1 ameliorates gentamycin-induced renal failure and hearing loss.
+Jankauskas, S. S.; Plotnikov, E. Y.; Morosanova, M. A.; Pevzner, I. B.; Zorova, L. D.; Skulachev, V. P.; Zorov, D. B.
+Biochemistry (Mosc). 2012 Jun;77(6):666-70. 
+http://www.ncbi.nlm.nih.gov/pubmed/22817467 
+http://dx.doi.org//10.1134/S0006297912060144 >doi 10.1134/S0006297912060144</p>
+Regulation and evolution of malonate and propionate catabolism in proteobacteria.
+Suvorova, I. A.; Ravcheev, D. A.; Gelfand, M. S.
+J Bacteriol. 2012 Jun;194(12):3234-40. 
+http://www.ncbi.nlm.nih.gov/pubmed/22505679 
+http://dx.doi.org//10.1128/JB.00163-12 >doi 10.1128/JB.00163-12</p>
+Suppression of injuries caused by a lytic RNA virus (mengovirus) and their uncoupling from viral reproduction by mutual cell/virus disarmament.
+Mikitas, O. V.; Ivin, Y. Y.; Golyshev, S. A.; Povarova, N. V.; Galkina, S. I.; Pletjushkina, O. Y.; Nadezhdina, E. S.; Gmyl, A. P.; Agol, V. I.
+J Virol. 2012 May;86(10):5574-83. 
+http://www.ncbi.nlm.nih.gov/pubmed/22438537 
+http://dx.doi.org//10.1128/JVI.07214-11 >doi 10.1128/JVI.07214-11</p>
+Exploring massive, genome scale datasets with the GenometriCorr package.
+Favorov, A.; Mularoni, L.; Cope, L. M.; Medvedeva, Y.; Mironov, A. A.; Makeev, V. J.; Wheelan, S. J.
+PLoS Comput Biol. 2012 May;8(5):e1002529. 
+http://www.ncbi.nlm.nih.gov/pubmed/22693437 
+http://dx.doi.org//10.1371/journal.pcbi.1002529 >doi 10.1371/journal.pcbi.1002529</p>
+Signatures of the ATP-binding pocket as a basis for structural classification of  the serine/threonine protein kinases of gram-positive bacteria.
+Zakharevich, N. V.; Osolodkin, D. I.; Artamonova, I. I.; Palyulin, V. A.; Zefirov, N. S.; Danilenko, V. N.
+Proteins. 2012 May;80(5):1363-76. 
+http://www.ncbi.nlm.nih.gov/pubmed/22275035 
+http://dx.doi.org//10.1002/prot.24032 >doi 10.1002/prot.24032</p>
+Biases in read coverage demonstrated by interlaboratory and interplatform comparison of 117 mRNA and genome sequencing experiments.
+Khrameeva, E. E.; Gelfand, M. S.
+BMC Bioinformatics. 2012 Apr 19;13 Suppl 6:S4. 
+http://www.ncbi.nlm.nih.gov/pubmed/22537043 
+http://dx.doi.org//10.1186/1471-2105-13-S6-S4 >doi 10.1186/1471-2105-13-S6-S4</p>
+Origin of first cells at terrestrial, anoxic geothermal fields.
+Mulkidjanian, A. Y.; Bychkov, A. Y.; Dibrova, D. V.; Galperin, M. Y.; Koonin, E. V.
+Proc Natl Acad Sci U S A. 2012 Apr 3;109(14):E821-30. 
+http://www.ncbi.nlm.nih.gov/pubmed/22331915 
+http://dx.doi.org//10.1073/pnas.1117774109 >doi 10.1073/pnas.1117774109</p>
+Construction of a Full-Atomic Mechanistic Model of Human Apurinic/Apyrimidinic Endonuclease APE1 for Virtual Screening of Novel Inhibitors.
+Khaliullin, I. G.; Nilov, D. K.; Shapovalova, I. V.; Svedas, V. K.
+Acta Naturae. 2012 Apr;4(2):80-6.
+http://www.ncbi.nlm.nih.gov/pubmed/22872814
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Molecular phylogenetics of Hydatellaceae (Nymphaeales): sexual-system homoplasy and a new sectional classification.
+Iles, W. J.; Rudall, P. J.; Sokoloff, D. D.; Remizowa, M. V.; Macfarlane, T. D.; Logacheva, M. D.; Graham, S. W.
+Am J Bot. 2012 Apr;99(4):663-76. 
+http://www.ncbi.nlm.nih.gov/pubmed/22473977 
+http://dx.doi.org//10.3732/ajb.1100524 >doi 10.3732/ajb.1100524</p>
+Toward genetics-based virus taxonomy: comparative analysis of a genetics-based classification and the taxonomy of picornaviruses.
+Lauber, C.; Gorbalenya, A. E.
+J Virol. 2012 Apr;86(7):3905-15. 
+http://www.ncbi.nlm.nih.gov/pubmed/22278238 
+http://dx.doi.org//10.1128/JVI.07174-11 >doi 10.1128/JVI.07174-11</p>
+Partitioning the genetic diversity of a virus family: approach and evaluation through a case study of picornaviruses.
+Lauber, C.; Gorbalenya, A. E.
+J Virol. 2012 Apr;86(7):3890-904. 
+http://www.ncbi.nlm.nih.gov/pubmed/22278230 
+http://dx.doi.org//10.1128/JVI.07173-11 >doi 10.1128/JVI.07173-11</p>
+Computer modeling of transketolase-like protein, TKTL1, a marker of certain tumor tissues.
+Maslova, A. O.; Meshalkina, L. E.; Kochetov, G. A.
+Biochemistry (Mosc). 2012 Mar;77(3):296-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/22803947 
+http://dx.doi.org//10.1134/S000629791203008X >doi 10.1134/S000629791203008X</p>
+Correlations between clusters of protein-DNA binding sites and the binding experimental data allow to predict a structure of regulatory modules.
+Nikulova, A. A.; Polishchuk, M. S.; Tumanian, V. G.; Makeev, V. I. u.; Mironov, A. A.; Favorov, A. V.
+Biofizika. 2012 Mar-Apr;57(2):212-4.
+http://www.ncbi.nlm.nih.gov/pubmed/22594275
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Temporal regulation of gene expression of the Escherichia coli bacteriophage phiEco32.
+Pavlova, O.; Lavysh, D.; Klimuk, E.; Djordjevic, M.; Ravcheev, D. A.; Gelfand, M. S.; Severinov, K.; Akulenko, N.
+J Mol Biol. 2012 Feb 24;416(3):389-99. 
+http://www.ncbi.nlm.nih.gov/pubmed/22261232 
+http://dx.doi.org//10.1016/j.jmb.2012.01.002 >doi 10.1016/j.jmb.2012.01.002</p>
+Rate and breadth of protein evolution are only weakly correlated.
+Naumenko, S. A.; Kondrashov, A. S.
+Biol Direct. 2012 Feb 15;7:8. 
+http://www.ncbi.nlm.nih.gov/pubmed/22336199 
+http://dx.doi.org//10.1186/1745-6150-7-8 >doi 10.1186/1745-6150-7-8</p>
+Sequence-structure relationships in yeast mRNAs.
+Chursov, A.; Walter, M. C.; Schmidt, T.; Mironov, A.; Shneider, A.; Frishman, D.
+Nucleic Acids Res. 2012 Feb;40(3):956-62. 
+http://www.ncbi.nlm.nih.gov/pubmed/21954438 
+http://dx.doi.org//10.1093/nar/gkr790 >doi 10.1093/nar/gkr790</p>
+Stimulation of kainate toxicity by zinc in cultured cerebellar granule neurons and the role of mitochondria in this process.
+Lozier, E. R.; Stelmashook, E. V.; Uzbekov, R. E.; Novikova, S. V.; Zorov, S. D.; Alieva, I. B.; Arbeille, B.; Zorov, D. B.; Isaev, N. K.
+Toxicol Lett. 2012 Jan 5;208(1):36-40. 
+http://www.ncbi.nlm.nih.gov/pubmed/22008730 
+http://dx.doi.org//10.1016/j.toxlet.2011.10.003 >doi 10.1016/j.toxlet.2011.10.003</p>
+Consequences of the alpha-ketoglutarate dehydrogenase inhibition for neuronal metabolism and survival: implications for neurodegenerative diseases.
+Trofimova, L. K.; Araujo, W. L.; Strokina, A. A.; Fernie, A. R.; Bettendorff, L.; Bunik, V. I.
+Curr Med Chem. 2012;19(34):5895-906.
+http://www.ncbi.nlm.nih.gov/pubmed/23061627
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Structural study of thrombin binding DNA aptamers by the circular dichroism.
+Yuminova, A. V.; Spiridonova, V. A.; Arutyunyan, A. M.; Kopylov, A. M.
+Dokl Biochem Biophys. 2012 Jan-Feb;442:36-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/22419092 
+http://dx.doi.org//10.1134/S1607672912010115 >doi 10.1134/S1607672912010115</p>
+Studying micro RNA Function and Dysfunction in Alzheimer's Disease.
+Lukiw, W. J.; Andreeva, T. V.; Grigorenko, A. P.; Rogaev, E. I.
+Front Genet. 2013 Feb 6;3:327. 
+http://www.ncbi.nlm.nih.gov/pubmed/23390425 
+http://dx.doi.org//10.3389/fgene.2012.00327 >doi 10.3389/fgene.2012.00327</p>
+Mitochondria-targeted antioxidants as promising drugs for treatment of age-related brain diseases.
+Skulachev, V. P.
+J Alzheimers Dis. 2012;28(2):283-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/21987592 
+http://dx.doi.org//10.3233/JAD-2011-111391 >doi 10.3233/JAD-2011-111391</p>
+Molecular modeling of formate dehydrogenase: the formation of the Michaelis complex.
+Nilov, D. K.; Shabalin, I. G.; Popov, V. O.; Svedas, V. K.
+J Biomol Struct Dyn. 2012;30(2):170-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/22702728 
+http://dx.doi.org//10.1080/07391102.2012.677768 >doi 10.1080/07391102.2012.677768</p>
+Human-specific histone methylation signatures at transcription start sites in prefrontal neurons.
+Shulha, H. P.; Crisci, J. L.; Reshetov, D.; Tushir, J. S.; Cheung, I.; Bharadwaj, R.; Chou, H. J.; Houston, I. B.; Peter, C. J.; Mitchell, A. C.; Yao, W. D.; Myers, R. H.; Chen, J. F.; Preuss, T. M.; Rogaev, E. I.; Jensen, J. D.; Weng, Z.; Akbarian, S.
+PLoS Biol. 2012;10(11):e1001427. 
+http://www.ncbi.nlm.nih.gov/pubmed/23185133 
+http://dx.doi.org//10.1371/journal.pbio.1001427 >doi 10.1371/journal.pbio.1001427</p>
+The mitochondria-targeted antioxidants and remote kidney preconditioning ameliorate brain damage through kidney-to-brain cross-talk.
+Silachev, D. N.; Isaev, N. K.; Pevzner, I. B.; Zorova, L. D.; Stelmashook, E. V.; Novikova, S. V.; Plotnikov, E. Y.; Skulachev, V. P.; Zorov, D. B.
+PLoS One. 2012;7(12):e51553. 
+http://www.ncbi.nlm.nih.gov/pubmed/23272118 
+http://dx.doi.org//10.1371/journal.pone.0051553 >doi 10.1371/journal.pone.0051553</p>
+Comparative genomics of CytR, an unusual member of the LacI family of transcription factors.
+Sernova, N. V.; Gelfand, M. S.
+PLoS One. 2012;7(9):e44194. 
+http://www.ncbi.nlm.nih.gov/pubmed/23028500 
+http://dx.doi.org//10.1371/journal.pone.0044194 >doi 10.1371/journal.pone.0044194</p>
+Glutamine versus ammonia utilization in the NAD synthetase family.
+De&nbsp;Ingeniis, J.; Kazanov, M. D.; Shatalin, K.; Gelfand, M. S.; Osterman, A. L.; Sorci, L.
+PLoS One. 2012;7(6):e39115. 
+http://www.ncbi.nlm.nih.gov/pubmed/22720044 
+http://dx.doi.org//10.1371/journal.pone.0039115 >doi 10.1371/journal.pone.0039115</p>
+Comparative analysis of gene expression level by quantitative real-time PCR has limited application in objects with different morphology.
+Demidenko, N. V.; Penin, A. A.
+PLoS One. 2012;7(5):e38161. 
+http://www.ncbi.nlm.nih.gov/pubmed/22666472 
+http://dx.doi.org//10.1371/journal.pone.0038161 >doi 10.1371/journal.pone.0038161</p>
+Spatial proximity and similarity of the epigenetic state of genome domains.
+Khrameeva, E. E.; Mironov, A. A.; Fedonin, G. G.; Khaitovich, P.; Gelfand, M. S.
+PLoS One. 2012;7(4):e33947. 
+http://www.ncbi.nlm.nih.gov/pubmed/22496774 
+http://dx.doi.org//10.1371/journal.pone.0033947 >doi 10.1371/journal.pone.0033947</p>
+Evidence for widespread association of mammalian splicing and conserved long-range RNA structures.
+Pervouchine, D. D.; Khrameeva, E. E.; Pichugina, M. Y.; Nikolaienko, O. V.; Gelfand, M. S.; Rubtsov, P. M.; Mironov, A. A.
+RNA. 2012 Jan;18(1):1-15. 
+http://www.ncbi.nlm.nih.gov/pubmed/22128342 
+http://dx.doi.org//10.1261/rna.029249.111 >doi 10.1261/rna.029249.111</p>
+2011
+Chaperonin TRiC assists the refolding of sperm-specific glyceraldehyde-3-phosphate dehydrogenase.
+Naletova, I. N.; Popova, K. M.; Eldarov, M. A.; Kuravsky, M. L.; Schmalhausen, E. V.; Sevostyanova, I. A.; Muronetz, V. I.
+Arch Biochem Biophys. 2011 Dec 1;516(1):75-83. 
+http://www.ncbi.nlm.nih.gov/pubmed/21995946 
+http://dx.doi.org//10.1016/j.abb.2011.09.010 >doi 10.1016/j.abb.2011.09.010</p>
+In vivo injected mitochondria-targeted plastoquinone antioxidant SkQR1 prevents beta-amyloid-induced decay of long-term potentiation in rat hippocampal slices.
+Kapay, N. A.; Isaev, N. K.; Stelmashook, E. V.; Popova, O. V.; Zorov, D. B.; Skrebitsky, V. G.; Skulachev, V. P.
+Biochemistry (Mosc). 2011 Dec;76(12):1367-70. 
+http://www.ncbi.nlm.nih.gov/pubmed/22150282 
+http://dx.doi.org//10.1134/S0006297911120108 >doi 10.1134/S0006297911120108</p>
+Chaperonins induce an amyloid-like transformation of ovine prion protein: the fundamental difference in action between eukaryotic TRiC and bacterial GroEL.
+Kiselev, G. G.; Naletova, I. N.; Sheval, E. V.; Stroylova, Y. Y.; Schmalhausen, E. V.; Haertle, T.; Muronetz, V. I.
+Biochim Biophys Acta. 2011 Dec;1814(12):1730-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/21856455 
+http://dx.doi.org//10.1016/j.bbapap.2011.08.006 >doi 10.1016/j.bbapap.2011.08.006</p>
+Cation binding to 15-TBA quadruplex DNA is a multiple-pathway cation-dependent process.
+Reshetnikov, R. V.; Sponer, J.; Rassokhina, O. I.; Kopylov, A. M.; Tsvetkov, P. O.; Makarov, A. A.; Golovin, A. V.
+Nucleic Acids Res. 2011 Dec;39(22):9789-802. 
+http://www.ncbi.nlm.nih.gov/pubmed/21893589 
+http://dx.doi.org//10.1093/nar/gkr639 >doi 10.1093/nar/gkr639</p>
+SkQ1 treatment and food restriction--two ways to retard an aging program of organisms.
+Skulachev, V. P.
+Aging (Albany NY). 2011 Nov;3(11):1045-50.
+http://www.ncbi.nlm.nih.gov/pubmed/22170754
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Effects of the mitochondria-targeted antioxidant SkQ1 on lifespan of rodents.
+Anisimov, V. N.; Egorov, M. V.; Krasilshchikova, M. S.; Lyamzaev, K. G.; Manskikh, V. N.; Moshkin, M. P.; Novikov, E. A.; Popovich, I. G.; Rogovin, K. A.; Shabalina, I. G.; Shekarova, O. N.; Skulachev, M. V.; Titova, T. V.; Vygodin, V. A.; Vyssokikh, M. Y.; Yurova, M. N.; Zabezhinsky, M. A.; Skulachev, V. P.
+Aging (Albany NY). 2011 Nov;3(11):1110-9.
+http://www.ncbi.nlm.nih.gov/pubmed/22166671
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Aging as a particular case of phenoptosis, the programmed death of an organism (a response to Kirkwood and Melov On the programmed/non-programmed nature of ageing within the life history).
+Skulachev, V. P.
+Aging (Albany NY). 2011 Nov;3(11):1120-3.
+http://www.ncbi.nlm.nih.gov/pubmed/22146104
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Design and validation of consensus-degenerate hybrid oligonucleotide primers for  broad and sensitive detection of corona- and toroviruses.
+Zlateva, K. T.; Crusio, K. M.; Leontovich, A. M.; Lauber, C.; Claas, E.; Kravchenko, A. A.; Spaan, W. J.; Gorbalenya, A. E.
+J Virol Methods. 2011 Nov;177(2):174-83. 
+http://www.ncbi.nlm.nih.gov/pubmed/21864579 
+http://dx.doi.org//10.1016/j.jviromet.2011.08.005 >doi 10.1016/j.jviromet.2011.08.005</p>
+Novel mitochondria-targeted antioxidants: plastoquinone conjugated with cationic  plant alkaloids berberine and palmatine.
+Lyamzaev, K. G.; Pustovidko, A. V.; Simonyan, R. A.; Rokitskaya, T. I.; Domnina, L. V.; Ivanova, O. Y.; Severina, I. I.; Sumbatyan, N. V.; Korshunova, G. A.; Tashlitsky, V. N.; Roginsky, V. A.; Antonenko, Y. N.; Skulachev, M. V.; Chernyak, B. V.; Skulachev, V. P.
+Pharm Res. 2011 Nov;28(11):2883-95. 
+http://www.ncbi.nlm.nih.gov/pubmed/21671134 
+http://dx.doi.org//10.1007/s11095-011-0504-8 >doi 10.1007/s11095-011-0504-8</p>
+Novel mechanism of Hsp70 chaperone-mediated prevention of polyglutamine aggregates in a cellular model of huntington disease.
+Guzhova, I. V.; Lazarev, V. F.; Kaznacheeva, A. V.; Ippolitova, M. V.; Muronetz, V. I.; Kinev, A. V.; Margulis, B. A.
+Hum Mol Genet. 2011 Oct 15;20(20):3953-63. 
+http://www.ncbi.nlm.nih.gov/pubmed/21775503 
+http://dx.doi.org//10.1093/hmg/ddr314 >doi 10.1093/hmg/ddr314</p>
+Aggregation and structural changes of alpha(S1)-, beta- and kappa-caseins induced by homocysteinylation.
+Stroylova, Y. Y.; Zimny, J.; Yousefi, R.; Chobert, J. M.; Jakubowski, H.; Muronetz, V. I.; Haertle, T.
+Biochim Biophys Acta. 2011 Oct;1814(10):1234-45. 
+http://www.ncbi.nlm.nih.gov/pubmed/21689790 
+http://dx.doi.org//10.1016/j.bbapap.2011.05.017 >doi 10.1016/j.bbapap.2011.05.017</p>
+Selective permeabilization of lipid membranes by photodynamic action via formation of hydrophobic defects or pre-pores.
+Kotova, E. A.; Kuzevanov, A. V.; Pashkovskaya, A. A.; Antonenko, Y. N.
+Biochim Biophys Acta. 2011 Sep;1808(9):2252-7. 
+http://www.ncbi.nlm.nih.gov/pubmed/21663731 
+http://dx.doi.org//10.1016/j.bbamem.2011.05.018 >doi 10.1016/j.bbamem.2011.05.018</p>
+Complete genome and proteome of Acholeplasma laidlawii.
+Lazarev, V. N.; Levitskii, S. A.; Basovskii, Y. I.; Chukin, M. M.; Akopian, T. A.; Vereshchagin, V. V.; Kostrjukova, E. S.; Kovaleva, G. Y.; Kazanov, M. D.; Malko, D. B.; Vitreschak, A. G.; Sernova, N. V.; Gelfand, M. S.; Demina, I. A.; Serebryakova, M. V.; Galyamina, M. A.; Vtyurin, N. N.; Rogov, S. I.; Alexeev, D. G.; Ladygina, V. G.; Govorun, V. M.
+J Bacteriol. 2011 Sep;193(18):4943-53. 
+http://www.ncbi.nlm.nih.gov/pubmed/21784942 
+http://dx.doi.org//10.1128/JB.05059-11 >doi 10.1128/JB.05059-11</p>
+Role of glutamine in neuronal survival and death during brain ischemia and hypoglycemia.
+Stelmashook, E. V.; Isaev, N. K.; Lozier, E. R.; Goryacheva, E. S.; Khaspekov, L. G.
+Int J Neurosci. 2011 Aug;121(8):415-22. 
+http://www.ncbi.nlm.nih.gov/pubmed/21574892 
+http://dx.doi.org//10.3109/00207454.2011.570464 >doi 10.3109/00207454.2011.570464</p>
+Comparative genomic analysis of the hexuronate metabolism genes and their regulation in gammaproteobacteria.
+Suvorova, I. A.; Tutukina, M. N.; Ravcheev, D. A.; Rodionov, D. A.; Ozoline, O. N.; Gelfand, M. S.
+J Bacteriol. 2011 Aug;193(15):3956-63. 
+http://www.ncbi.nlm.nih.gov/pubmed/21622752 
+http://dx.doi.org//10.1128/JB.00277-11 >doi 10.1128/JB.00277-11</p>
+Correlation between number and position of floral organs in Arabidopsis.
+Penin, A. A.; Logacheva, M. D.
+Ann Bot. 2011 Jul;108(1):123-31. 
+http://www.ncbi.nlm.nih.gov/pubmed/21693667 
+http://dx.doi.org//10.1093/aob/mcr115 >doi 10.1093/aob/mcr115</p>
+Linker and/or transmembrane regions of influenza A/Group-1, A/Group-2, and type B virus hemagglutinins are packed differently within trimers.
+Kordyukova, L. V.; Serebryakova, M. V.; Polyansky, A. A.; Kropotkina, E. A.; Alexeevski, A. V.; Veit, M.; Efremov, R. G.; Filippova, I. Y.; Baratova, L. A.
+Biochim Biophys Acta. 2011 Jul;1808(7):1843-54. 
+http://www.ncbi.nlm.nih.gov/pubmed/21420932 
+http://dx.doi.org//10.1016/j.bbamem.2011.03.005 >doi 10.1016/j.bbamem.2011.03.005</p>
+Comparative genomics of the dormancy regulons in mycobacteria.
+Gerasimova, A.; Kazakov, A. E.; Arkin, A. P.; Dubchak, I.; Gelfand, M. S.
+J Bacteriol. 2011 Jul;193(14):3446-52. 
+http://www.ncbi.nlm.nih.gov/pubmed/21602344 
+http://dx.doi.org//10.1128/JB.00179-11 >doi 10.1128/JB.00179-11</p>
+Machine learning study of DNA binding by transcription factors from the LacI family.
+Fedonin, G. G.; Rakhmaninova, A. B.; Korostelev, I. u. D.; Laikova, O. N.; Gel'fand, M. S.
+Mol Biol (Mosk). 2011 Jul-Aug;45(4):724-37.
+http://www.ncbi.nlm.nih.gov/pubmed/21954606
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Regulation of multidrug resistance genes by transcriptional factors from the BltR subfamily.
+Zharov, I. A.; Gel'fand, M. S.; Kazakov, A. E.
+Mol Biol (Mosk). 2011 Jul-Aug;45(4):715-23.
+http://www.ncbi.nlm.nih.gov/pubmed/21954605
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Prothymosin alpha interacts with C-terminal domain of histone H1 and dissociates p53-histone H1 complex.
+Zakharova, N. I.; Sokolov, V. V.; Suvorova, A. A.; Shiau, A. I.; Wu, C. L.; Efstaf'eva, A. G.
+Mol Biol (Mosk). 2011 Jul-Aug;45(4):679-88.
+http://www.ncbi.nlm.nih.gov/pubmed/21954601
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Crosslinking of (cytosine-5)-DNA methyltransferase SsoII and its complexes with specific DNA duplexes provides an insight into their structures.
+Ryazanova, A. Y.; Winkler, I.; Friedhoff, P.; Viryasov, M. B.; Oretskaya, T. S.; Kubareva, E. A.
+Nucleosides Nucleotides Nucleic Acids. 2011 Jul-Aug;30(7-8):632-50. 
+http://www.ncbi.nlm.nih.gov/pubmed/21888553 
+http://dx.doi.org//10.1080/15257770.2011.584339 >doi 10.1080/15257770.2011.584339</p>
+New words in human mutagenesis.
+Panchin, A. Y.; Mitrofanov, S. I.; Alexeevski, A. V.; Spirin, S. A.; Panchin, Y. V.
+BMC Bioinformatics. 2011 Jun 30;12:268. 
+http://www.ncbi.nlm.nih.gov/pubmed/21718472 
+http://dx.doi.org//10.1186/1471-2105-12-268 >doi 10.1186/1471-2105-12-268</p>
+Comparative genomic reconstruction of transcriptional networks controlling central metabolism in the Shewanella genus.
+Rodionov, D. A.; Novichkov, P. S.; Stavrovskaya, E. D.; Rodionova, I. A.; Li, X.; Kazanov, M. D.; Ravcheev, D. A.; Gerasimova, A. V.; Kazakov, A. E.; Kovaleva, G. Y.; Permina, E. A.; Laikova, O. N.; Overbeek, R.; Romine, M. F.; Fredrickson, J. K.; Arkin, A. P.; Dubchak, I.; Osterman, A. L.; Gelfand, M. S.
+BMC Genomics. 2011 Jun 15;12 Suppl 1:S3. 
+http://www.ncbi.nlm.nih.gov/pubmed/21810205 
+http://dx.doi.org//10.1186/1471-2164-12-S1-S3 >doi 10.1186/1471-2164-12-S1-S3</p>
+Testis-specific glyceraldehyde-3-phosphate dehydrogenase: origin and evolution.
+Kuravsky, M. L.; Aleshin, V. V.; Frishman, D.; Muronetz, V. I.
+BMC Evol Biol. 2011 Jun 10;11:160. 
+http://www.ncbi.nlm.nih.gov/pubmed/21663662 
+http://dx.doi.org//10.1186/1471-2148-11-160 >doi 10.1186/1471-2148-11-160</p>
+Mitochondrial-targeted plastoquinone derivatives. Effect on senescence and acute  age-related pathologies.
+Skulachev, M. V.; Antonenko, Y. N.; Anisimov, V. N.; Chernyak, B. V.; Cherepanov, D. A.; Chistyakov, V. A.; Egorov, M. V.; Kolosova, N. G.; Korshunova, G. A.; Lyamzaev, K. G.; Plotnikov, E. Y.; Roginsky, V. A.; Savchenko, A. Y.; Severina, I. I.; Severin, F. F.; Shkurat, T. P.; Tashlitsky, V. N.; Shidlovsky, K. M.; Vyssokikh, M. Y.; Zamyatnin&nbsp;AA, J. r.; Zorov, D. B.; Skulachev, V. P.
+Curr Drug Targets. 2011 Jun;12(6):800-26.
+http://www.ncbi.nlm.nih.gov/pubmed/21269268
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Poly(ADP-ribosyl)ation of mannose-binding lectin out of human kidney cells.
+Sidorova, N. N.; Kurchashova, S. Y.; Yarahmedov, T. Y.; Ziganshin, R. H.; Kuimov, A. N.
+Mol Cell Biochem. 2011 Jun;352(1-2):231-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/21380727 
+http://dx.doi.org//10.1007/s11010-011-0758-9 >doi 10.1007/s11010-011-0758-9</p>
+Derivatives of rhodamine 19 as mild mitochondria-targeted cationic uncouplers.
+Antonenko, Y. N.; Avetisyan, A. V.; Cherepanov, D. A.; Knorre, D. A.; Korshunova, G. A.; Markova, O. V.; Ojovan, S. M.; Perevoshchikova, I. V.; Pustovidko, A. V.; Rokitskaya, T. I.; Severina, I. I.; Simonyan, R. A.; Smirnova, E. A.; Sobko, A. A.; Sumbatyan, N. V.; Severin, F. F.; Skulachev, V. P.
+J Biol Chem. 2011 May 20;286(20):17831-40. 
+http://www.ncbi.nlm.nih.gov/pubmed/21454507 
+http://dx.doi.org//10.1074/jbc.M110.212837 >doi 10.1074/jbc.M110.212837</p>
+Selection and validation of reference genes for quantitative real-time PCR in buckwheat (Fagopyrum esculentum) based on transcriptome sequence data.
+Demidenko, N. V.; Logacheva, M. D.; Penin, A. A.
+PLoS One. 2011 May 12;6(5):e19434. 
+http://www.ncbi.nlm.nih.gov/pubmed/21589908 
+http://dx.doi.org//10.1371/journal.pone.0019434 >doi 10.1371/journal.pone.0019434</p>
+Improved procedure of the search for poly(ADP-ribose) polymerase-1 potential inhibitors with use of molecular docking approach.
+Zakharenko, A. L.; Sukhanova, M. V.; Khodyreva, S. N.; Novikov, F. N.; Stroilov, V. S.; Nilov, D. K.; Chilov, G. G.; Shviadas, V. K.; Lavrik, O. I.
+Mol Biol (Mosk). 2011 May-Jun;45(3):565-9.
+http://www.ncbi.nlm.nih.gov/pubmed/21790020
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+On the relationship between the load and the variance of relative fitness.
+Shnol, E. E.; Ermakova, E. A.; Kondrashov, A. S.
+Biol Direct. 2011 Apr 14;6:20. 
+http://www.ncbi.nlm.nih.gov/pubmed/21492441 
+http://dx.doi.org//10.1186/1745-6150-6-20 >doi 10.1186/1745-6150-6-20</p>
+Quasi-equilibrium assumption for arbitrary mechanism of enzymatic reaction. Criteria for existence of equilibrium segments.
+Vrzheshch, P. V.
+Biochemistry (Mosc). 2011 Apr;76(4):491-2.
+http://www.ncbi.nlm.nih.gov/pubmed/21585326
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Accumulation of dodecyltriphenylphosphonium in mitochondria induces their swelling and ROS-dependent growth inhibition in yeast.
+Ojovan, S. M.; Knorre, D. A.; Markova, O. V.; Smirnova, E. A.; Bakeeva, L. E.; Severin, F. F.
+J Bioenerg Biomembr. 2011 Apr;43(2):175-80. 
+http://www.ncbi.nlm.nih.gov/pubmed/21360288 
+http://dx.doi.org//10.1007/s10863-011-9345-8 >doi 10.1007/s10863-011-9345-8</p>
+Zinc-induced dimerization of the amyloid-beta metal-binding domain 1-16 is mediated by residues 11-14.
+Kozin, S. A.; Mezentsev, Y. V.; Kulikova, A. A.; Indeykina, M. I.; Golovin, A. V.; Ivanov, A. S.; Tsvetkov, P. O.; Makarov, A. A.
+Mol Biosyst. 2011 Apr;7(4):1053-5. 
+http://www.ncbi.nlm.nih.gov/pubmed/21350790 
+http://dx.doi.org//10.1039/c0mb00334d >doi 10.1039/c0mb00334d</p>
+The study of the interaction of (cytosine-5)-DNA methyltransferase SsoII with DNA by acoustic method.
+Ryazanova, A. Y.; Kubareva, E. A.; Grman, I.; Lavrova, N. V.; Ryazanova, E. M.; Oretskaya, T. S.; Hianik, T.
+Analyst. 2011 Mar 21;136(6):1227-33. 
+http://www.ncbi.nlm.nih.gov/pubmed/21274469 
+http://dx.doi.org//10.1039/c0an00545b >doi 10.1039/c0an00545b</p>
+Evolutionary patterns of phosphorylated serines.
+Kurmangaliyev, Y. Z.; Goland, A.; Gelfand, M. S.
+Biol Direct. 2011 Feb 9;6:8. 
+http://www.ncbi.nlm.nih.gov/pubmed/21306633 
+http://dx.doi.org//10.1186/1745-6150-6-8 >doi 10.1186/1745-6150-6-8</p>
+Oxidation of glyceraldehyde-3-phosphate dehydrogenase decreases sperm motility.
+Elkina, Y. L.; Atroshchenko, M. M.; Bragina, E. E.; Muronetz, V. I.; Schmalhausen, E. V.
+Biochemistry (Mosc). 2011 Feb;76(2):268-72.
+http://www.ncbi.nlm.nih.gov/pubmed/21568861
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Investigation of formate transport through the substrate channel of formate dehydrogenase by steered molecular dynamics simulations.
+Nilov, D. K.; Shabalin, I. G.; Popov, V. O.; Svedas, V. K.
+Biochemistry (Mosc). 2011 Feb;76(2):172-4.
+http://www.ncbi.nlm.nih.gov/pubmed/21568849
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Physiological scenarios of programmed loss of mitochondrial DNA function and death of yeast.
+Kochmak, S. A.; Knorre, D. A.; Sokolov, S. S.; Severin, F. F.
+Biochemistry (Mosc). 2011 Feb;76(2):167-71.
+http://www.ncbi.nlm.nih.gov/pubmed/21568848
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Evolution of prokaryotic genes by shift of stop codons.
+Vakhrusheva, A. A.; Kazanov, M. D.; Mironov, A. A.; Bazykin, G. A.
+J Mol Evol. 2011 Feb;72(2):138-46. 
+http://www.ncbi.nlm.nih.gov/pubmed/21082168 
+http://dx.doi.org//10.1007/s00239-010-9408-1 >doi 10.1007/s00239-010-9408-1</p>
+De novo sequencing and characterization of floral transcriptome in two species of buckwheat (Fagopyrum).
+Logacheva, M. D.; Kasianov, A. S.; Vinogradov, D. V.; Samigullin, T. H.; Gelfand, M. S.; Makeev, V. J.; Penin, A. A.
+BMC Genomics. 2011 Jan 13;12:30. 
+http://www.ncbi.nlm.nih.gov/pubmed/21232141 
+http://dx.doi.org//10.1186/1471-2164-12-30 >doi 10.1186/1471-2164-12-30</p>
+A survey of oxidative paracatalytic reactions catalyzed by enzymes that generate  carbanionic intermediates: implications for ROS production, cancer etiology, and  neurodegenerative diseases.
+Bunik, V. I.; Schloss, J. V.; Pinto, J. T.; Dudareva, N.; Cooper, A. J.
+Adv Enzymol Relat Areas Mol Biol. 2011;77:307-60.
+http://www.ncbi.nlm.nih.gov/pubmed/21692372
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Nucleolar localization/retention signal is responsible for transient accumulation of histone H2B in the nucleolus through electrostatic interactions.
+Musinova, Y. R.; Lisitsyna, O. M.; Golyshev, S. A.; Tuzhikov, A. I.; Polyakov, V. Y.; Sheval, E. V.
+Biochim Biophys Acta. 2011 Jan;1813(1):27-38. 
+http://www.ncbi.nlm.nih.gov/pubmed/21095207 
+http://dx.doi.org//10.1016/j.bbamcr.2010.11.003 >doi 10.1016/j.bbamcr.2010.11.003</p>
+Novel modular DNA aptamer for human thrombin with high anticoagulant activity.
+Zavyalova, E.; Golovin, A.; Reshetnikov, R.; Mudrik, N.; Panteleyev, D.; Pavlova, G.; Kopylov, A.
+Curr Med Chem. 2011;18(22):3343-50.
+http://www.ncbi.nlm.nih.gov/pubmed/21728967
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Sequencing and analysis of plastid genome in mycoheterotrophic orchid Neottia nidus-avis.
+Logacheva, M. D.; Schelkunov, M. I.; Penin, A. A.
+Genome Biol Evol. 2011;3:1296-303. 
+http://www.ncbi.nlm.nih.gov/pubmed/21971517 
+http://dx.doi.org//10.1093/gbe/evr102 >doi 10.1093/gbe/evr102</p>
+Detecting past positive selection through ongoing negative selection.
+Bazykin, G. A.; Kondrashov, A. S.
+Genome Biol Evol. 2011;3:1006-13. 
+http://www.ncbi.nlm.nih.gov/pubmed/21859804 
+http://dx.doi.org//10.1093/gbe/evr086 >doi 10.1093/gbe/evr086</p>
+Self-organization of cellular structures induced by the overexpression of nuclear envelope proteins: a correlative light and electron microscopy study.
+Volkova, E. G.; Kurchashova, S. Y.; Polyakov, V. Y.; Sheval, E. V.
+J Electron Microsc (Tokyo). 2011;60(1):57-71. 
+http://www.ncbi.nlm.nih.gov/pubmed/20926432 
+http://dx.doi.org//10.1093/jmicro/dfq067 >doi 10.1093/jmicro/dfq067</p>
+System of innate immunity in plants.
+Vakhrusheva, O. A.; Nedospasov, S. A.
+Mol Biol (Mosk). 2011 Jan-Feb;45(1):20-9.
+http://www.ncbi.nlm.nih.gov/pubmed/21485494
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Alternative translation start sites are conserved in eukaryotic genomes.
+Bazykin, G. A.; Kochetov, A. V.
+Nucleic Acids Res. 2011 Jan;39(2):567-77. 
+http://www.ncbi.nlm.nih.gov/pubmed/20864444 
+http://dx.doi.org//10.1093/nar/gkq806 >doi 10.1093/nar/gkq806</p>
+2010
+Novel inhibitors of glyceraldehyde-3-phosphate dehydrogenase: covalent modification of NAD-binding site by aromatic thiols.
+Chernorizov, K. A.; Elkina, J. L.; Semenyuk, P. I.; Svedas, V. K.; Muronetz, V. I.
+Biochemistry (Mosc). 2010 Dec;75(12):1444-9.
+http://www.ncbi.nlm.nih.gov/pubmed/21314614
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Recombinant human sperm-specific glyceraldehyde-3-phosphate dehydrogenase: structural basis for enhanced stability.
+Elkina, Y. L.; Kuravsky, M. L.; El'darov, M. A.; Stogov, S. V.; Muronetz, V. I.; Schmalhausen, E. V.
+Biochim Biophys Acta. 2010 Dec;1804(12):2207-12. 
+http://www.ncbi.nlm.nih.gov/pubmed/20833277 
+http://dx.doi.org//10.1016/j.bbapap.2010.09.002 >doi 10.1016/j.bbapap.2010.09.002</p>
+Minimal Zn(2+) binding site of amyloid-beta.
+Tsvetkov, P. O.; Kulikova, A. A.; Golovin, A. V.; Tkachev, Y. V.; Archakov, A. I.; Kozin, S. A.; Makarov, A. A.
+Biophys J. 2010 Nov 17;99(10):L84-6. 
+http://www.ncbi.nlm.nih.gov/pubmed/21081056 
+http://dx.doi.org//10.1016/j.bpj.2010.09.015 >doi 10.1016/j.bpj.2010.09.015</p>
+Sir2-dependent daughter-to-mother transport of the damaged proteins in yeast is required to prevent high stress sensitivity of the daughters.
+Knorre, D. A.; Kulemzina, I. A.; Sorokin, M. I.; Kochmak, S. A.; Bocharova, N. A.; Sokolov, S. S.; Severin, F. F.
+Cell Cycle. 2010 Nov 15;9(22):4501-5.
+http://www.ncbi.nlm.nih.gov/pubmed/21084861
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+The quasi-equilibrium assumption for Bi-Bi ordered bisubstrate enzymatic reaction. How to discriminate the mechanism correctly.
+Vrzheshch, P. V.
+Biochemistry (Mosc). 2010 Nov;75(11):1374-82.
+http://www.ncbi.nlm.nih.gov/pubmed/21314605
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Inhibition of cyclooxygenase activity of prostaglandin-H-synthase by excess substrate (molecular oxygen).
+Trushkin, N. A.; Filimonov, I. S.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2010 Nov;75(11):1368-73.
+http://www.ncbi.nlm.nih.gov/pubmed/21314604
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Aberrant demethylation of the recoverin gene is involved in the aberrant expression of recoverin in cancer cells.
+Bazhin, A. V.; De&nbsp;Smet, C.; Golovastova, M. O.; Schmidt, J.; Philippov, P. P.
+Exp Dermatol. 2010 Nov;19(11):1023-5. 
+http://www.ncbi.nlm.nih.gov/pubmed/20812967 
+http://dx.doi.org//10.1111/j.1600-0625.2010.01126.x >doi 10.1111/j.1600-0625.2010.01126.x</p>
+Restriction-modification systems and bacteriophage invasion: who wins?
+Enikeeva, F. N.; Severinov, K. V.; Gelfand, M. S.
+J Theor Biol. 2010 Oct 21;266(4):550-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/20633563 
+http://dx.doi.org//10.1016/j.jtbi.2010.07.006 >doi 10.1016/j.jtbi.2010.07.006</p>
+Asymmetric and non-uniform evolution of recently duplicated human genes.
+Panchin, A. Y.; Gelfand, M. S.; Ramensky, V. E.; Artamonova, I. I.
+Biol Direct. 2010 Sep 8;5:54. 
+http://www.ncbi.nlm.nih.gov/pubmed/20825637 
+http://dx.doi.org//10.1186/1745-6150-5-54 >doi 10.1186/1745-6150-5-54</p>
+Secondary structure of SsoII-like (cytosine-5)-DNA methyltransferases N-terminal region determined by circular dichroism spectroscopy.
+Riazanova, A. I. u.; Molochkov, N. V.; Abrosimova, L. A.; Alekseevskii, A. V.; Kariagina, A. S.; Protsenko, A. S.; Friedhoff, P.; Oretskaia, T. S.; Kubareva, E. A.
+Mol Biol (Mosk). 2010 Sep-Oct;44(5):911-21.
+http://www.ncbi.nlm.nih.gov/pubmed/21090246
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparison of models of thrombin-binding 15-mer DNA aptamer by molecular dynamics simulation.
+Reshetnikov, R. V.; Golovin, A. V.; Kopylov, A. M.
+Biochemistry (Mosc). 2010 Aug;75(8):1017-24.
+http://www.ncbi.nlm.nih.gov/pubmed/21073423
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+An automated stochastic approach to the identification of the protein specificity determinants and functional subfamilies.
+Mazin, P. V.; Gelfand, M. S.; Mironov, A. A.; Rakhmaninova, A. B.; Rubinov, A. R.; Russell, R. B.; Kalinina, O. V.
+Algorithms Mol Biol. 2010 Jul 15;5:29. 
+http://www.ncbi.nlm.nih.gov/pubmed/20633297 
+http://dx.doi.org//10.1186/1748-7188-5-29 >doi 10.1186/1748-7188-5-29</p>
+Water replacement hypothesis in atomic details: effect of trehalose on the structure of single dehydrated POPC bilayers.
+Golovina, E. A.; Golovin, A.; Hoekstra, F. A.; Faller, R.
+Langmuir. 2010 Jul 6;26(13):11118-26. 
+http://www.ncbi.nlm.nih.gov/pubmed/20550154 
+http://dx.doi.org//10.1021/la100891x >doi 10.1021/la100891x</p>
+Mapping the ribosomal protein S7 regulatory binding site on mRNA of the E. coli streptomycin operon.
+Surdina, A. V.; Rassokhin, T. I.; Golovin, A. V.; Spiridonova, V. A.; Kopylov, A. M.
+Biochemistry (Mosc). 2010 Jul;75(7):841-50.
+http://www.ncbi.nlm.nih.gov/pubmed/20673207
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Trans-translation: facts and hypothesis.
+Shpanchenko, O. V.; Bugaeva, E. I. u.; Golovin, A. V.; Dontsova, O. A.
+Mol Biol (Mosk). 2010 Jul-Aug;44(4):563-72.
+http://www.ncbi.nlm.nih.gov/pubmed/20873214
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+RegPredict: an integrated system for regulon inference in prokaryotes by comparative genomics approach.
+Novichkov, P. S.; Rodionov, D. A.; Stavrovskaya, E. D.; Novichkova, E. S.; Kazakov, A. E.; Gelfand, M. S.; Arkin, A. P.; Mironov, A. A.; Dubchak, I.
+Nucleic Acids Res. 2010 Jul;38(Web Server issue):W299-307. 
+http://www.ncbi.nlm.nih.gov/pubmed/20542910 
+http://dx.doi.org//10.1093/nar/gkq531 >doi 10.1093/nar/gkq531</p>
+Characterization of the N-ATPase, a distinct, laterally transferred Na+-translocating form of the bacterial F-type membrane ATPase.
+Dibrova, D. V.; Galperin, M. Y.; Mulkidjanian, A. Y.
+Bioinformatics. 2010 Jun 15;26(12):1473-6. 
+http://www.ncbi.nlm.nih.gov/pubmed/20472544 
+http://dx.doi.org//10.1093/bioinformatics/btq234 >doi 10.1093/bioinformatics/btq234</p>
+Hexokinase inhibits flux of fluorescently labeled ATP through mitochondrial outer membrane porin.
+Perevoshchikova, I. V.; Zorov, S. D.; Kotova, E. A.; Zorov, D. B.; Antonenko, Y. N.
+FEBS Lett. 2010 Jun 3;584(11):2397-402. 
+http://www.ncbi.nlm.nih.gov/pubmed/20412805 
+http://dx.doi.org//10.1016/j.febslet.2010.04.033 >doi 10.1016/j.febslet.2010.04.033</p>
+Prevention of cardiolipin oxidation and fatty acid cycling as two antioxidant mechanisms of cationic derivatives of plastoquinone (SkQs).
+Skulachev, V. P.; Antonenko, Y. N.; Cherepanov, D. A.; Chernyak, B. V.; Izyumov, D. S.; Khailova, L. S.; Klishin, S. S.; Korshunova, G. A.; Lyamzaev, K. G.; Pletjushkina, O. Y.; Roginsky, V. A.; Rokitskaya, T. I.; Severin, F. F.; Severina, I. I.; Simonyan, R. A.; Skulachev, M. V.; Sumbatyan, N. V.; Sukhanova, E. I.; Tashlitsky, V. N.; Trendeleva, T. A.; Vyssokikh, M. Y.; Zvyagilskaya, R. A.
+Biochim Biophys Acta. 2010 Jun-Jul;1797(6-7):878-89. 
+http://www.ncbi.nlm.nih.gov/pubmed/20307489 
+http://dx.doi.org//10.1016/j.bbabio.2010.03.015 >doi 10.1016/j.bbabio.2010.03.015</p>
+Effect of 2-hydroxypropyl-beta-cyclodextrin on thermal inactivation, denaturation and aggregation of glyceraldehyde-3-phosphate dehydrogenase from rabbit skeletal  muscle.
+Maloletkina, O. I.; Markossian, K. A.; Asryants, R. A.; Semenyuk, P. I.; Makeeva, V. F.; Kurganov, B. I.
+Int J Biol Macromol. 2010 Jun;46(5):487-92. 
+http://www.ncbi.nlm.nih.gov/pubmed/20338194 
+http://dx.doi.org//10.1016/j.ijbiomac.2010.03.008 >doi 10.1016/j.ijbiomac.2010.03.008</p>
+Exclusive sequences of different genomes.
+Mitrofanov, S. I.; Panchin, A. Y.; Spirin, S. A.; Alexeevski, A. V.; Panchin, Y. V.
+J Bioinform Comput Biol. 2010 Jun;8(3):519-34.
+http://www.ncbi.nlm.nih.gov/pubmed/20556860
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Malakite: an automatic tool for characterisation of structure of reliable blocks  in multiple alignments of protein sequences.
+Burkov, B.; Nagaev, B.; Spirin, S.; Alexeevski, A.
+J Bioinform Comput Biol. 2010 Jun;8(3):503-17.
+http://www.ncbi.nlm.nih.gov/pubmed/20556859
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Interaction of antibodies with aromatic ligands: the role of pi-stacking.
+Arzhanik, V.; Svistunova, D.; Koliasnikov, O.; Egorov, A. M.
+J Bioinform Comput Biol. 2010 Jun;8(3):471-83.
+http://www.ncbi.nlm.nih.gov/pubmed/20556857
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Stepwise mechanism for transcription fidelity.
+Yuzenkova, Y.; Bochkareva, A.; Tadigotla, V. R.; Roghanian, M.; Zorov, S.; Severinov, K.; Zenkin, N.
+BMC Biol. 2010 May 7;8:54. 
+http://www.ncbi.nlm.nih.gov/pubmed/20459653 
+http://dx.doi.org//10.1186/1741-7007-8-54 >doi 10.1186/1741-7007-8-54</p>
+Electron transfer between exogenous electron donors and reaction center of photosystem 2.
+Mamedov, M. D.; Kurashov, V. N.; Petrova, I. O.; Zaspa, A. A.; Semenov, A. Y.
+Biochemistry (Mosc). 2010 May;75(5):579-84.
+http://www.ncbi.nlm.nih.gov/pubmed/20632936
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Thermal stability and aggregation of creatine kinase from rabbit skeletal muscle. Effect of 2-hydroxypropyl-beta-cyclodextrin.
+Maloletkina, O. I.; Markossian, K. A.; Belousova, L. V.; Kleimenov, S. Y.; Orlov, V. N.; Makeeva, V. F.; Kurganov, B. I.
+Biophys Chem. 2010 May;148(1-3):121-30. 
+http://www.ncbi.nlm.nih.gov/pubmed/20378240 
+http://dx.doi.org//10.1016/j.bpc.2010.03.005 >doi 10.1016/j.bpc.2010.03.005</p>
+Evolutionary dynamics of clustered irregularly interspaced short palindromic repeat systems in the ocean metagenome.
+Sorokin, V. A.; Gelfand, M. S.; Artamonova, I. I.
+Appl Environ Microbiol. 2010 Apr;76(7):2136-44. 
+http://www.ncbi.nlm.nih.gov/pubmed/20118362 
+http://dx.doi.org//10.1128/AEM.01985-09 >doi 10.1128/AEM.01985-09</p>
+Structural changes of a protein bound to a polyelectrolyte depend on the hydrophobicity and polymerization degree of the polyelectrolyte.
+Stogov, S. V.; Izumrudov, V. A.; Muronetz, V. I.
+Biochemistry (Mosc). 2010 Apr;75(4):437-42.
+http://www.ncbi.nlm.nih.gov/pubmed/20618132
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Guidelines for reporting of biocatalytic reactions.
+Gardossi, L.; Poulsen, P. B.; Ballesteros, A.; Hult, K.; Svedas, V. K.; Vasic-Racki, D.; Carrea, G.; Magnusson, A.; Schmid, A.; Wohlgemuth, R.; Halling, P. J.
+Trends Biotechnol. 2010 Apr;28(4):171-80. 
+http://www.ncbi.nlm.nih.gov/pubmed/20149467 
+http://dx.doi.org//10.1016/j.tibtech.2010.01.001 >doi 10.1016/j.tibtech.2010.01.001</p>
+Microtubules govern stress granule mobility and dynamics.
+Nadezhdina, E. S.; Lomakin, A. J.; Shpilman, A. A.; Chudinova, E. M.; Ivanov, P. A.
+Biochim Biophys Acta. 2010 Mar;1803(3):361-71. 
+http://www.ncbi.nlm.nih.gov/pubmed/20036288 
+http://dx.doi.org//10.1016/j.bbamcr.2009.12.004 >doi 10.1016/j.bbamcr.2009.12.004</p>
+New-generation Skulachev ions exhibiting nephroprotective and neuroprotective properties.
+Plotnikov, E. Y.; Silachev, D. N.; Chupyrkina, A. A.; Danshina, M. I.; Jankauskas, S. S.; Morosanova, M. A.; Stelmashook, E. V.; Vasileva, A. K.; Goryacheva, E. S.; Pirogov, Y. A.; Isaev, N. K.; Zorov, D. B.
+Biochemistry (Mosc). 2010 Feb;75(2):145-50.
+http://www.ncbi.nlm.nih.gov/pubmed/20367601
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Trypsin-like proteins of the fungi as possible markers of pathogenicity.
+Dubovenko, A. G.; Dunaevsky, Y. E.; Belozersky, M. A.; Oppert, B.; Lord, J. C.; Elpidina, E. N.
+Fungal Biol. 2010 Feb-Mar;114(2-3):151-9.
+http://www.ncbi.nlm.nih.gov/pubmed/20960971
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Structural aspects of trans-translation.
+Shpanchenko, O. V.; Golovin, A. V.; Bugaeva, E. Y.; Isaksson, L. A.; Dontsova, O. A.
+IUBMB Life. 2010 Feb;62(2):120-4. 
+http://www.ncbi.nlm.nih.gov/pubmed/20073035 
+http://dx.doi.org//10.1002/iub.296 >doi 10.1002/iub.296</p>
+Dynamics of nonmembranous cell components: role of active transport along microtubules.
+Lomakin, A. Y.; Nadezhdina, E. S.
+Biochemistry (Mosc). 2010 Jan;75(1):7-18.
+http://www.ncbi.nlm.nih.gov/pubmed/20331419
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Large-scale identification and analysis of C-proteins.
+Sorokin, V.; Severinov, K.; Gelfand, M. S.
+Methods Mol Biol. 2010;674:269-82. 
+http://www.ncbi.nlm.nih.gov/pubmed/20827598 
+http://dx.doi.org//10.1007/978-1-60761-854-6_17 >doi 10.1007/978-1-60761-854-6_17</p>
+PLANdbAffy: probe-level annotation database for Affymetrix expression microarrays.
+Nurtdinov, R. N.; Vasiliev, M. O.; Ershova, A. S.; Lossev, I. S.; Karyagina, A. S.
+Nucleic Acids Res. 2010 Jan;38(Database issue):D726-30. 
+http://www.ncbi.nlm.nih.gov/pubmed/19906711 
+http://dx.doi.org//10.1093/nar/gkp969 >doi 10.1093/nar/gkp969</p>
+RegPrecise: a database of curated genomic inferences of transcriptional regulatory interactions in prokaryotes.
+Novichkov, P. S.; Laikova, O. N.; Novichkova, E. S.; Gelfand, M. S.; Arkin, A. P.; Dubchak, I.; Rodionov, D. A.
+Nucleic Acids Res. 2010 Jan;38(Database issue):D111-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/19884135 
+http://dx.doi.org//10.1093/nar/gkp894 >doi 10.1093/nar/gkp894</p>
+Comparative analysis of the effects of alpha-crystallin and GroEL on the kinetics of thermal aggregation of rabbit muscle glyceraldehyde-3-phosphate dehydrogenase.
+Markossian, K. A.; Golub, N. V.; Chebotareva, N. A.; Asryants, R. A.; Naletova, I. N.; Muronetz, V. I.; Muranov, K. O.; Kurganov, B. I.
+Protein J. 2010 Jan;29(1):11-25. 
+http://www.ncbi.nlm.nih.gov/pubmed/19936900 
+http://dx.doi.org//10.1007/s10930-009-9217-9 >doi 10.1007/s10930-009-9217-9</p>
+2009
+New data on biochemical mechanism of programmed senescence of organisms and antioxidant defense of mitochondria.
+Skulachev, V. P.
+Biochemistry (Mosc). 2009 Dec;74(12):1400-3.
+http://www.ncbi.nlm.nih.gov/pubmed/19961424
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Electrostatic binding of substituted metal phthalocyanines to enterobacterial cells: its role in photodynamic inactivation.
+Strakhovskaya, M. G.; Antonenko, Y. N.; Pashkovskaya, A. A.; Kotova, E. A.; Kireev, V.; Zhukhovitsky, V. G.; Kuznetsova, N. A.; Yuzhakova, O. A.; Negrimovsky, V. M.; Rubin, A. B.
+Biochemistry (Mosc). 2009 Dec;74(12):1305-14.
+http://www.ncbi.nlm.nih.gov/pubmed/19961410
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparative genomics of ethanolamine utilization.
+Tsoy, O.; Ravcheev, D.; Mushegian, A.
+J Bacteriol. 2009 Dec;191(23):7157-64. 
+http://www.ncbi.nlm.nih.gov/pubmed/19783625 
+http://dx.doi.org//10.1128/JB.00838-09 >doi 10.1128/JB.00838-09</p>
+Structural features of the tmRNA-ribosome interaction.
+Bugaeva, E. Y.; Surkov, S.; Golovin, A. V.; Ofverstedt, L. G.; Skoglund, U.; Isaksson, L. A.; Bogdanov, A. A.; Shpanchenko, O. V.; Dontsova, O. A.
+RNA. 2009 Dec;15(12):2312-20. 
+http://www.ncbi.nlm.nih.gov/pubmed/19861420 
+http://dx.doi.org//10.1261/rna.1584209 >doi 10.1261/rna.1584209</p>
+Genotype analysis identifies the cause of the royal disease.
+Rogaev, E. I.; Grigorenko, A. P.; Faskhutdinova, G.; Kittler, E. L.; Moliaka, Y. K.
+Science. 2009 Nov 6;326(5954):817. 
+http://www.ncbi.nlm.nih.gov/pubmed/19815722 
+http://dx.doi.org//10.1126/science.1180660 >doi 10.1126/science.1180660</p>
+Developing novel approaches to improve binding energy estimation and virtual screening: a PARP case study.
+Novikov, F. N.; Stroylov, V. S.; Stroganov, O. V.; Kulkov, V.; Chilov, G. G.
+J Mol Model. 2009 Nov;15(11):1337-47. 
+http://www.ncbi.nlm.nih.gov/pubmed/19370366 
+http://dx.doi.org//10.1007/s00894-009-0497-y >doi 10.1007/s00894-009-0497-y</p>
+Co-metabolic activity of aphid Acyrthosiphon pisum and symbiotic bacterium Buchnera aphidicola STR. APS.
+Rakitin, D. I.; Gel'fand, M. S.
+Mol Biol (Mosk). 2009 Nov-Dec;43(6):1093-5.
+http://www.ncbi.nlm.nih.gov/pubmed/20088388
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Evolutionary history of the SSX family of human C/T-antigens.
+Shustrova, E. N.; Artamonova, I. I.
+Mol Biol (Mosk). 2009 Nov-Dec;43(6):1025-31.
+http://www.ncbi.nlm.nih.gov/pubmed/20088378
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Effect of transitory glucose deprivation on mitochondrial structure and functions in cultured cerebellar granule neurons.
+Stelmashook, E. V.; Isaev, N. K.; Plotnikov, E. Y.; Uzbekov, R. E.; Alieva, I. B.; Arbeille, B.; Zorov, D. B.
+Neurosci Lett. 2009 Sep 18;461(2):140-4. 
+http://www.ncbi.nlm.nih.gov/pubmed/19500653 
+http://dx.doi.org//10.1016/j.neulet.2009.05.073 >doi 10.1016/j.neulet.2009.05.073</p>
+New derivatives of azobenzene for the directed modification of proteins.
+Khien&nbsp;le, T.; Shirling, B.; Riazanova, A. I. u.; Zatsepin, T. S.; Volkov, E. M.; Kubareva, E. A.; Velichko, T. I.; Pingoud, A.; Oretskaia, T. S.
+Bioorg Khim. 2009 Sep-Oct;35(5):610-7.
+http://www.ncbi.nlm.nih.gov/pubmed/19915638
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+CLIP-170-dependent capture of membrane organelles by microtubules initiates minus-end directed transport.
+Lomakin, A. J.; Semenova, I.; Zaliapin, I.; Kraikivski, P.; Nadezhdina, E.; Slepchenko, B. M.; Akhmanova, A.; Rodionov, V.
+Dev Cell. 2009 Sep;17(3):323-33. 
+http://www.ncbi.nlm.nih.gov/pubmed/19758557 
+http://dx.doi.org//10.1016/j.devcel.2009.07.010 >doi 10.1016/j.devcel.2009.07.010</p>
+On the phylogenetic position of Hexapoda within the Pancrustacea.
+Aleshin, V. V.; Mikhailov, K. V.; Konstantinova, A. V.; Nikitin, M. A.; Rusin, L. I. u.; Buinova, D. A.; Kedrova, O. S.; Petrov, N. B.
+Mol Biol (Mosk). 2009 Sep-Oct;43(5):866-81.
+http://www.ncbi.nlm.nih.gov/pubmed/19899634
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+SNAD: Sequence Name Annotation-based Designer.
+Sidorov, I. A.; Reshetov, D. A.; Gorbalenya, A. E.
+BMC Bioinformatics. 2009 Aug 14;10:251. 
+http://www.ncbi.nlm.nih.gov/pubmed/19682364 
+http://dx.doi.org//10.1186/1471-2105-10-251 >doi 10.1186/1471-2105-10-251</p>
+Modulation of alternative splicing by long-range RNA structures in Drosophila.
+Raker, V. A.; Mironov, A. A.; Gelfand, M. S.; Pervouchine, D. D.
+Nucleic Acids Res. 2009 Aug;37(14):4533-44. 
+http://www.ncbi.nlm.nih.gov/pubmed/19465384 
+http://dx.doi.org//10.1093/nar/gkp407 >doi 10.1093/nar/gkp407</p>
+Water replacement hypothesis in atomic detail--factors determining the structure  of dehydrated bilayer stacks.
+Golovina, E. A.; Golovin, A. V.; Hoekstra, F. A.; Faller, R.
+Biophys J. 2009 Jul 22;97(2):490-9. 
+http://www.ncbi.nlm.nih.gov/pubmed/19619463 
+http://dx.doi.org//10.1016/j.bpj.2009.05.007 >doi 10.1016/j.bpj.2009.05.007</p>
+Structure and function of an ADP-ribose-dependent transcriptional regulator of NAD metabolism.
+Huang, N.; De&nbsp;Ingeniis, J.; Galeazzi, L.; Mancini, C.; Korostelev, Y. D.; Rakhmaninova, A. B.; Gelfand, M. S.; Rodionov, D. A.; Raffaelli, N.; Zhang, H.
+Structure. 2009 Jul 15;17(7):939-51. 
+http://www.ncbi.nlm.nih.gov/pubmed/19604474 
+http://dx.doi.org//10.1016/j.str.2009.05.012 >doi 10.1016/j.str.2009.05.012</p>
+Cooperative binding of substrates to transketolase from Saccharomyces cerevisiae.
+Sevostyanova, I. A.; Selivanov, V. A.; Yurshev, V. A.; Solovjeva, O. N.; Zabrodskaya, S. V.; Kochetov, G. A.
+Biochemistry (Mosc). 2009 Jul;74(7):789-92.
+http://www.ncbi.nlm.nih.gov/pubmed/19747100
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+The origin of Metazoa: a transition from temporal to spatial cell differentiation.
+Mikhailov, K. V.; Konstantinova, A. V.; Nikitin, M. A.; Troshin, P. V.; Rusin, L. Y.; Lyubetsky, V. A.; Panchin, Y. V.; Mylnikov, A. P.; Moroz, L. L.; Kumar, S.; Aleoshin, V. V.
+Bioessays. 2009 Jul;31(7):758-68. 
+http://www.ncbi.nlm.nih.gov/pubmed/19472368 
+http://dx.doi.org//10.1002/bies.200800214 >doi 10.1002/bies.200800214</p>
+Preparation and characterization of mouse embryonic fibroblasts with K72W mutation in somatic cytochrome C gene.
+Mufazalov, I. A.; Pen'kov, D. N.; Cherniak, B. V.; Pletiushkina, O. I. u.; Vysokikh, M. I. u.; Kirpichnikov, M. P.; Dolgikh, D. A.; Kruglov, A. A.; Kuprash, D. V.; Skulachev, V. P.; Nedospasov, S. A.
+Mol Biol (Mosk). 2009 Jul-Aug;43(4):648-56.
+http://www.ncbi.nlm.nih.gov/pubmed/19807028
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Rodent-specific alternative exons are more frequent in rapidly evolving genes and in paralogs.
+Nurtdinov, R. N.; Mironov, A. A.; Gelfand, M. S.
+BMC Evol Biol. 2009 Jun 26;9:142. 
+http://www.ncbi.nlm.nih.gov/pubmed/19558667 
+http://dx.doi.org//10.1186/1471-2148-9-142 >doi 10.1186/1471-2148-9-142</p>
+Safranine O as a fluorescent probe for mitochondrial membrane potential studied on the single particle level and in suspension.
+Perevoshchikova, I. V.; Sorochkina, A. I.; Zorov, D. B.; Antonenko, Y. N.
+Biochemistry (Mosc). 2009 Jun;74(6):663-71.
+http://www.ncbi.nlm.nih.gov/pubmed/19645672
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Inhibition of zymosan-induced kidney dysfunction by tyrphostin AG-490.
+Dimitrova, P.; Gyurkovska, V.; Shalova, I.; Saso, L.; Ivanovska, N.
+J Inflamm (Lond). 2009 May 5;6:13. 
+http://www.ncbi.nlm.nih.gov/pubmed/19416544 
+http://dx.doi.org//10.1186/1476-9255-6-13 >doi 10.1186/1476-9255-6-13</p>
+An attempt to prevent senescence: a mitochondrial approach.
+Skulachev, V. P.; Anisimov, V. N.; Antonenko, Y. N.; Bakeeva, L. E.; Chernyak, B. V.; Erichev, V. P.; Filenko, O. F.; Kalinina, N. I.; Kapelko, V. I.; Kolosova, N. G.; Kopnin, B. P.; Korshunova, G. A.; Lichinitser, M. R.; Obukhova, L. A.; Pasyukova, E. G.; Pisarenko, O. I.; Roginsky, V. A.; Ruuge, E. K.; Senin, I. I.; Severina, I. I.; Skulachev, M. V.; Spivak, I. M.; Tashlitsky, V. N.; Tkachuk, V. A.; Vyssokikh, M. Y.; Yaguzhinsky, L. S.; Zorov, D. B.
+Biochim Biophys Acta. 2009 May;1787(5):437-61. 
+http://www.ncbi.nlm.nih.gov/pubmed/19159610 
+http://dx.doi.org//10.1016/j.bbabio.2008.12.008 >doi 10.1016/j.bbabio.2008.12.008</p>
+Engineering transcription factors with novel DNA-binding specificity using comparative genomics.
+Desai, T. A.; Rodionov, D. A.; Gelfand, M. S.; Alm, E. J.; Rao, C. V.
+Nucleic Acids Res. 2009 May;37(8):2493-503. 
+http://www.ncbi.nlm.nih.gov/pubmed/19264798 
+http://dx.doi.org//10.1093/nar/gkp079 >doi 10.1093/nar/gkp079</p>
+Features of mitochondrial energetics in living unicellular eukaryote Tetrahymena  pyriformis. A model for study of mammalian intracellular adaptation.
+Prikhodko, E. A.; Brailovskaya, I. V.; Korotkov, S. M.; Mokhova, E. N.
+Biochemistry (Mosc). 2009 Apr;74(4):371-6.
+http://www.ncbi.nlm.nih.gov/pubmed/19463089
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Genomic identification in the historical case of the Nicholas II royal family.
+Rogaev, E. I.; Grigorenko, A. P.; Moliaka, Y. K.; Faskhutdinova, G.; Goltsov, A.; Lahti, A.; Hildebrandt, C.; Kittler, E. L.; Morozova, I.
+Proc Natl Acad Sci U S A. 2009 Mar 31;106(13):5258-63. 
+http://www.ncbi.nlm.nih.gov/pubmed/19251637 
+http://dx.doi.org//10.1073/pnas.0811190106 >doi 10.1073/pnas.0811190106</p>
+Comparative genomic analyses of nickel, cobalt and vitamin B12 utilization.
+Zhang, Y.; Rodionov, D. A.; Gelfand, M. S.; Gladyshev, V. N.
+BMC Genomics. 2009 Feb 10;10:78. 
+http://www.ncbi.nlm.nih.gov/pubmed/19208259 
+http://dx.doi.org//10.1186/1471-2164-10-78 >doi 10.1186/1471-2164-10-78</p>
+Protein aggregation and neurodegeneration: clues from a yeast model of Huntington's disease.
+Bocharova, N.; Chave-Cox, R.; Sokolov, S.; Knorre, D.; Severin, F.
+Biochemistry (Mosc). 2009 Feb;74(2):231-4.
+http://www.ncbi.nlm.nih.gov/pubmed/19267681
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Systematic prediction of control proteins and their DNA binding sites.
+Sorokin, V.; Severinov, K.; Gelfand, M. S.
+Nucleic Acids Res. 2009 Feb;37(2):441-51. 
+http://www.ncbi.nlm.nih.gov/pubmed/19056824 
+http://dx.doi.org//10.1093/nar/gkn931 >doi 10.1093/nar/gkn931</p>
+Isolation of the influenza A HA2 C-terminal segment by combination of nonionic detergents.
+Smirnova, Y. A.; Fedorova, N. V.; Ksenofontov, A. L.; Kordyukova, L. V.; Serebryakova, M. V.; Baratova, L. A.; Vaskovsky, B. V.
+Adv Exp Med Biol. 2009;611:311-2.
+http://www.ncbi.nlm.nih.gov/pubmed/19400206
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+A novel class of modular transporters for vitamins in prokaryotes.
+Rodionov, D. A.; Hebbeln, P.; Eudes, A.; ter&nbsp;Beek, J.; Rodionova, I. A.; Erkens, G. B.; Slotboom, D. J.; Gelfand, M. S.; Osterman, A. L.; Hanson, A. D.; Eitinger, T.
+J Bacteriol. 2009 Jan;191(1):42-51. 
+http://www.ncbi.nlm.nih.gov/pubmed/18931129 
+http://dx.doi.org//10.1128/JB.01208-08 >doi 10.1128/JB.01208-08</p>
+Comparative genomics of regulation of fatty acid and branched-chain amino acid utilization in proteobacteria.
+Kazakov, A. E.; Rodionov, D. A.; Alm, E.; Arkin, A. P.; Dubchak, I.; Gelfand, M. S.
+J Bacteriol. 2009 Jan;191(1):52-64. 
+http://www.ncbi.nlm.nih.gov/pubmed/18820024 
+http://dx.doi.org//10.1128/JB.01175-08 >doi 10.1128/JB.01175-08</p>
+2008
+Inhibition of membrane-bound cytochrome c oxidase by zinc ions: high-affinity Zn2+-binding site at the P-side of the membrane.
+Vygodina, T. V.; Zakirzianova, W.; Konstantinov, A. A.
+FEBS Lett. 2008 Dec 24;582(30):4158-62. 
+http://www.ncbi.nlm.nih.gov/pubmed/19041645 
+http://dx.doi.org//10.1016/j.febslet.2008.11.018 >doi 10.1016/j.febslet.2008.11.018</p>
+Unexpected link between anaphase promoting complex and the toxicity of expanded polyglutamines expressed in yeast.
+Bocharova, N. A.; Sokolov, S. S.; Knorre, D. A.; Skulachev, V. P.; Severin, F. F.
+Cell Cycle. 2008 Dec 15;7(24):3943-6. Epub 2008 Dec 12.
+http://www.ncbi.nlm.nih.gov/pubmed/19066445
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 5. SkQ1 prolongs lifespan and prevents development of traits of senescence.
+Anisimov, V. N.; Bakeeva, L. E.; Egormin, P. A.; Filenko, O. F.; Isakova, E. F.; Manskikh, V. N.; Mikhelson, V. M.; Panteleeva, A. A.; Pasyukova, E. G.; Pilipenko, D. I.; Piskunova, T. S.; Popovich, I. G.; Roshchina, N. V.; Rybina, O. Y.; Saprunova, V. B.; Samoylova, T. A.; Semenchenko, A. V.; Skulachev, M. V.; Spivak, I. M.; Tsybul'ko, E. A.; Tyndyk, M. L.; Vyssokikh, M. Y.; Yurova, M. N.; Zabezhinsky, M. A.; Skulachev, V. P.
+Biochemistry (Mosc). 2008 Dec;73(12):1329-42.
+http://www.ncbi.nlm.nih.gov/pubmed/19120018
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 4. Age-related eye disease. SkQ1 returns vision to blind animals.
+Neroev, V. V.; Archipova, M. M.; Bakeeva, L. E.; Fursova, A. Z. h.; Grigorian, E. N.; Grishanova, A. Y.; Iomdina, E. N.; Ivashchenko, Z. h. N.; Katargina, L. A.; Khoroshilova-Maslova, I. P.; Kilina, O. V.; Kolosova, N. G.; Kopenkin, E. P.; Korshunov, S. S.; Kovaleva, N. A.; Novikova, Y. P.; Philippov, P. P.; Pilipenko, D. I.; Robustova, O. V.; Saprunova, V. B.; Senin, I. I.; Skulachev, M. V.; Sotnikova, L. F.; Stefanova, N. A.; Tikhomirova, N. K.; Tsapenko, I. V.; Shchipanova, A. I.; Zinovkin, R. A.; Skulachev, V. P.
+Biochemistry (Mosc). 2008 Dec;73(12):1317-28.
+http://www.ncbi.nlm.nih.gov/pubmed/19120017
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 3. Inhibitory effect of SkQ1 on tumor development from p53-deficient cells.
+Agapova, L. S.; Chernyak, B. V.; Domnina, L. V.; Dugina, V. B.; Efimenko, A. Y.; Fetisova, E. K.; Ivanova, O. Y.; Kalinina, N. I.; Khromova, N. V.; Kopnin, B. P.; Kopnin, P. B.; Korotetskaya, M. V.; Lichinitser, M. R.; Lukashev, A. L.; Pletjushkina, O. Y.; Popova, E. N.; Skulachev, M. V.; Shagieva, G. S.; Stepanova, E. V.; Titova, E. V.; Tkachuk, V. A.; Vasiliev, J. M.; Skulachev, V. P.
+Biochemistry (Mosc). 2008 Dec;73(12):1300-16.
+http://www.ncbi.nlm.nih.gov/pubmed/19120016
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 2. Treatment of some ROS- and age-related diseases (heart arrhythmia, heart infarctions, kidney ischemia, and stroke).
+Bakeeva, L. E.; Barskov, I. V.; Egorov, M. V.; Isaev, N. K.; Kapelko, V. I.; Kazachenko, A. V.; Kirpatovsky, V. I.; Kozlovsky, S. V.; Lakomkin, V. L.; Levina, S. B.; Pisarenko, O. I.; Plotnikov, E. Y.; Saprunova, V. B.; Serebryakova, L. I.; Skulachev, M. V.; Stelmashook, E. V.; Studneva, I. M.; Tskitishvili, O. V.; Vasilyeva, A. K.; Victorov, I. V.; Zorov, D. B.; Skulachev, V. P.
+Biochemistry (Mosc). 2008 Dec;73(12):1288-99.
+http://www.ncbi.nlm.nih.gov/pubmed/19120015
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 1. Cationic plastoquinone derivatives: synthesis and in vitro studies.
+Antonenko, Y. N.; Avetisyan, A. V.; Bakeeva, L. E.; Chernyak, B. V.; Chertkov, V. A.; Domnina, L. V.; Ivanova, O. Y.; Izyumov, D. S.; Khailova, L. S.; Klishin, S. S.; Korshunova, G. A.; Lyamzaev, K. G.; Muntyan, M. S.; Nepryakhina, O. K.; Pashkovskaya, A. A.; Pletjushkina, O. Y.; Pustovidko, A. V.; Roginsky, V. A.; Rokitskaya, T. I.; Ruuge, E. K.; Saprunova, V. B.; Severina, I. I.; Simonyan, R. A.; Skulachev, I. V.; Skulachev, M. V.; Sumbatyan, N. V.; Sviryaeva, I. V.; Tashlitsky, V. N.; Vassiliev, J. M.; Vyssokikh, M. Y.; Yaguzhinsky, L. S.; Zamyatnin&nbsp;AA, J. r.; Skulachev, V. P.
+Biochemistry (Mosc). 2008 Dec;73(12):1273-87.
+http://www.ncbi.nlm.nih.gov/pubmed/19120014
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Non-native glyceraldehyde-3-phosphate dehydrogenase can be an intrinsic component of amyloid structures.
+Naletova, I.; Schmalhausen, E.; Kharitonov, A.; Katrukha, A.; Saso, L.; Caprioli, A.; Muronetz, V.
+Biochim Biophys Acta. 2008 Dec;1784(12):2052-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/18725330 
+http://dx.doi.org//10.1016/j.bbapap.2008.07.013 >doi 10.1016/j.bbapap.2008.07.013</p>
+Quasi-equilibrium assumption in enzyme kinetics. Necessary and sufficient conditions and accuracy of its application for single-substrate reactions.
+Vrzheshch, P. V.
+Biochemistry (Mosc). 2008 Oct;73(10):1114-20.
+http://www.ncbi.nlm.nih.gov/pubmed/18991557
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mutants of monomeric red fluorescent protein mRFP1 at residue 66: structure modeling by molecular dynamics and search for correlations with spectral properties.
+Khrameeva, E. E.; Drutsa, V. L.; Vrzheshch, E. P.; Dmitrienko, D. V.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2008 Oct;73(10):1085-95.
+http://www.ncbi.nlm.nih.gov/pubmed/18991554
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Heterogeneity of mitochondrial potential as a marker for isolation of pure cardiomyoblast population.
+Khryapenkova, T. G.; Plotnikov, E. Y.; Korotetskaya, M. V.; Sukhikh, G. T.; Zorov, D. B.
+Bull Exp Biol Med. 2008 Oct;146(4):506-11.
+http://www.ncbi.nlm.nih.gov/pubmed/19489330
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Novel isoenzyme of 2-oxoglutarate dehydrogenase is identified in brain, but not in heart.
+Bunik, V.; Kaehne, T.; Degtyarev, D.; Shcherbakova, T.; Reiser, G.
+FEBS J. 2008 Oct;275(20):4990-5006. 
+http://www.ncbi.nlm.nih.gov/pubmed/18783430 
+http://dx.doi.org//10.1111/j.1742-4658.2008.06632.x >doi 10.1111/j.1742-4658.2008.06632.x</p>
+Identification of replication origins in prokaryotic genomes.
+Sernova, N. V.; Gelfand, M. S.
+Brief Bioinform. 2008 Sep;9(5):376-91. 
+http://www.ncbi.nlm.nih.gov/pubmed/18660512 
+http://dx.doi.org//10.1093/bib/bbn031 >doi 10.1093/bib/bbn031</p>
+OrthoFocus: program for identification of orthologs in multiple genomes in family-focused studies.
+Ivliev, A. E.; Sergeeva, M. G.
+J Bioinform Comput Biol. 2008 Aug;6(4):811-24.
+http://www.ncbi.nlm.nih.gov/pubmed/18763744
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Positive selection in alternatively spliced exons of human genes.
+Ramensky, V. E.; Nurtdinov, R. N.; Neverov, A. D.; Mironov, A. A.; Gelfand, M. S.
+Am J Hum Genet. 2008 Jul;83(1):94-8. 
+http://www.ncbi.nlm.nih.gov/pubmed/18571144 
+http://dx.doi.org//10.1016/j.ajhg.2008.05.017 >doi 10.1016/j.ajhg.2008.05.017</p>
+Natural causes of programmed death of yeast Saccharomyces cerevisiae.
+Severin, F. F.; Meer, M. V.; Smirnova, E. A.; Knorre, D. A.; Skulachev, V. P.
+Biochim Biophys Acta. 2008 Jul;1783(7):1350-3. 
+http://www.ncbi.nlm.nih.gov/pubmed/18319066 
+http://dx.doi.org//10.1016/j.bbamcr.2008.02.001 >doi 10.1016/j.bbamcr.2008.02.001</p>
+Microarray retriever: a web-based tool for searching and large scale retrieval of public microarray data.
+Ivliev, A. E.; 't&nbsp;Hoen, P. A.; Villerius, M. P.; den&nbsp;Dunnen, J. T.; Brandt, B. W.
+Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W327-31. 
+http://www.ncbi.nlm.nih.gov/pubmed/18463138 
+http://dx.doi.org//10.1093/nar/gkn213 >doi 10.1093/nar/gkn213</p>
+Selection of random RNA fragments as method for searching for a site of regulation of translation of E. coli streptomycin mRNA by ribosomal protein S7.
+Surdina, A. V.; Rassokhin, T. I.; Golovin, A. V.; Spiridonova, V. A.; Kraal, B.; Kopylov, A. M.
+Biochemistry (Mosc). 2008 Jun;73(6):652-9.
+http://www.ncbi.nlm.nih.gov/pubmed/18620530
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparative chloroplast genomics and phylogenetics of Fagopyrum esculentum ssp. ancestrale -a wild ancestor of cultivated buckwheat.
+Logacheva, M. D.; Samigullin, T. H.; Dhingra, A.; Penin, A. A.
+BMC Plant Biol. 2008 May 20;8:59. 
+http://www.ncbi.nlm.nih.gov/pubmed/18492277 
+http://dx.doi.org//10.1186/1471-2229-8-59 >doi 10.1186/1471-2229-8-59</p>
+Thermodynamic and kinetic stability of penicillin acylase from Escherichia coli.
+Grinberg, V. Y.; Burova, T. V.; Grinberg, N. V.; Shcherbakova, T. A.; Guranda, D. T.; Chilov, G. G.; Svedas, V. K.
+Biochim Biophys Acta. 2008 May;1784(5):736-46. 
+http://www.ncbi.nlm.nih.gov/pubmed/18314015 
+http://dx.doi.org//10.1016/j.bbapap.2008.01.016 >doi 10.1016/j.bbapap.2008.01.016</p>
+Structure-function relationships in the 2-oxo acid dehydrogenase family: substrate-specific signatures and functional predictions for the 2-oxoglutarate dehydrogenase-like proteins.
+Bunik, V. I.; Degtyarev, D.
+Proteins. 2008 May 1;71(2):874-90.
+http://www.ncbi.nlm.nih.gov/pubmed/18004749 
+http://dx.doi.org//10.1002/prot.21766 >doi 10.1002/prot.21766</p>
+Comparative genomic analysis of T-box regulatory systems in bacteria.
+Vitreschak, A. G.; Mironov, A. A.; Lyubetsky, V. A.; Gelfand, M. S.
+RNA. 2008 Apr;14(4):717-35. 
+http://www.ncbi.nlm.nih.gov/pubmed/18359782 
+http://dx.doi.org//10.1261/rna.819308 >doi 10.1261/rna.819308</p>
+One more probable structural transition in potato virus X virions and a revised model of the virus coat protein structure.
+Nemykh, M. A.; Efimov, A. V.; Novikov, V. K.; Orlov, V. N.; Arutyunyan, A. M.; Drachev, V. A.; Lukashina, E. V.; Baratova, L. A.; Dobrov, E. N.
+Virology. 2008 Mar 30;373(1):61-71. Epub 2007 Dec 26.
+http://www.ncbi.nlm.nih.gov/pubmed/18155742 
+http://dx.doi.org//10.1016/j.virol.2007.11.024 >doi 10.1016/j.virol.2007.11.024</p>
+Surfactant-induced amorphous aggregation of tobacco mosaic virus coat protein: a  physical methods approach.
+Panyukov, Y. V.; Nemykh, M. A.; Dobrov, E. N.; Drachev, V. A.
+Macromol Biosci. 2008 Feb 11;8(2):199-209.
+http://www.ncbi.nlm.nih.gov/pubmed/17886326 
+http://dx.doi.org//10.1002/mabi.200700145 >doi 10.1002/mabi.200700145</p>
+Investigation of glyceraldehyde-3-phosphate dehydrogenase from human sperms.
+Shchutskaya, Y. Y.; Elkina, Y. L.; Kuravsky, M. L.; Bragina, E. E.; Schmalhausen, E. V.
+Biochemistry (Mosc). 2008 Feb;73(2):185-91.
+http://www.ncbi.nlm.nih.gov/pubmed/18298375
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Site-directed mutagenesis of conserved cysteine residues in NqrD and NqrE subunits of Na+-translocating NADH:quinone oxidoreductase.
+Fadeeva, M. S.; Bertsova, Y. V.; Verkhovsky, M. I.; Bogachev, A. V.
+Biochemistry (Mosc). 2008 Feb;73(2):123-9.
+http://www.ncbi.nlm.nih.gov/pubmed/18298367
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Computational analysis of splicing errors and mutations in human transcripts.
+Kurmangaliyev, Y. Z.; Gelfand, M. S.
+BMC Genomics. 2008 Jan 14;9:13. 
+http://www.ncbi.nlm.nih.gov/pubmed/18194514 
+http://dx.doi.org//10.1186/1471-2164-9-13 >doi 10.1186/1471-2164-9-13</p>
+Molecular modeling studies of substrate binding by penicillin acylase.
+Chilov, G. G.; Stroganov, O. V.; Svedas, V. K.
+Biochemistry (Mosc). 2008 Jan;73(1):56-64.
+http://www.ncbi.nlm.nih.gov/pubmed/18294130
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Saturation mutagenesis reveals the importance of residues alphaR145 and alphaF146 of penicillin acylase in the synthesis of beta-lactam antibiotics.
+Jager, S. A.; Shapovalova, I. V.; Jekel, P. A.; Alkema, W. B.; Svedas, V. K.; Janssen, D. B.
+J Biotechnol. 2008 Jan 1;133(1):18-26. Epub 2007 Aug 30.
+http://www.ncbi.nlm.nih.gov/pubmed/17933411 
+http://dx.doi.org//10.1016/j.jbiotec.2007.08.039 >doi 10.1016/j.jbiotec.2007.08.039</p>
+2007
+Conserved and species-specific alternative splicing in mammalian genomes.
+Nurtdinov, R. N.; Neverov, A. D.; Favorov, A. V.; Mironov, A. A.; Gelfand, M. S.
+BMC Evol Biol. 2007 Dec 22;7:249.
+http://www.ncbi.nlm.nih.gov/pubmed/18154685 
+http://dx.doi.org//10.1186/1471-2148-7-249 >doi 10.1186/1471-2148-7-249</p>
+Chiral high-performance liquid chromatography analysis of alpha-amino acid mixtures using a novel SH reagent--N-R-mandelyl-L-cysteine and traditional enantiomeric thiols for precolumn derivatization.
+Chernobrovkin, M. G.; Shapovalova, E. N.; Guranda, D. T.; Kudryavtsev, P. A.; Svedas, V. K.; Shpigun, O. A.
+J Chromatogr A. 2007 Dec 14;1175(1):89-95. Epub 2007 Oct 18.
+http://www.ncbi.nlm.nih.gov/pubmed/17991478 
+http://dx.doi.org//10.1016/j.chroma.2007.10.034 >doi 10.1016/j.chroma.2007.10.034</p>
+A biochemical approach to the problem of aging: megaproject on membrane-penetrating ions. The first results and prospects.
+Skulachev, V. P.
+Biochemistry (Mosc). 2007 Dec;72(12):1385-96.
+http://www.ncbi.nlm.nih.gov/pubmed/18205623
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Phylogeny of flowering plants by the chloroplast genome sequences: in search of a lucky gene.
+Logacheva, M. D.; Penin, A. A.; Samigullin, T. H.; Vallejo-Roman, C. M.; Antonov, A. S.
+Biochemistry (Mosc). 2007 Dec;72(12):1324-30.
+http://www.ncbi.nlm.nih.gov/pubmed/18205616
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Transcriptional regulation of the methionine and cysteine transport and metabolism in streptococci.
+Kovaleva, G. Y.; Gelfand, M. S.
+FEMS Microbiol Lett. 2007 Nov;276(2):207-15.
+http://www.ncbi.nlm.nih.gov/pubmed/17956428 
+http://dx.doi.org//10.1111/j.1574-6968.2007.00934.x >doi 10.1111/j.1574-6968.2007.00934.x</p>
+Abundance and functional diversity of riboswitches in microbial communities.
+Kazanov, M. D.; Vitreschak, A. G.; Gelfand, M. S.
+BMC Genomics. 2007 Oct 1;8:347.
+http://www.ncbi.nlm.nih.gov/pubmed/17908319 
+http://dx.doi.org//10.1186/1471-2164-8-347 >doi 10.1186/1471-2164-8-347</p>
+Antioxidant and prooxidant effects of quercetin on glyceraldehyde-3-phosphate dehydrogenase.
+Schmalhausen, E. V.; Zhlobek, E. B.; Shalova, I. N.; Firuzi, O.; Saso, L.; Muronetz, V. I.
+Food Chem Toxicol. 2007 Oct;45(10):1988-93. Epub 2007 May 3.
+http://www.ncbi.nlm.nih.gov/pubmed/17559999 
+http://dx.doi.org//10.1016/j.fct.2007.04.015 >doi 10.1016/j.fct.2007.04.015</p>
+Overlapping alternative donor splice sites in the human genome.
+Ermakova, E. O.; Nurtdinov, R. N.; Gelfand, M. S.
+J Bioinform Comput Biol. 2007 Oct;5(5):991-1004.
+http://www.ncbi.nlm.nih.gov/pubmed/17933007
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Deinococcus geothermalis: the pool of extreme radiation resistance genes shrinks.
+Makarova, K. S.; Omelchenko, M. V.; Gaidamakova, E. K.; Matrosova, V. Y.; Vasilenko, A.; Zhai, M.; Lapidus, A.; Copeland, A.; Kim, E.; Land, M.; Mavrommatis, K.; Pitluck, S.; Richardson, P. M.; Detter, C.; Brettin, T.; Saunders, E.; Lai, B.; Ravel, B.; Kemner, K. M.; Wolf, Y. I.; Sorokin, A.; Gerasimova, A. V.; Gelfand, M. S.; Fredrickson, J. K.; Koonin, E. V.; Daly, M. J.
+PLoS One. 2007 Sep 26;2(9):e955.
+http://www.ncbi.nlm.nih.gov/pubmed/17895995 
+http://dx.doi.org//10.1371/journal.pone.0000955 >doi 10.1371/journal.pone.0000955</p>
+Molecular oxygen (a substrate of the cyclooxygenase reaction) in the kinetic mechanism of the bifunctional enzyme prostaglandin-H-synthase.
+Filimonov, I. S.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2007 Sep;72(9):944-53.
+http://www.ncbi.nlm.nih.gov/pubmed/17922652
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Steady-state kinetics of bifunctional enzymes. Taking into account kinetic hierarchy of fast and slow catalytic cycles in a generalized model.
+Vrzheshch, P. V.
+Biochemistry (Mosc). 2007 Sep;72(9):936-43.
+http://www.ncbi.nlm.nih.gov/pubmed/17922651
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Effects of lipophilic dications on planar bilayer phospholipid membrane and mitochondria.
+Severina, I. I.; Vyssokikh, M. Y.; Pustovidko, A. V.; Simonyan, R. A.; Rokitskaya, T. I.; Skulachev, V. P.
+Biochim Biophys Acta. 2007 Sep;1767(9):1164-8. Epub 2007 Jun 12.
+http://www.ncbi.nlm.nih.gov/pubmed/17692814 
+http://dx.doi.org//10.1016/j.bbabio.2007.05.010 >doi 10.1016/j.bbabio.2007.05.010</p>
+Low-molecular-weight post-translationally modified microcins.
+Severinov, K.; Semenova, E.; Kazakov, A.; Kazakov, T.; Gelfand, M. S.
+Mol Microbiol. 2007 Sep;65(6):1380-94. Epub 2007 Aug 17.
+http://www.ncbi.nlm.nih.gov/pubmed/17711420 
+http://dx.doi.org//10.1111/j.1365-2958.2007.05874.x >doi 10.1111/j.1365-2958.2007.05874.x</p>
+Kinetic models of cyclooxygenase and peroxidase inactivation of prostaglandin-H-synthase during catalysis.
+Vrzheshch, P. V.; Tsaplina, L. A.; Sakharova, I. S.
+Biochemistry (Mosc). 2007 Aug;72(8):828-34.
+http://www.ncbi.nlm.nih.gov/pubmed/17922639
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparative genomics and evolution of alternative splicing: the pessimists' science.
+Artamonova, I. I.; Gelfand, M. S.
+Chem Rev. 2007 Aug;107(8):3407-30. Epub 2007 Jul 24.
+http://www.ncbi.nlm.nih.gov/pubmed/17645315 
+http://dx.doi.org//10.1021/cr068304c >doi 10.1021/cr068304c</p>
+A model of evolution with constant selective pressure for regulatory DNA sites.
+Enikeeva, F. N.; Kotelnikova, E. A.; Gelfand, M. S.; Makeev, V. J.
+BMC Evol Biol. 2007 Jul 27;7:125.
+http://www.ncbi.nlm.nih.gov/pubmed/17662135 
+http://dx.doi.org//10.1186/1471-2148-7-125 >doi 10.1186/1471-2148-7-125</p>
+Interaction of polyelectrolytes with proteins, 3. Influence of complexing polycations on the thermoaggregation of oligomeric enzymes.
+Shalova, I. N.; Naletova, I. N.; Saso, L.; Muronetz, V. I.; Izumrudov, V. A.
+Macromol Biosci. 2007 Jul 9;7(7):929-39.
+http://www.ncbi.nlm.nih.gov/pubmed/17582803 
+http://dx.doi.org//10.1002/mabi.200700052 >doi 10.1002/mabi.200700052</p>
+Conversion and compensatory evolution of the gamma-crystallin genes and identification of a cataractogenic mutation that reverses the sequence of the human CRYGD gene to an ancestral state.
+Plotnikova, O. V.; Kondrashov, F. A.; Vlasov, P. K.; Grigorenko, A. P.; Ginter, E. K.; Rogaev, E. I.
+Am J Hum Genet. 2007 Jul;81(1):32-43. Epub 2007 May 16.
+http://www.ncbi.nlm.nih.gov/pubmed/17564961 
+http://dx.doi.org//10.1086/518616 >doi 10.1086/518616</p>
+Somatic and sperm-specific isoenzymes of glyceraldehyde-3-phosphate dehydrogenase: comparative analysis of primary structures and functional features.
+Kuravsky, M. L.; Muronetz, V. I.
+Biochemistry (Mosc). 2007 Jul;72(7):744-9.
+http://www.ncbi.nlm.nih.gov/pubmed/17680766
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+A method for prediction of conserved RNA secondary structures.
+Mironov, A. A.
+Mol Biol (Mosk). 2007 Jul-Aug;41(4):711-8.
+http://www.ncbi.nlm.nih.gov/pubmed/17936993
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Cyclooxygenase and peroxidase inactivation of prostaglandin-H-synthase during catalysis.
+Tsaplina, L. A.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2007 Jun;72(6):631-9.
+http://www.ncbi.nlm.nih.gov/pubmed/17630907
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Living without Fur: the subtlety and complexity of iron-responsive gene regulation in the symbiotic bacterium Rhizobium and other alpha-proteobacteria.
+Johnston, A. W.; Todd, J. D.; Curson, A. R.; Lei, S.; Nikolaidou-Katsaridou, N.; Gelfand, M. S.; Rodionov, D. A.
+Biometals. 2007 Jun;20(3-4):501-11. Epub 2007 Feb 20.
+http://www.ncbi.nlm.nih.gov/pubmed/17310401 
+http://dx.doi.org//10.1007/s10534-007-9085-8 >doi 10.1007/s10534-007-9085-8</p>
+MicroRNA in schizophrenia: genetic and expression analysis of miR-130b (22q11).
+Burmistrova, O. A.; Goltsov, A. Y.; Abramova, L. I.; Kaleda, V. G.; Orlova, V. A.; Rogaev, E. I.
+Biochemistry (Mosc). 2007 May;72(5):578-82.
+http://www.ncbi.nlm.nih.gov/pubmed/17573714
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Quantum chemical studies of the catalytic mechanism of N-terminal nucleophile hydrolase.
+Chilov, G. G.; Sidorova, A. V.; Svedas, V. K.
+Biochemistry (Mosc). 2007 May;72(5):495-500.
+http://www.ncbi.nlm.nih.gov/pubmed/17573703
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Decrease of dehydrogenase activity of cerebral glyceraldehyde-3-phosphate dehydrogenase in different animal models of Alzheimer's disease.
+Shalova, I. N.; Cechalova, K.; Rehakova, Z.; Dimitrova, P.; Ognibene, E.; Caprioli, A.; Schmalhausen, E. V.; Muronetz, V. I.; Saso, L.
+Biochim Biophys Acta. 2007 May;1770(5):826-32. Epub 2007 Feb 4.
+http://www.ncbi.nlm.nih.gov/pubmed/17324518 
+http://dx.doi.org//10.1016/j.bbagen.2007.01.014 >doi 10.1016/j.bbagen.2007.01.014</p>
+Enzyme-catalyzed side reactions with molecular oxygen may contribute to cell signaling and neurodegenerative diseases.
+Bunik, V. I.; Schloss, J. V.; Pinto, J. T.; Gibson, G. E.; Cooper, A. J.
+Neurochem Res. 2007 Apr-May;32(4-5):871-91. Epub 2007 Mar 7.
+http://www.ncbi.nlm.nih.gov/pubmed/17342415 
+http://dx.doi.org//10.1007/s11064-006-9239-z >doi 10.1007/s11064-006-9239-z</p>
+Methyltransferase that modifies guanine 966 of the 16 S rRNA: functional identification and tertiary structure.
+Lesnyak, D. V.; Osipiuk, J.; Skarina, T.; Sergiev, P. V.; Bogdanov, A. A.; Edwards, A.; Savchenko, A.; Joachimiak, A.; Dontsova, O. A.
+J Biol Chem. 2007 Feb 23;282(8):5880-7. Epub 2006 Dec 21.
+http://www.ncbi.nlm.nih.gov/pubmed/17189261 
+http://dx.doi.org//10.1074/jbc.M608214200 >doi 10.1074/jbc.M608214200</p>
+Comparative genomic analysis of regulation of anaerobic respiration in ten genomes from three families of gamma-proteobacteria (Enterobacteriaceae, Pasteurellaceae, Vibrionaceae).
+Ravcheev, D. A.; Gerasimova, A. V.; Mironov, A. A.; Gelfand, M. S.
+BMC Genomics. 2007 Feb 21;8:54.
+http://www.ncbi.nlm.nih.gov/pubmed/17313674 
+http://dx.doi.org//10.1186/1471-2164-8-54 >doi 10.1186/1471-2164-8-54</p>
+Temporal regulation of viral transcription during development of Thermus thermophilus bacteriophage phiYS40.
+Sevostyanova, A.; Djordjevic, M.; Kuznedelov, K.; Naryshkina, T.; Gelfand, M. S.; Severinov, K.; Minakhin, L.
+J Mol Biol. 2007 Feb 16;366(2):420-35. Epub 2006 Nov 18.
+http://www.ncbi.nlm.nih.gov/pubmed/17187825 
+http://dx.doi.org//10.1016/j.jmb.2006.11.050 >doi 10.1016/j.jmb.2006.11.050</p>
+Purifying selection in mitochondria, free-living and obligate intracellular proteobacteria.
+Mamirova, L.; Popadin, K.; Gelfand, M. S.
+BMC Evol Biol. 2007 Feb 12;7:17.
+http://www.ncbi.nlm.nih.gov/pubmed/17295908 
+http://dx.doi.org//10.1186/1471-2148-7-17 >doi 10.1186/1471-2148-7-17</p>
+Effect of alpha-crystallin on thermal denaturation and aggregation of rabbit muscle glyceraldehyde-3-phosphate dehydrogenase.
+Khanova, H. A.; Markossian, K. A.; Kleimenov, S. Y.; Levitsky, D. I.; Chebotareva, N. A.; Golub, N. V.; Asryants, R. A.; Muronetz, V. I.; Saso, L.; Yudin, I. K.; Muranov, K. O.; Ostrovsky, M. A.; Kurganov, B. I.
+Biophys Chem. 2007 Feb;125(2-3):521-31. Epub 2006 Nov 21.
+http://www.ncbi.nlm.nih.gov/pubmed/17229514 
+http://dx.doi.org//10.1016/j.bpc.2006.11.002 >doi 10.1016/j.bpc.2006.11.002</p>
+Influence of donor substrate on kinetic parameters of thiamine diphosphate binding to transketolase.
+Ospanov, R. V.; Kochetov, G. A.; Kurganov, B. I.
+Biochemistry (Mosc). 2007 Jan;72(1):84-92.
+http://www.ncbi.nlm.nih.gov/pubmed/17309441
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+RegTransBase--a database of regulatory sequences and interactions in a wide range of prokaryotic genomes.
+Kazakov, A. E.; Cipriano, M. J.; Novichkov, P. S.; Minovitsky, S.; Vinogradov, D. V.; Arkin, A.; Mironov, A. A.; Gelfand, M. S.; Dubchak, I.
+Nucleic Acids Res. 2007 Jan;35(Database issue):D407-12. Epub 2006 Nov 16.
+http://www.ncbi.nlm.nih.gov/pubmed/17142223 
+http://dx.doi.org//10.1093/nar/gkl865 >doi 10.1093/nar/gkl865</p>
+2006
+Computational reconstruction of iron- and manganese-responsive transcriptional networks in alpha-proteobacteria.
+Rodionov, D. A.; Gelfand, M. S.; Todd, J. D.; Curson, A. R.; Johnston, A. W.
+PLoS Comput Biol. 2006 Dec 15;2(12):e163. Epub 2006 Oct 18.
+http://www.ncbi.nlm.nih.gov/pubmed/17173478 
+http://dx.doi.org//10.1371/journal.pcbi.0020163 >doi 10.1371/journal.pcbi.0020163</p>
+Uncoupling effect of lauryl sulfate on mitochondria can be mediated by release of bound endogenous fatty acids.
+Simonian, R. A.; Pustovidko, A. V.; Vyssokikh, M. I. u.; Skulachev, V. P.
+Biochemistry (Mosc). 2006 Dec;71(12):1365-9.
+http://www.ncbi.nlm.nih.gov/pubmed/17223790
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Theoretical model of interactions between ligand-binding sites in a dimeric protein and its application for the analysis of thiamine diphosphate binding to yeast transketolase.
+Ospanov, R.; Kochetov, G.; Kurganov, B.
+Biophys Chem. 2006 Nov 20;124(2):106-14. Epub 2006 Jun 15.
+http://www.ncbi.nlm.nih.gov/pubmed/16837121 
+http://dx.doi.org//10.1016/j.bpc.2006.06.001 >doi 10.1016/j.bpc.2006.06.001</p>
+Identification of Escherichia coli m2G methyltransferases: II. The ygjO gene encodes a methyltransferase specific for G1835 of the 23 S rRNA.
+Sergiev, P. V.; Lesnyak, D. V.; Bogdanov, A. A.; Dontsova, O. A.
+J Mol Biol. 2006 Nov 17;364(1):26-31. Epub 2006 Sep 8.
+http://www.ncbi.nlm.nih.gov/pubmed/17010380 
+http://dx.doi.org//10.1016/j.jmb.2006.09.008 >doi 10.1016/j.jmb.2006.09.008</p>
+Identification of Escherichia coli m2G methyltransferases: I. the ycbY gene encodes a methyltransferase specific for G2445 of the 23 S rRNA.
+Lesnyak, D. V.; Sergiev, P. V.; Bogdanov, A. A.; Dontsova, O. A.
+J Mol Biol. 2006 Nov 17;364(1):20-5. Epub 2006 Sep 8.
+http://www.ncbi.nlm.nih.gov/pubmed/17010378 
+http://dx.doi.org//10.1016/j.jmb.2006.09.009 >doi 10.1016/j.jmb.2006.09.009</p>
+Human hair growth deficiency is linked to a genetic defect in the phospholipase gene LIPH.
+Kazantseva, A.; Goltsov, A.; Zinchenko, R.; Grigorenko, A. P.; Abrukova, A. V.; Moliaka, Y. K.; Kirillov, A. G.; Guo, Z.; Lyle, S.; Ginter, E. K.; Rogaev, E. I.
+Science. 2006 Nov 10;314(5801):982-5.
+http://www.ncbi.nlm.nih.gov/pubmed/17095700 
+http://dx.doi.org//10.1126/science.1133276 >doi 10.1126/science.1133276</p>
+Mechanism of thermal aggregation of rabbit muscle glyceraldehyde-3-phosphate dehydrogenase.
+Markossian, K. A.; Khanova, H. A.; Kleimenov, S. Y.; Levitsky, D. I.; Chebotareva, N. A.; Asryants, R. A.; Muronetz, V. I.; Saso, L.; Yudin, I. K.; Kurganov, B. I.
+Biochemistry. 2006 Nov 7;45(44):13375-84.
+http://www.ncbi.nlm.nih.gov/pubmed/17073459 
+http://dx.doi.org//10.1021/bi0610707 >doi 10.1021/bi0610707</p>
+Use of the flux model of amino acid metabolism of Escherichia coli.
+Lyubetskaya, A. V.; Rubanov, L. I.; Gelfand, M. S.
+Biochemistry (Mosc). 2006 Nov;71(11):1256-60.
+http://www.ncbi.nlm.nih.gov/pubmed/17140387
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Kinetic mechanism of the bifunctional enzyme prostaglandin-H-synthase. Effect of  electron donors on the cyclooxygenase reaction.
+Tsaplina, L. A.; Karatasso, Y. O.; Filimonov, I. S.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2006 Nov;71(11):1247-55.
+http://www.ncbi.nlm.nih.gov/pubmed/17140386
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Morphology and nrITS phylogeny of the genus Pinguicula L. (Lentibulariaceae), with special attention to embryo evolution.
+Degtjareva, G. V.; Casper, S. J.; Hellwig, F. H.; Schmidt, A. R.; Steiger, J.; Sokoloff, D. D.
+Plant Biol (Stuttg). 2006 Nov;8(6):778-90.
+http://www.ncbi.nlm.nih.gov/pubmed/17058180 
+http://dx.doi.org//10.1055/s-2006-924560 >doi 10.1055/s-2006-924560</p>
+Mapping contacts of the S12-S7 intercistronic region of str operon mRNA with ribosomal protein S7 of E. coli.
+Golovin, A.; Spiridonova, V.; Kopylov, A.
+FEBS Lett. 2006 Oct 30;580(25):5858-62. Epub 2006 Oct 2.
+http://www.ncbi.nlm.nih.gov/pubmed/17027976 
+http://dx.doi.org//10.1016/j.febslet.2006.09.050 >doi 10.1016/j.febslet.2006.09.050</p>
+Comparative genomics and experimental characterization of N-acetylglucosamine utilization pathway of Shewanella oneidensis.
+Yang, C.; Rodionov, D. A.; Li, X.; Laikova, O. N.; Gelfand, M. S.; Zagnitko, O. P.; Romine, M. F.; Obraztsova, A. Y.; Nealson, K. H.; Osterman, A. L.
+J Biol Chem. 2006 Oct 6;281(40):29872-85. Epub 2006 Jul 20.
+http://www.ncbi.nlm.nih.gov/pubmed/16857666 
+http://dx.doi.org//10.1074/jbc.M605052200 >doi 10.1074/jbc.M605052200</p>
+Red fluorescent protein DsRed: parametrization of its chromophore as an amino acid residue for computer modeling in the OPLS-AA force field.
+Dmitrienko, D. V.; Vrzheshch, E. P.; Drutsa, V. L.; Vrzheshch, P. V.
+Biochemistry (Mosc). 2006 Oct;71(10):1133-52.
+http://www.ncbi.nlm.nih.gov/pubmed/17125463
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Recognition of transmembrane segments in proteins: review and consistency-based benchmarking of internet servers.
+Sadovskaya, N. S.; Sutormin, R. A.; Gelfand, M. S.
+J Bioinform Comput Biol. 2006 Oct;4(5):1033-56.
+http://www.ncbi.nlm.nih.gov/pubmed/17099940
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparative genomics of transcriptional regulation in yeasts and its application  to identification of a candidate alpha-isopropylmalate transporter.
+Kovaleva, G. Y.; Bazykin, G. A.; Brudno, M.; Gelfand, M. S.
+J Bioinform Comput Biol. 2006 Oct;4(5):981-98.
+http://www.ncbi.nlm.nih.gov/pubmed/17099937
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Participation of ATP/ADP antiporter in oleate- and oleate hydroperoxide-induced uncoupling suppressed by GDP and carboxyatractylate.
+Khailova, L. S.; Prikhodko, E. A.; Dedukhova, V. I.; Mokhova, E. N.; Popov, V. N.; Skulachev, V. P.
+Biochim Biophys Acta. 2006 Sep-Oct;1757(9-10):1324-9. Epub 2006 May 9.
+http://www.ncbi.nlm.nih.gov/pubmed/16765906 
+http://dx.doi.org//10.1016/j.bbabio.2006.04.024 >doi 10.1016/j.bbabio.2006.04.024</p>
+Amino acid residues that determine functional specificity of NADP- and NAD-dependent isocitrate and isopropylmalate dehydrogenases.
+Kalinina, O. V.; Gelfand, M. S.
+Proteins. 2006 Sep 1;64(4):1001-9.
+http://www.ncbi.nlm.nih.gov/pubmed/16767773 
+http://dx.doi.org//10.1002/prot.21027 >doi 10.1002/prot.21027</p>
+If cancer is a special case of phenoptosis, how can we conquer it?
+Skulachev, V. P.
+Biochemistry (Mosc). 2006 Aug;71(8):930-1.
+http://www.ncbi.nlm.nih.gov/pubmed/16986232
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Optimal spectral coordination of subantennae in natural antennae as an efficient  strategy for light harvesting in photosynthesis.
+Novikov, A. A.; Taisova, A. S.; Fetisova, Z. G.
+J Bioinform Comput Biol. 2006 Aug;4(4):887-909.
+http://www.ncbi.nlm.nih.gov/pubmed/17007073
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+EDAS, databases of alternatively spliced human genes.
+Nurtdinov, R. N.; Neverov, A. D.; Mal'ko, D. B.; Kosmodem'ianskii, I. A.; Ermakova, E. O.; Ramenskii, V. E.; Mironov, A. A.; Gel'fand, M. S.
+Biofizika. 2006 Jul-Aug;51(4):589-92.
+http://www.ncbi.nlm.nih.gov/pubmed/16909834
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+PHOG: a database of supergenomes built from proteome complements.
+Merkeev, I. V.; Novichkov, P. S.; Mironov, A. A.
+BMC Evol Biol. 2006 Jun 22;6:52.
+http://www.ncbi.nlm.nih.gov/pubmed/16792803 
+http://dx.doi.org//10.1186/1471-2148-6-52 >doi 10.1186/1471-2148-6-52</p>
+PHOG-BLAST--a new generation tool for fast similarity search of protein families.
+Merkeev, I. V.; Mironov, A. A.
+BMC Evol Biol. 2006 Jun 22;6:51.
+http://www.ncbi.nlm.nih.gov/pubmed/16792802 
+http://dx.doi.org//10.1186/1471-2148-6-51 >doi 10.1186/1471-2148-6-51</p>
+Brain pyruvate and 2-oxoglutarate dehydrogenase complexes are mitochondrial targets of the CoA ester of the Refsum disease marker phytanic acid.
+Bunik, V. I.; Raddatz, G.; Wanders, R. J.; Reiser, G.
+FEBS Lett. 2006 Jun 12;580(14):3551-7. Epub 2006 May 24.
+http://www.ncbi.nlm.nih.gov/pubmed/16737698 
+http://dx.doi.org//10.1016/j.febslet.2006.05.040 >doi 10.1016/j.febslet.2006.05.040</p>
+A metabolic network in the evolutionary context: multiscale structure and modularity.
+Spirin, V.; Gelfand, M. S.; Mironov, A. A.; Mirny, L. A.
+Proc Natl Acad Sci U S A. 2006 Jun 6;103(23):8774-9. Epub 2006 May 26.
+http://www.ncbi.nlm.nih.gov/pubmed/16731630 
+http://dx.doi.org//10.1073/pnas.0510258103 >doi 10.1073/pnas.0510258103</p>
+Comparative genomics of regulation of heavy metal resistance in Eubacteria.
+Permina, E. A.; Kazakov, A. E.; Kalinina, O. V.; Gelfand, M. S.
+BMC Microbiol. 2006 Jun 5;6:49.
+http://www.ncbi.nlm.nih.gov/pubmed/16753059 
+http://dx.doi.org//10.1186/1471-2180-6-49 >doi 10.1186/1471-2180-6-49</p>
+Antibodies to inactive conformations of glyceraldehyde-3-phosphate dehydrogenase  inactivate the apo- and holoforms of the enzyme.
+Arutiunova, E. I.; Pleten, A. P.; Nagradova, N. K.; Muronetz, V. I.
+Biochemistry (Mosc). 2006 Jun;71(6):685-91.
+http://www.ncbi.nlm.nih.gov/pubmed/16827661
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Evolution of transcriptional regulatory networks in microbial genomes.
+Gelfand, M. S.
+Curr Opin Struct Biol. 2006 Jun;16(3):420-9. Epub 2006 May 2.
+http://www.ncbi.nlm.nih.gov/pubmed/16650982 
+http://dx.doi.org//10.1016/j.sbi.2006.04.001 >doi 10.1016/j.sbi.2006.04.001</p>
+Membrane probability profile construction based on amino acids sequences multiple alignment.
+Sutormin, R. A.; Mironov, A. A.
+Mol Biol (Mosk). 2006 May-Jun;40(3):541-5.
+http://www.ncbi.nlm.nih.gov/pubmed/16813173
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+ClusterTree-RS: the binary tree algorithm for identification of co-regulated genes by clustering regulatory signals.
+Stavrovskaia, E. D.; Makeev, V. I. u.; Mironov, A. A.
+Mol Biol (Mosk). 2006 May-Jun;40(3):524-32.
+http://www.ncbi.nlm.nih.gov/pubmed/16813171
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Fast rate of evolution in alternatively spliced coding regions of mammalian genes.
+Ermakova, E. O.; Nurtdinov, R. N.; Gelfand, M. S.
+BMC Genomics. 2006 Apr 18;7:84.
+http://www.ncbi.nlm.nih.gov/pubmed/16620375 
+http://dx.doi.org//10.1186/1471-2164-7-84 >doi 10.1186/1471-2164-7-84</p>
+Bioenergetic aspects of apoptosis, necrosis and mitoptosis.
+Skulachev, V. P.
+Apoptosis. 2006 Apr;11(4):473-85.
+http://www.ncbi.nlm.nih.gov/pubmed/16532373 
+http://dx.doi.org//10.1007/s10495-006-5881-9 >doi 10.1007/s10495-006-5881-9</p>
+Unfolded, oxidized, and thermoinactivated forms of glyceraldehyde-3-phosphate dehydrogenase interact with the chaperonin GroEL in different ways.
+Naletova, I. N.; Muronetz, V. I.; Schmalhausen, E. V.
+Biochim Biophys Acta. 2006 Apr;1764(4):831-8. Epub 2006 Mar 6.
+http://www.ncbi.nlm.nih.gov/pubmed/16551514 
+http://dx.doi.org//10.1016/j.bbapap.2006.02.002 >doi 10.1016/j.bbapap.2006.02.002</p>
+Evolution of exon-intron structure and alternative splicing in fruit flies and malarial mosquito genomes.
+Malko, D. B.; Makeev, V. J.; Mironov, A. A.; Gelfand, M. S.
+Genome Res. 2006 Apr;16(4):505-9. Epub 2006 Mar 6.
+http://www.ncbi.nlm.nih.gov/pubmed/16520458 
+http://dx.doi.org//10.1101/gr.4236606 >doi 10.1101/gr.4236606</p>
+RNAKinetics: a web server that models secondary structure kinetics of an elongating RNA.
+Danilova, L. V.; Pervouchine, D. D.; Favorov, A. V.; Mironov, A. A.
+J Bioinform Comput Biol. 2006 Apr;4(2):589-96.
+http://www.ncbi.nlm.nih.gov/pubmed/16819804
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Polymorphism in the 5'-promoter region of serine racemase gene in schizophrenia.
+Goltsov, A. Y.; Loseva, J. G.; Andreeva, T. V.; Grigorenko, A. P.; Abramova, L. I.; Kaleda, V. G.; Orlova, V. A.; Moliaka, Y. K.; Rogaev, E. I.
+Mol Psychiatry. 2006 Apr;11(4):325-6.
+http://www.ncbi.nlm.nih.gov/pubmed/16446740 
+http://dx.doi.org//10.1038/sj.mp.4001801 >doi 10.1038/sj.mp.4001801</p>
+Short fuzzy tandem repeats in genomic sequences, identification, and possible role in regulation of gene expression.
+Boeva, V.; Regnier, M.; Papatsenko, D.; Makeev, V.
+Bioinformatics. 2006 Mar 15;22(6):676-84. Epub 2006 Jan 10.
+http://www.ncbi.nlm.nih.gov/pubmed/16403795 
+http://dx.doi.org//10.1093/bioinformatics/btk032 >doi 10.1093/bioinformatics/btk032</p>
+A new method for spectrophotometric assay of activity of cross-linked penicillin  acylase aggregates.
+Pchelintsev, N. A.; Youshko, M. I.; Svedas, V. K.
+Biochemistry (Mosc). 2006 Mar;71(3):315-9.
+http://www.ncbi.nlm.nih.gov/pubmed/16545069
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Complete mitochondrial genome and phylogeny of Pleistocene mammoth Mammuthus primigenius.
+Rogaev, E. I.; Moliaka, Y. K.; Malyarchuk, B. A.; Kondrashov, F. A.; Derenko, M. V.; Chumakov, I.; Grigorenko, A. P.
+PLoS Biol. 2006 Mar;4(3):e73. Epub 2006 Feb 7.
+http://www.ncbi.nlm.nih.gov/pubmed/16448217 
+http://dx.doi.org//10.1371/journal.pbio.0040073 >doi 10.1371/journal.pbio.0040073</p>
+Computational identification of BioR, a transcriptional regulator of biotin metabolism in Alphaproteobacteria, and of its binding signal.
+Rodionov, D. A.; Gelfand, M. S.
+FEMS Microbiol Lett. 2006 Feb;255(1):102-7.
+http://www.ncbi.nlm.nih.gov/pubmed/16436068 
+http://dx.doi.org//10.1111/j.1574-6968.2005.00070.x >doi 10.1111/j.1574-6968.2005.00070.x</p>
+Low cetyltrimethylammonium bromide concentrations induce reversible amorphous aggregation of tobacco mosaic virus and its coat protein at room temperature.
+Panyukov, Y. V.; Nemykh, M. A.; Rafikova, E. R.; Kurganov, B. I.; Yaguzhinsky, L. S.; Arutyunyan, A. M.; Drachev, V. A.; Dobrov, E. N.
+Int J Biochem Cell Biol. 2006;38(4):533-43. Epub 2005 Nov 14.
+http://www.ncbi.nlm.nih.gov/pubmed/16318921 
+http://dx.doi.org//10.1016/j.biocel.2005.10.014 >doi 10.1016/j.biocel.2005.10.014</p>
+2005
+Small RNAs in human brain development and disorders.
+Rogaev, E. I.
+Biochemistry (Mosc). 2005 Dec;70(12):1404-7.
+http://www.ncbi.nlm.nih.gov/pubmed/16417465
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Efficient enantiomeric analysis of primary amines and amino alcohols by high-performance liquid chromatography with precolumn derivatization using novel  chiral SH-reagent N-(R)-mandelyl-(S)-cysteine.
+Guranda, D. T.; Kudryavtsev, P. A.; Khimiuk, A. Y.; Svedas, V. K.
+J Chromatogr A. 2005 Nov 18;1095(1-2):89-93. Epub 2005 Sep 6.
+http://www.ncbi.nlm.nih.gov/pubmed/16275287 
+http://dx.doi.org//10.1016/j.chroma.2005.07.125 >doi 10.1016/j.chroma.2005.07.125</p>
+Alternative splicing and protein function.
+Neverov, A. D.; Artamonova, I. I.; Nurtdinov, R. N.; Frishman, D.; Gelfand, M. S.; Mironov, A. A.
+BMC Bioinformatics. 2005 Nov 7;6:266.
+http://www.ncbi.nlm.nih.gov/pubmed/16274476 
+http://dx.doi.org//10.1186/1471-2105-6-266 >doi 10.1186/1471-2105-6-266</p>
+Aliphatic amidase from Rhodococcus rhodochrous M8 is related to the nitrilase/cyanide hydratase family.
+Pertsovich, S. I.; Guranda, D. T.; Podchernyaev, D. A.; Yanenko, A. S.; Svedas, V. K.
+Biochemistry (Mosc). 2005 Nov;70(11):1280-7.
+http://www.ncbi.nlm.nih.gov/pubmed/16336190
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Mining sequence annotation databanks for association patterns.
+Artamonova, I. I.; Frishman, G.; Gelfand, M. S.; Frishman, D.
+Bioinformatics. 2005 Nov 1;21 Suppl 3:iii49-57.
+http://www.ncbi.nlm.nih.gov/pubmed/16306393 
+http://dx.doi.org//10.1093/bioinformatics/bti1206 >doi 10.1093/bioinformatics/bti1206</p>
+Function of the ribosomal E-site: a mutagenesis study.
+Sergiev, P. V.; Lesnyak, D. V.; Kiparisov, S. V.; Burakovsky, D. E.; Leonov, A. A.; Bogdanov, A. A.; Brimacombe, R.; Dontsova, O. A.
+Nucleic Acids Res. 2005 Oct 20;33(18):6048-56. Print 2005.
+http://www.ncbi.nlm.nih.gov/pubmed/16243787 
+http://dx.doi.org//10.1093/nar/gki910 >doi 10.1093/nar/gki910</p>
+The conserved A-site finger of the 23S rRNA: just one of the intersubunit bridges or a part of the allosteric communication pathway?
+Sergiev, P. V.; Kiparisov, S. V.; Burakovsky, D. E.; Lesnyak, D. V.; Leonov, A. A.; Bogdanov, A. A.; Dontsova, O. A.
+J Mol Biol. 2005 Oct 14;353(1):116-23.
+http://www.ncbi.nlm.nih.gov/pubmed/16165153 
+http://dx.doi.org//10.1016/j.jmb.2005.08.006 >doi 10.1016/j.jmb.2005.08.006</p>
+Dissimilatory metabolism of nitrogen oxides in bacteria: comparative reconstruction of transcriptional networks.
+Rodionov, D. A.; Dubchak, I. L.; Arkin, A. P.; Alm, E. J.; Gelfand, M. S.
+PLoS Comput Biol. 2005 Oct;1(5):e55. Epub 2005 Oct 28.
+http://www.ncbi.nlm.nih.gov/pubmed/16261196 
+http://dx.doi.org//10.1371/journal.pcbi.0010055 >doi 10.1371/journal.pcbi.0010055</p>
+Common and specific amino acid residues in the prokaryotic polypeptide release factors RF1 and RF2: possible functional implications.
+Oparina, N. J.; Kalinina, O. V.; Gelfand, M. S.; Kisselev, L. L.
+Nucleic Acids Res. 2005 Sep 14;33(16):5226-34. Print 2005.
+http://www.ncbi.nlm.nih.gov/pubmed/16162810 
+http://dx.doi.org//10.1093/nar/gki841 >doi 10.1093/nar/gki841</p>
+Alteration in location of a conserved GTPase-associated center of the ribosome induced by mutagenesis influences the structure of peptidyltransferase center and activity of elongation factor G.
+Sergiev, P. V.; Lesnyak, D. V.; Burakovsky, D. E.; Kiparisov, S. V.; Leonov, A. A.; Bogdanov, A. A.; Brimacombe, R.; Dontsova, O. A.
+J Biol Chem. 2005 Sep 9;280(36):31882-9. Epub 2005 Jul 12.
+http://www.ncbi.nlm.nih.gov/pubmed/16014631 
+http://dx.doi.org//10.1074/jbc.M505670200 >doi 10.1074/jbc.M505670200</p>
+Comparative genomics analysis of nitrate and nitrite respiration in gamma proteobacteria.
+Ravcheev, D. A.; Rakhmaninova, A. B.; Mironov, A. A.; Gel'fand, M. S.
+Mol Biol (Mosk). 2005 Sep-Oct;39(5):832-46.
+http://www.ncbi.nlm.nih.gov/pubmed/16240717
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Phosphonate analogues of alpha-ketoglutarate inhibit the activity of the alpha-ketoglutarate dehydrogenase complex isolated from brain and in cultured cells.
+Bunik, V. I.; Denton, T. T.; Xu, H.; Thompson, C. M.; Cooper, A. J.; Gibson, G. E.
+Biochemistry. 2005 Aug 9;44(31):10552-61.
+http://www.ncbi.nlm.nih.gov/pubmed/16060664 
+http://dx.doi.org//10.1021/bi0503100 >doi 10.1021/bi0503100</p>
+A Gibbs sampler for identification of symmetrically structured, spaced DNA motifs with improved estimation of the signal length.
+Favorov, A. V.; Gelfand, M. S.; Gerasimova, A. V.; Ravcheev, D. A.; Mironov, A. A.; Makeev, V. J.
+Bioinformatics. 2005 May 15;21(10):2240-5. Epub 2005 Feb 22.
+http://www.ncbi.nlm.nih.gov/pubmed/15728117 
+http://dx.doi.org//10.1093/bioinformatics/bti336 >doi 10.1093/bioinformatics/bti336</p>
+How to clean the dirtiest place in the cell: cationic antioxidants as intramitochondrial ROS scavengers.
+Skulachev, V. P.
+IUBMB Life. 2005 Apr-May;57(4-5):305-10.
+http://www.ncbi.nlm.nih.gov/pubmed/16036614 
+http://dx.doi.org//10.1080/15216540500092161 >doi 10.1080/15216540500092161</p>
+Assessing computational tools for the discovery of transcription factor binding sites.
+Tompa, M.; Li, N.; Bailey, T. L.; Church, G. M.; De&nbsp;Moor, B.; Eskin, E.; Favorov, A. V.; Frith, M. C.; Fu, Y.; Kent, W. J.; Makeev, V. J.; Mironov, A. A.; Noble, W. S.; Pavesi, G.; Pesole, G.; Regnier, M.; Simonis, N.; Sinha, S.; Thijs, G.; van&nbsp;Helden, J.; Vandenbogaert, M.; Weng, Z.; Workman, C.; Ye, C.; Zhu, Z.
+Nat Biotechnol. 2005 Jan;23(1):137-44.
+http://www.ncbi.nlm.nih.gov/pubmed/15637633 
+http://dx.doi.org//10.1038/nbt1053 >doi 10.1038/nbt1053</p>
+2004
+pH Stability of penicillin acylase from Escherichia coli.
+Guranda, D. T.; Volovik, T. S.; Svedas, V. K.
+Biochemistry (Mosc). 2004 Dec;69(12):1386-90.
+http://www.ncbi.nlm.nih.gov/pubmed/15627395
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Comparative genomics of the KdgR regulon in Erwinia chrysanthemi 3937 and other gamma-proteobacteria.
+Rodionov, D. A.; Gelfand, M. S.; Hugouvieux-Cotte-Pattat, N.
+Microbiology. 2004 Nov;150(Pt 11):3571-90.
+http://www.ncbi.nlm.nih.gov/pubmed/15528647 
+http://dx.doi.org//10.1099/mic.0.27041-0 >doi 10.1099/mic.0.27041-0</p>
+Genome-wide molecular clock and horizontal gene transfer in bacterial evolution.
+Novichkov, P. S.; Omelchenko, M. V.; Gelfand, M. S.; Mironov, A. A.; Wolf, Y. I.; Koonin, E. V.
+J Bacteriol. 2004 Oct;186(19):6575-85.
+http://www.ncbi.nlm.nih.gov/pubmed/15375139 
+http://dx.doi.org//10.1128/JB.186.19.6575-6585.2004 >doi 10.1128/JB.186.19.6575-6585.2004</p>
+A new N-acyl derivative of (S)-cysteine for quantitative determination of enantiomers of amino compounds by HPLC method with a precolumn modification with  o-phthalaldehyde.
+Guranda, D. T.; Shapovalova, I. V.; Shviadas, V. K.
+Bioorg Khim. 2004 Sep-Oct;30(5):451-7.
+http://www.ncbi.nlm.nih.gov/pubmed/15562964
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+Gene cloning, expression and characterization of novel phytase from Obesumbacterium proteus.
+Zinin, N. V.; Serkina, A. V.; Gelfand, M. S.; Shevelev, A. B.; Sineoky, S. P.
+FEMS Microbiol Lett. 2004 Jul 15;236(2):283-90.
+http://www.ncbi.nlm.nih.gov/pubmed/15251209 
+http://dx.doi.org//10.1016/j.femsle.2004.05.051 >doi 10.1016/j.femsle.2004.05.051</p>
+A discrepancy between the experimental and theoretical data on energy migration  from B800 to B850 in LH-2 antennary complexes in purple bacteria.
+Borisov, A. I. u.; Nikulova, A. A.
+Biofizika. 2004 Jul-Aug;49(4):653-8.
+http://www.ncbi.nlm.nih.gov/pubmed/15458248
+http://dx.doi.org//10.1016/j.bbabio.2013.07.006
+SDPpred: a tool for prediction of amino acid residues that determine differences  in functional specificity of homologous proteins.
+Kalinina, O. V.; Novichkov, P. S.; Mironov, A. A.; Gelfand, M. S.; Rakhmaninova, A. B.
+Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W424-8.
+http://www.ncbi.nlm.nih.gov/pubmed/15215423 
+http://dx.doi.org//10.1093/nar/gkh391 >doi 10.1093/nar/gkh391</p>
+Comparative genomics of the methionine metabolism in Gram-positive bacteria: a variety of regulatory systems.
+Rodionov, D. A.; Vitreschak, A. G.; Mironov, A. A.; Gelfand, M. S.
+Nucleic Acids Res. 2004 Jun 23;32(11):3340-53. Print 2004.
+http://www.ncbi.nlm.nih.gov/pubmed/15215334 
+http://dx.doi.org//10.1093/nar/gkh659 >doi 10.1093/nar/gkh659</p>
+No statistical support for correlation between the positions of protein interaction sites and alternatively spliced regions.
+Offman, M. N.; Nurtdinov, R. N.; Gelfand, M. S.; Frishman, D.
+BMC Bioinformatics. 2004 Apr 19;5:41.
+http://www.ncbi.nlm.nih.gov/pubmed/15096275 
+http://dx.doi.org//10.1186/1471-2105-5-41 >doi 10.1186/1471-2105-5-41</p>
+Penicillin acylase-catalyzed synthesis of beta-lactam antibiotics in highly condensed aqueous systems: beneficial impact of kinetic substrate supersaturation.
+Youshko, M. I.; Moody, H. M.; Bukhanov, A. L.; Boosten, W. H.; Svedas, V. K.
+Biotechnol Bioeng. 2004 Feb 5;85(3):323-9.
+http://www.ncbi.nlm.nih.gov/pubmed/14748088 
+http://dx.doi.org//10.1002/bit.10863 >doi 10.1002/bit.10863</p>
+Reconstruction of regulatory and metabolic pathways in metal-reducing delta-proteobacteria.
+Rodionov, D. A.; Dubchak, I.; Arkin, A.; Alm, E.; Gelfand, M. S.
+Genome Biol. 2004;5(11):R90. Epub 2004 Oct 22.
+http://www.ncbi.nlm.nih.gov/pubmed/15535866 
+http://dx.doi.org//10.1186/gb-2004-5-11-r90 >doi 10.1186/gb-2004-5-11-r90</p>
