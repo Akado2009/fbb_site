@@ -30,21 +30,6 @@ ul.header li a {
   display: inline-block;
 }
 
-.content {
-  background-color: white;
-  padding: 20px;
-  min-height: 300px;
-}
-
-.content h2 {
-  padding: 0;
-  margin: 0;
-}
-
-.content li {
-  margin-bottom: 10px;
-}
-
 .active {
     background-color: #0099FF;
 }
@@ -59,4 +44,67 @@ ul.header li a {
 
 .strong-text {
   font-size: 16px !important;
+}
+
+#main-info {
+  width: 70%;
+  font-size: 16px;
+}
+
+
+.top {
+  display: inline-block;
+  width: 4em;
+  height: 4em;
+  border: 0.5em solid #333;
+  border-radius: 50%;
+  margin-right: 0.75em;
+}
+
+.top:after {
+  content: '';
+	display: inline-block;
+  margin-top: 1em;
+  width: 1.4em;
+  height: 1.4em;
+  margin-left: 0.8em;
+  border-top: 0.5em solid #333;
+  border-right: 0.5em solid #333;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#news-info {
+  width: 70%;
+  height: 700px;
+}
+
+#students-info {
+  width: 70%;
+  height: 500px;
+  font-size: 20px;
+}
+
+#apply-info {
+  width: 70%;
+  font-size: 20px;
+}
+
+
+.demo {
+  margin: 0 auto;
+  height: 80px;
+  background-color: #133252;
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
+
+.tween-one {
+  width: 100%;
+  opacity: 0;
+  color: #fff;
+  font-size: 32px;
+  text-align: center;
+  padding-bottom: 50px;
 }
