@@ -20,7 +20,8 @@ config.entry = {
     about: './static/js/about',
     lectorium: './static/js/lectorium',
     science: './static/js/science',
-    phd: './static/js/phd'
+    phd: './static/js/phd',
+    feedback: './static/js/feedback'
 };
 
 module.exports = config;

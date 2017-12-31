@@ -4,7 +4,7 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.contrib.auth.decorators import login_required
 
-from fbb_site.views import IndexView, ApplyView, ContactsViews, AboutView, PhdView, LectureView, ScienceView, StudentsView, ProfileView
+from fbb_site.views import IndexView, ApplyView, ContactsViews, AboutView, PhdView, LectureView, ScienceView, StudentsView, ProfileView, FeedbackView
 
 
 urlpatterns = [
@@ -17,6 +17,7 @@ urlpatterns = [
     url(r'^science/$', ScienceView.as_view(), name='science'),
     url(r'^students/$', StudentsView.as_view(), name='students'),
     url(r'^profile/$', ProfileView.as_view(), name='profile'),
+    url(r'^feedback/$', FeedbackView.as_view(), name='feedback'),
     url(r'^users/', include('users.urls', namespace='users')),
     url(r'^admin/', admin.site.urls),
 

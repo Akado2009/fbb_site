@@ -224,3 +224,21 @@ class Publication(models.Model):
 #     description = models.CharField(max_length=10000)
 #     url = models.CharField(max_length=128)
 #     icon = models.ImageField()
+
+
+class FeedbackFAQ(models.Model):
+    question = models.CharField(max_length=1024)
+    answer = models.CharField(max_length=15000)
+    created_at = models.DateTimeField(auto_now_add=True)
+    
+    class Meta:
+         ordering = ['created_at']
+
+
+class SimpleFeedback(models.Model):
+    content = models.CharField(max_length=15000)
+    author = models.CharField(max_length=128, default="Anonymous")
+    created_at = models.DateTimeField(auto_now_add=True)
+    
+    class Meta:
+         ordering = ['created_at']

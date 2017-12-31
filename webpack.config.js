@@ -14,7 +14,8 @@ module.exports = {
         './static/js/lectorium',
         './static/js/science',
         './static/js/phd',
-        './static/js/apply'
+        './static/js/apply',
+        './static/js/feedback'
     ],
     entry: {
         main: './static/js/main',
@@ -25,6 +26,7 @@ module.exports = {
         science: './static/js/science',
         phd: './static/js/phd',
         apply: './static/js/apply',
+        feedback: './static/js/feedback'
     },
     output: {
         path: path.resolve('./static/bundles/'),

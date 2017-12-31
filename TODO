@@ -4,3 +4,4 @@
 4. message for empty year in publications
 5. news
 6. check spacing between lines in large portions of text
+7. mmake all get request = ajax with chunks

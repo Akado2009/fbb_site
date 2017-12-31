@@ -16,7 +16,7 @@ from django.contrib.auth.models import User
 
 from rest_framework import viewsets
 
-from .models import Lectorium, Publication
+from .models import Lectorium, Publication, SimpleFeedback, FeedbackFAQ
 
 
 class IndexView(TemplateView):
@@ -54,6 +54,11 @@ class StudentsView(TemplateView):
 class ProfileView(TemplateView):
     template_name = 'fbb_site/profile.html'
 
+
+class FeedbackView(TemplateView):
+    template_name = 'fbb_site/feedback.html'
+
+    
 def get_all_lectoriums(request):
     lectoriums = Lectorium.objects.all()
     data = []
@@ -133,3 +138,21 @@ def get_publication_by_id(request, id):
     }
 
     return JsonResponse({ 'data' : return_publication})
+
+def get_faqs(request):
+
+    faqs = FeedbackFAQ.objects.all().values('question', 'answer', 'id')
+
+    return JsonResponse({ 'data' : list(faqs)[::-1] })
+
+def get_feedback(request):
+    
+    feedback = SimpleFeedback.objects.all().values('id', 'author', 'content')
+    
+    return JsonResponse({ 'data' : list(feedback)[::-1] })
+
+def create_feedback(request):
+    new_feedback = SimpleFeedback(author=request.POST.get("author"), content=request.POST.get("content"))
+    new_feedback.save()
+
+    return JsonResponse({ 'success': 'success' })
