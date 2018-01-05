@@ -9,21 +9,33 @@
 }
 
 #about-info {
-    width: 70%;
     font-size: 16px;
 }
 
 .float-right {
     float: right;
-    padding: 5px;
+    padding: 10px;
 }
 
 .float-left {
     float: left;
-    padding: 5px;
+    padding: 10px;
 }
 
 .custom-size-pic {
     width: 400px;
     height: 200px;
+}
+
+#general-info, #structure-info {
+    width: 70%;
+    font-size: 16px;
+}
+
+#additional-info {
+    list-style-type: none;
+}
+
+#additional-info li {
+    padding: 10px;
 }

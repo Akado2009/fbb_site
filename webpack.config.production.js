@@ -21,7 +21,8 @@ config.entry = {
     lectorium: './static/js/lectorium',
     science: './static/js/science',
     phd: './static/js/phd',
-    feedback: './static/js/feedback'
+    feedback: './static/js/feedback',
+    news: './static/js/news'
 };
 
 module.exports = config;

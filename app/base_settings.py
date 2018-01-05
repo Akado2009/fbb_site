@@ -35,6 +35,7 @@ THIRD_PARTY_APPS = [
     'mptt',
     'rest_framework',
     'webpack_loader',
+    'tinymce'
 ]
 
 INSTALLED_APPS = [
@@ -128,4 +129,17 @@ WEBPACK_LOADER = {
         'BUNDLE_DIR_NAME': 'bundles/',
         'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats-prod.json'),
     }
+}
+
+TINYMCE_CONFIG = {
+    'selector': 'textarea',
+    'theme': 'modern',
+    'plugins': 'link image preview codesample contextmenu table code lists',
+    'toolbar1': 'bold italic underline | alignleft aligncenter alignright alignjustify '
+               '| bullist numlist | outdent indent | table | link image | codesample | preview code',
+    'contextmenu': 'formats | link image',
+    'menubar': False,
+    'inline': False,
+    'statusbar': True,
+    'height': 360,
 }

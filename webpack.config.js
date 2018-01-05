@@ -15,7 +15,8 @@ module.exports = {
         './static/js/science',
         './static/js/phd',
         './static/js/apply',
-        './static/js/feedback'
+        './static/js/feedback',
+        './statoc/js/news'
     ],
     entry: {
         main: './static/js/main',
@@ -26,7 +27,8 @@ module.exports = {
         science: './static/js/science',
         phd: './static/js/phd',
         apply: './static/js/apply',
-        feedback: './static/js/feedback'
+        feedback: './static/js/feedback',
+        news: './static/js/news'
     },
     output: {
         path: path.resolve('./static/bundles/'),
@@ -62,7 +64,7 @@ module.exports = {
             },
             {
                 test: /\.(jpg|gif)$/,
-                loader: "file-loader"
+                loader: 'file-loader'
             },
             {
                 test: /\.(woff|woff2)(\?v=\d+\.\d+\.\d+)?$/,
@@ -79,7 +81,11 @@ module.exports = {
             {
                 test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,
                 loader: 'url-loader?limit=10000&mimetype=image/svg+xml'
-            }
+            },
+            {
+                test: /\.(pdf|rtf|doc)$/,
+                loader: 'file-loader',
+              }
         ]
     },
     resolve: {

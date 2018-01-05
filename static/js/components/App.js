@@ -2,6 +2,7 @@ import React, { Component, PureComponent } from "react";
 import { Grid, Row, Col } from 'react-bootstrap';
 import RaisedButton from 'material-ui/RaisedButton';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import Dialog from 'material-ui/Dialog';
 import AppBar from 'material-ui/AppBar';
 import {
   Route,
@@ -18,6 +19,7 @@ const ScrollOverPack = ScrollAnim.OverPack;
 import '../../styles/base.css';
 import '../../styles/header.css';
 import '../../styles/footer.css';
+import '../../styles/lectorium.css';
 
 import * as utils from '../utils.js';
 
@@ -54,9 +56,30 @@ export class App extends Component {
     constructor () {
         super ();
 
+        this.state = {
+            news: null,
+            currentNews: null,
+            open: false
+        }
+
         this.changeToStudents = this.changeToStudents.bind(this);
         this.changeToApply = this.changeToApply.bind(this);
+        this.getNewsCallback = this.getNewsCallback.bind(this);
+        this.getNews = this.getNews.bind(this);
+        this.handleClose = this.handleClose.bind(this);
         // this.changeToNews = this.changeToNews.bind(this);
+    }
+
+    componentDidMount () {
+        $.get('/fbb_site/get_news/5/', this.getNewsCallback);
+    }
+
+    getNewsCallback (data) {
+        this.setState({
+            news: data.data,
+            currentNews: data.data[0]
+        });
+        console.log(this.state.news);
     }
 
     changeToApply (e) {
@@ -67,8 +90,60 @@ export class App extends Component {
         window.location = 'http://127.0.0.1:8000/students/';
     }
 
+    getNews (e) {
+        let id = parseInt(e.target.id);
+        this.setState({
+            open: true,
+            currentNews: this.state.news[id]
+        });
+        console.log(this.state.currentNews.content);
+    }
+
+    handleClose () {
+        this.setState({
+            open: false
+        });
+    }
+
     render() {
+        let divs = [];
+        if (this.state.news) {
+            for (let i = 0; i < this.state.news.length; i++){
+                let news = this.state.news[i];
+                var newsObject = 
+                <div className="demo" key={i + 1} id={i}>
+                    <br />
+                    <span className="date">
+                    <span className="month">
+                    {news.month}/  {news.year}
+                    </span>
+                    <span className="day">
+                    {news.day}
+                    </span> 
+                    </span> <strong><u><a href="#" onClick={this.getNews} id={i}>{news.name}</a></u></strong><br />
+                    {news.abstract}
+                </div>;
+
+                divs.push(newsObject);
+            }
+        }
+        var dialog;
+        if (this.state.currentNews) {
+            dialog = (
+                <Dialog
+                modal={false}
+                open={this.state.open}
+                onRequestClose={this.handleClose}
+                >  
+                <div className="particular-article">
+                    <strong><p className="news-name-popup">{this.state.currentNews.name}</p></strong><br />
+                    <div dangerouslySetInnerHTML={{__html: this.state.currentNews.content}} />
+                </div>
+                </Dialog>
+            );
+        }
         return (
+            <MuiThemeProvider>
                 <div>
                     <Row>
                     <Col mdOffset={3}>
@@ -80,15 +155,24 @@ export class App extends Component {
                         <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
                             News
                         </TweenOne>
+                        {/* dermo, nado perepisat */}
                         <QueueAnim key="1">
-                            <div key="0" className="demo">NOVOST 1</div>
-                            <div key="1" className="demo" style={{ backgroundColor: '#F38EAD' }}> NOVOST 2</div>
-                            <div key="2" className="demo">NOVOST 3</div>
-                            <div key="3" className="demo">NOVOST 4</div>
-                            <div key="4" className="demo">NOVOST 5</div>
-                            <div key="5" className="demo">NOVOST 6</div>
+                            {divs}
+                            {/* <div key="0" className="demo">
+                            
+                            </div>
+                            <div key="1" className="demo">
+                            </div>
+                            <div key="2" className="demo">
+                            </div>
+                            <div key="3" className="demo">
+                            </div>
+                            <div key="4" className="demo">
+                            </div> */}
+                            {dialog}
                         </QueueAnim>
                     </ScrollOverPack>
+                    <p><a href="/news">All news</a></p>
                     <ScrollOverPack
                         id="apply-info"
                         playScale="50vh"
@@ -153,140 +237,10 @@ export class App extends Component {
                     </Col>
                     </Row>
                 </div>
+            </MuiThemeProvider>
         );
     }
 }
-
-class Home extends React.Component {
-    render() {
-      return (
-        <div id="main-info">
-          <h2>HELLO</h2>
-          <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>
-          <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>        <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>
-          <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
-          <ScrollToTop showUnder={50}>
-          <span className="top"></span>
-        </ScrollToTop>
-        </div>
-      );
-    }
-  }
 
 export class Footer extends Component {
     render() {
@@ -310,7 +264,7 @@ export class Footer extends Component {
                         <span className="glyphicon glyphicon-phone-alt"></span><strong className="storng-text"> Phone</strong>: <br />
                         +7 (495) 939-41-95 <br />
                         +7 (495) 939-10-00 <br />
-                        <span className="glyphicon glyphicon-envelope"></span> <strong className="strong-text"> E-mail</strong>: <br />
+                        <span className="glyphicon glyphicon-envelope"></span><strong className="strong-text"> E-mail</strong>: <br />
                         Ebanoe_dermo@dermo.com 
                     </Col>
                     <Col md={2}>

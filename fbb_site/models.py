@@ -8,6 +8,7 @@
 from __future__ import unicode_literals
 
 from django.db import models
+from tinymce import HTMLField
 
 
 class AccountEmailaddress(models.Model):
@@ -242,3 +243,15 @@ class SimpleFeedback(models.Model):
     
     class Meta:
          ordering = ['created_at']
+
+
+# class SubjectProgram(models.Model):
+#     subject = models.CharField(max_length=128)
+#     content = models.CharField(max_length=20000)
+
+
+class News(models.Model):
+    name = models.CharField(max_length=350)
+    abstract = models.CharField(max_length=700)
+    created_at = models.DateTimeField(auto_now_add=True)
+    content = HTMLField('content')

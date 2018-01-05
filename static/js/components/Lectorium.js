@@ -101,13 +101,12 @@ class Current extends React.Component {
     }
 
     componentDidMount () {
-        $.get('/fbb_site/get_five_last_lectoriums/', this.apiCallback);
+        $.get('/fbb_site/get_lectoriums/5/', this.apiCallback);
     }
     
     render () {
         let data = [];
         if (this.state.lectoriums) {
-            console.log(this.state.lectoriums);
             for (let lectorium of this.state.lectoriums){
                 var lectoirumObject = 
                 <Row>
@@ -154,7 +153,7 @@ class Archieve extends React.Component {
     }
 
     componentDidMount () {
-        $.get('/fbb_site/get_all_lectoriums/', this.apiCallback);
+        $.get('/fbb_site/get_lectoriums/', this.apiCallback);
     }
 
     apiCallback (data) {

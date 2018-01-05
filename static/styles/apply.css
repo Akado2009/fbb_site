@@ -27,3 +27,27 @@ ul.horizontal-menu-router li a {
 a:link, a:visited {
     color: #ff507a;
 }
+
+#biochemistry-info, #class-info, #mol-info, #phd-info, #biology-info, #chemistry-info, #physics-info, #russian-info, #company-info {
+    width: 70%;
+    font-size: 16px;
+}
+
+#map {
+    width: 100%;
+    height: 500px;
+}
+
+.float-left {
+    float: left;
+    padding: 5px;
+}
+
+.float-right {
+    float: right;
+    padding: 5px;
+}
+
+#additional-info {
+    list-style-type: none;
+}

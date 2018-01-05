@@ -184,6 +184,7 @@ class FAQ extends React.Component {
                     <div className="simple-question">
                         <strong>Question:</strong> {faq.question} <br /><br />
                         <strong>Answer:</strong><p className="faq-answer"> {faq.answer} </p><br />
+                        {/* <p dangerouslySetInnerHTML={{__html: marked(faq.answer)}} /> */}
                     </div>
                 )
             }

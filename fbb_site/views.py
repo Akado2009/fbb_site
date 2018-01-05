@@ -16,7 +16,7 @@ from django.contrib.auth.models import User
 
 from rest_framework import viewsets
 
-from .models import Lectorium, Publication, SimpleFeedback, FeedbackFAQ
+from .models import Lectorium, Publication, SimpleFeedback, FeedbackFAQ, News
 
 
 class IndexView(TemplateView):
@@ -58,15 +58,9 @@ class ProfileView(TemplateView):
 class FeedbackView(TemplateView):
     template_name = 'fbb_site/feedback.html'
 
-    
-def get_all_lectoriums(request):
-    lectoriums = Lectorium.objects.all()
-    data = []
-    for lectorium in lectoriums:
-        data.append([lectorium.date, lectorium.professor, lectorium.name])
-    data = sorted(data, key=lambda x: x[0], reverse=True)
-    return JsonResponse({ 'data': data })
 
+class NewsView(TemplateView):
+    template_name = 'fbb_site/news.html'
 
 RUSSIAN_MONTH = {
     '1': 'Января',
@@ -98,24 +92,46 @@ ENGLISH_MONTH = {
     '12': 'Decembre',
 }
 
-
-def get_five_last_lectoriums(request):
+def get_lectoriums(request, number=None):
     lectoriums = Lectorium.objects.all()
     data = []
     for lectorium in lectoriums:
         data.append([lectorium.date, lectorium.professor, lectorium.name])
     data = sorted(data, key=lambda x: x[0], reverse=True)
+    if number:
+        number = int(number)
+        new_data = []
+        for i in range(number):
+            current_info = {}
+            current_info['professor'] = data[i][1]
+            current_info['name'] = data[i][2]
+            current_info['day'], current_info['month'], current_info['year'] = data[i][0].day, data[i][0].month, data[i][0].year
+            current_info['rus_month'] = RUSSIAN_MONTH[str(current_info['month'])]
+            current_info['year'] = current_info['year'] % 100
+            new_data.append(current_info)
+        return JsonResponse({ 'data': new_data })
+    return JsonResponse({ 'data': data })
+
+def get_news(request, number=None):
+    news = News.objects.all()
+    data = []
+    for _news in news:
+        data.append([_news.created_at, _news.name, _news.abstract, _news.content])
+    data = sorted(data, key= lambda x: x[0], reverse=True)
+    if number:
+        number = int(number)
+        data = data[0: number]
     new_data = []
-    for i in range(5):
+    for _news in data: 
         current_info = {}
-        current_info['professor'] = data[i][1]
-        current_info['name'] = data[i][2]
-        current_info['day'], current_info['month'], current_info['year'] = data[i][0].day, data[i][0].month, data[i][0].year
+        current_info['name'] = _news[1]
+        current_info['abstract'] = _news[2]
+        current_info['content'] = _news[3]
+        current_info['day'], current_info['month'], current_info['year'] = _news[0].day, _news[0].month, _news[0].year
         current_info['rus_month'] = RUSSIAN_MONTH[str(current_info['month'])]
         current_info['year'] = current_info['year'] % 100
         new_data.append(current_info)
-
-    return JsonResponse({ 'data' : new_data })
+    return JsonResponse({ 'data': new_data })
 
 def get_publications_by_date(request, year):
 
@@ -156,3 +172,4 @@ def create_feedback(request):
     new_feedback.save()
 
     return JsonResponse({ 'success': 'success' })
+

@@ -1,4 +1,4 @@
-1. Knopka na dlinnih stranicah @vernyt naverh@
+1. Knopka na dlinnih stranicah @vernyt naverh@ (kak na indexe)
 2. sdelat granti
 3. feedback
 4. message for empty year in publications
@@ -6,3 +6,8 @@
 6. check spacing between lines in large portions of text
 7. mmake all get request = ajax with chunks
 8. menu fade on all pages
+9. animaciu na index dlya kartinok norm sdelat (Parallax skoree vsego)
+10. v apply programmy i programmi kursov sdealt dynamic vestkoi (iz lista brat programmy i td?)
+11. kurs pri registracii
+12. tinymce - add file sdelat? https://github.com/aisayko/Django-tinymce-filebrowser
+13. o facultete dopolnit - structuru (nado peresmotret users/professors/td)

@@ -77,7 +77,5 @@ def login(request):
 
 
 def logout(request):
-    print(100)
-    print(request)
     django_logout(request)
     return JsonResponse({'response': 'success'})
