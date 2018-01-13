@@ -51,7 +51,14 @@ $(window).scroll(function () {
 });
 
 
-export class App extends Component {
+export const App = (state) =>
+    <div id="main">
+        <News />
+        <Apply />
+        <Students />
+    </div>
+
+class News extends Component {
 
     constructor () {
         super ();
@@ -144,103 +151,90 @@ export class App extends Component {
         }
         return (
             <MuiThemeProvider>
-                <div>
+                <section id="news-info">
                     <Row>
                     <Col mdOffset={3}>
-                    <ScrollOverPack
-                        id="news-info"
-                        playScale="50vh"
-                        always={false}
-                    >
+                    <ScrollOverPack playScale="50vh" always={false} >
                         <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
                             News
                         </TweenOne>
-                        {/* dermo, nado perepisat */}
                         <QueueAnim key="1">
                             {divs}
-                            {/* <div key="0" className="demo">
-                            
-                            </div>
-                            <div key="1" className="demo">
-                            </div>
-                            <div key="2" className="demo">
-                            </div>
-                            <div key="3" className="demo">
-                            </div>
-                            <div key="4" className="demo">
-                            </div> */}
                             {dialog}
                         </QueueAnim>
                     </ScrollOverPack>
                     <p><a href="/news">All news</a></p>
-                    <ScrollOverPack
-                        id="apply-info"
-                        playScale="50vh"
-                        always={false}
-                    >
-                        <TweenOne className="tween-one" key="0">
-                        Students
-                        </TweenOne>
-                        <QueueAnim key="1" >
-                        <Row>
-                            <Col md={8}>
-                                <div key="0"><img src={APPLY} /></div>
-                            </Col>
-                            <Col md={4}>
-                                <div key="1" className="demo" style={{ backgroundColor: 'white' }}>
-                                    <h2>Поступаете? </h2>
-                                    <p> Играй с профитом!
-                                    Оформи дебетовую карту ALL Games и получай выгоду! 
-                                    - Вернем 5% за покупки на игровых платформах 
-                                    - До 2% в рублях будет возвращаться с других покупок 
-                                    </p>
-                                    <MuiThemeProvider>
-                                        <RaisedButton onClick={this.changeToApply} backgroundColor="#ffd1dc" label="Информация >" />
-                                    </MuiThemeProvider>
-                                </div>
-                            </Col>  
-                        </Row>
-                        </QueueAnim>
-                    </ScrollOverPack>
-                    <ScrollOverPack
-                        id="students-info"
-                        playScale="50vh"
-                        always={false}
-                    >
-                        <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
-                        Apply
-                        </TweenOne>
-                        <QueueAnim key="1">
-                        <Row>
-                            <Col md={4}>
-                                <div key="1" className="demo" style={{ backgroundColor: 'white' }}>
-                                    <h2>Уже учитесь? </h2>
-                                    <p> Играй с профитом!
-                                    Оформи дебетовую карту ALL Games и получай выгоду! 
-                                    - Вернем 5% за покупки на игровых платформах 
-                                    - До 2% в рублях будет возвращаться с других покупок 
-                                    </p>
-                                    <MuiThemeProvider>
-                                        <RaisedButton onClick={this.changeToStudents} backgroundColor="#ffd1dc" label="Информация >" />
-                                    </MuiThemeProvider>
-                                </div>
-                            </Col>
-                            <Col md={8}>
-                                <div key="0"><img src={IMAGE} /></div>
-                            </Col>
-                        </Row>
-                        </QueueAnim>
-                    </ScrollOverPack>
+                    </Col>
+                    </Row>
                     <ScrollToTop showUnder={50}>
                         <span className="top"></span>
                     </ScrollToTop>
-                    </Col>
-                    </Row>
-                </div>
+                </section>
             </MuiThemeProvider>
         );
     }
 }
+
+
+const Apply = (state) =>
+    <section id="apply-info">
+        <Row>
+            <Col mdOffset={3}>
+                <Row>
+                    <Col md={8}>
+                        <img src={APPLY} />
+                    </Col>
+                    <Col md={4}>
+                            <div>
+                            <h2>Поступаете? </h2>
+                            <p> Играй с профитом!
+                            Оформи дебетовую карту ALL Games и получай выгоду! 
+                            - Вернем 5% за покупки на игровых платформах 
+                            - До 2% в рублях будет возвращаться с других покупок 
+                            </p>
+                            <MuiThemeProvider>
+                            <RaisedButton onClick={(e) => {
+                                    e.preventDefault(); 
+                                    location.replace('/apply');
+                                    }} backgroundColor="#ffd1dc" label="Информация >" />
+                            </MuiThemeProvider>
+                        </div>
+                    </Col>
+                </Row>
+            </Col>
+        </Row>
+    </section>
+
+
+const Students = (state) =>
+    <section id="students-info">
+        <Row>
+            <Col mdOffset={3}>
+                <Row>
+                    <Col md={4}>
+                        <div>
+                            <h2>Уже учитесь? </h2>
+                            <p> Играй с профитом!
+                            Оформи дебетовую карту ALL Games и получай выгоду! 
+                            - Вернем 5% за покупки на игровых платформах 
+                            - До 2% в рублях будет возвращаться с других покупок 
+                            </p>
+                            <MuiThemeProvider>
+                                <RaisedButton onClick={(e) => {
+                                    e.preventDefault(); 
+                                    location.replace('/students');
+                                    }} backgroundColor="#ffd1dc" label="Информация >" />
+                            </MuiThemeProvider>
+                        </div>
+                    </Col>
+                    <Col md={8}>
+                        <div><img src={IMAGE} /></div>
+                    </Col>
+                </Row>
+            </Col>
+        </Row>
+    </section>
+
 
 export class Footer extends Component {
     render() {
