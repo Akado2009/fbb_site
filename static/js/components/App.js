@@ -14,12 +14,14 @@ import QueueAnim from 'rc-queue-anim';
 import TweenOne from 'rc-tween-one';
 import Animate from 'rc-animate';
 import ScrollAnim from 'rc-scroll-anim';
+
 const ScrollOverPack = ScrollAnim.OverPack;
 
-import '../../styles/base.css';
+// import '../../styles/base.css';
 import '../../styles/header.css';
 import '../../styles/footer.css';
 import '../../styles/lectorium.css';
+import '../../styles/navbar.css';
 
 import * as utils from '../utils.js';
 
@@ -32,24 +34,23 @@ import FBB from '../../img/logo_fbb.gif';
 import APPLY from '../../img/apply.jpg';
 import IMAGE from '../../img/students.jpg';
 
-$(window).scroll(function () {
-    if ($(document).scrollTop() > 50) {
-        $('.navbar').css("background-color", "rgba(0, 0, 0, 0.5)");
-        var menu = document.getElementsByClassName('navbar')[0];
-        $(menu).mouseenter(function() {
-            $(this).css("background-color", "black");
-        }).mouseleave(function() {
-            $(this).css("background-color", "rgba(0, 0, 0, 0.5)");
-        })
-    }
-    else {
-        $('nav').css("background-color", "black");
-        var menu = document.getElementsByClassName('navbar')[0];
-        $(menu).off("mouseenter");
-        $(menu).off("mouseleave");
-    }
-});
-
+// $(window).scroll(function () {
+//     if ($(document).scrollTop() > 50) {
+//         $('.navbar').css("background-color", "rgba(0, 0, 0, 0.5)");
+//         var menu = document.getElementsByClassName('navbar')[0];
+//         $(menu).mouseenter(function() {
+//             $(this).css("background-color", "black");
+//         }).mouseleave(function() {
+//             $(this).css("background-color", "rgba(0, 0, 0, 0.5)");
+//         })
+//     }
+//     else {
+//         $('nav').css("background-color", "black");
+//         var menu = document.getElementsByClassName('navbar')[0];
+//         $(menu).off("mouseenter");
+//         $(menu).off("mouseleave");
+//     }
+// });
 
 export const App = (state) =>
     <div id="main">
@@ -163,7 +164,7 @@ class News extends Component {
                             {dialog}
                         </QueueAnim>
                     </ScrollOverPack>
-                    <p><a href="/news">All news</a></p>
+                    <p><a id="news-link" href="/news">All news</a></p>
                     </Col>
                     </Row>
                     <ScrollToTop showUnder={50}>
@@ -273,3 +274,5 @@ export class Footer extends Component {
         )
     }
 }
+
+

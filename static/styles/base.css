@@ -158,3 +158,20 @@ section {
   from { opacity: 0; }
   to   { opacity: 1; }
 }
+
+#news-link {
+  border-radius: 4px;
+  border: 2px solid #0099FF;
+  font-size: 20px;
+  padding: 3px 4px;
+}
+
+#news-link:hover {
+  color: red;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+p {
+  text-align: right;
+}
