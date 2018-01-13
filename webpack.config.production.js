@@ -22,7 +22,8 @@ config.entry = {
     science: './static/js/science',
     phd: './static/js/phd',
     feedback: './static/js/feedback',
-    news: './static/js/news'
+    news: './static/js/news',
+    welcome: './static/js/welcome'
 };
 
 module.exports = config;

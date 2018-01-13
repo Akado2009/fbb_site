@@ -19,6 +19,10 @@ from rest_framework import viewsets
 from .models import Lectorium, Publication, SimpleFeedback, FeedbackFAQ, News
 
 
+class WelcomeView(TemplateView):
+    template_name = 'fbb_site/welcome.html'
+
+    
 class IndexView(TemplateView):
     template_name = 'fbb_site/index.html'
 

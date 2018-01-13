@@ -16,7 +16,8 @@ module.exports = {
         './static/js/phd',
         './static/js/apply',
         './static/js/feedback',
-        './statoc/js/news'
+        './statoc/js/news',
+        './static/js/welcome'
     ],
     entry: {
         main: './static/js/main',
@@ -28,7 +29,8 @@ module.exports = {
         phd: './static/js/phd',
         apply: './static/js/apply',
         feedback: './static/js/feedback',
-        news: './static/js/news'
+        news: './static/js/news',
+        welcome: './static/js/welcome'
     },
     output: {
         path: path.resolve('./static/bundles/'),
