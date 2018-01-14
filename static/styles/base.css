@@ -79,6 +79,7 @@ ul.header li a {
   width: 70%;
   height: 700px;
   margin-left: 5%;
+  text-align: left;
 }
 
 #students-info {
@@ -107,9 +108,10 @@ ul.header li a {
 .demo {
   margin: 0 auto;
   height: 80px;
-  background-color: grey;
+  font-size: 20px;
   margin-bottom: 30px;
   border-radius: 4px;
+  
 }
 
 .tween-one {
@@ -172,6 +174,33 @@ section {
   border-radius: 4px;
 }
 
-p {
+.news-link-p {
   text-align: right;
+}
+
+.date {
+  background-color: rgba(102, 181, 156, 1);
+  width: 90px;
+  height: 70px;
+  overflow: hidden;
+  float: left;
+  margin-right: 50px;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.one-news {
+  float: right;
+}
+
+.month {
+  background-color: rgb(73, 145, 122);
+  padding-bottom: 3px;
+}
+
+.day {
+  padding-top: 15px;
+  display: inline-block;
+  font-size: 30px;
 }

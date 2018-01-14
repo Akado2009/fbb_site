@@ -109,17 +109,21 @@ class Current extends React.Component {
         if (this.state.lectoriums) {
             for (let lectorium of this.state.lectoriums){
                 var lectoirumObject = 
-                <Row>
+                <Row className="one-lectorium">
                     <br />
                     <span className="date">
-                    <span className="month">
-                    {lectorium.month}/  {lectorium.year}
+                        <div className="month">
+                        {lectorium.rus_month} {lectorium.year}
+                        </div>
+                        <div className="day">
+                        {lectorium.day}
+                        </div> 
                     </span>
-                    <span className="day">
-                    {lectorium.day}
-                    </span> 
-                    </span> <strong>Лекторий МГУ: {lectorium.day} {lectorium.rus_month}, {lectorium.professor} </strong><br /> 
-                    <u>Тема лектория: {lectorium.name}</u><br /> <br />
+                    <div className="lectorium-object">
+                        <strong>Лекторий МГУ: {lectorium.day} {lectorium.rus_month}, {lectorium.professor} </strong><br /> 
+                        <u>Тема лектория: {lectorium.name}</u>
+                    </div>
+                    <br /> <br />
                 </Row>;
 
                 data.push(lectoirumObject);

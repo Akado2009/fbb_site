@@ -82,18 +82,18 @@ RUSSIAN_MONTH = {
 }
 
 ENGLISH_MONTH = {
-    '1': 'January',
-    '2': 'February',
-    '3': 'March',
-    '4': 'April',
+    '1': 'Jan',
+    '2': 'Feb',
+    '3': 'Mar',
+    '4': 'Apr',
     '5': 'May',
-    '6': 'June',
-    '7': 'July',
-    '8': 'August',
-    '9': 'September',
-    '10': 'October',
-    '11': 'November',
-    '12': 'Decembre',
+    '6': 'Jun',
+    '7': 'Jul',
+    '8': 'Aug',
+    '9': 'Sep',
+    '10': 'Oct',
+    '11': 'Nov',
+    '12': 'Dec',
 }
 
 def get_lectoriums(request, number=None):
@@ -110,8 +110,8 @@ def get_lectoriums(request, number=None):
             current_info['professor'] = data[i][1]
             current_info['name'] = data[i][2]
             current_info['day'], current_info['month'], current_info['year'] = data[i][0].day, data[i][0].month, data[i][0].year
-            current_info['rus_month'] = RUSSIAN_MONTH[str(current_info['month'])]
-            current_info['year'] = current_info['year'] % 100
+            current_info['rus_month'] = ENGLISH_MONTH[str(current_info['month'])]
+            current_info['year'] = current_info['year']
             new_data.append(current_info)
         return JsonResponse({ 'data': new_data })
     return JsonResponse({ 'data': data })
@@ -132,8 +132,8 @@ def get_news(request, number=None):
         current_info['abstract'] = _news[2]
         current_info['content'] = _news[3]
         current_info['day'], current_info['month'], current_info['year'] = _news[0].day, _news[0].month, _news[0].year
-        current_info['rus_month'] = RUSSIAN_MONTH[str(current_info['month'])]
-        current_info['year'] = current_info['year'] % 100
+        current_info['rus_month'] = ENGLISH_MONTH[str(current_info['month'])]
+        current_info['year'] = current_info['year']
         new_data.append(current_info)
     return JsonResponse({ 'data': new_data })
 

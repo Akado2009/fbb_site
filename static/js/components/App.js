@@ -17,10 +17,8 @@ import ScrollAnim from 'rc-scroll-anim';
 
 const ScrollOverPack = ScrollAnim.OverPack;
 
-// import '../../styles/base.css';
-import '../../styles/header.css';
+import '../../styles/base.css';
 import '../../styles/footer.css';
-import '../../styles/lectorium.css';
 import '../../styles/navbar.css';
 
 import * as utils from '../utils.js';
@@ -36,17 +34,17 @@ import IMAGE from '../../img/students.jpg';
 
 // $(window).scroll(function () {
 //     if ($(document).scrollTop() > 50) {
-//         $('.navbar').css("background-color", "rgba(0, 0, 0, 0.5)");
+//         $('.navbar-default').css("background-color", "rgba(4, 138, 91, 0.5)");
 //         var menu = document.getElementsByClassName('navbar')[0];
 //         $(menu).mouseenter(function() {
-//             $(this).css("background-color", "black");
+//             $(this).css("background-color", "rgba(4, 138, 91, 1)");
 //         }).mouseleave(function() {
-//             $(this).css("background-color", "rgba(0, 0, 0, 0.5)");
+//             $(this).css("background-color", "rgba(4, 138, 91, 0.5);");
 //         })
 //     }
 //     else {
-//         $('nav').css("background-color", "black");
-//         var menu = document.getElementsByClassName('navbar')[0];
+//         $('.navbar-default').css("background-color", "rgba(4, 138, 91, 1);");
+//         var menu = document.getElementsByClassName('navbar-default')[0];
 //         $(menu).off("mouseenter");
 //         $(menu).off("mouseleave");
 //     }
@@ -122,13 +120,15 @@ class News extends Component {
                 <div className="demo" key={i + 1} id={i}>
                     <br />
                     <span className="date">
-                    <span className="month">
-                    {news.month}/  {news.year}
-                    </span>
-                    <span className="day">
-                    {news.day}
+                        <div className="month">
+                        {news.rus_month} {news.year}
+                        </div>
+                        <div className="day">
+                        {news.day}
+                        </div> 
                     </span> 
-                    </span> <strong><u><a href="#" onClick={this.getNews} id={i}>{news.name}</a></u></strong><br />
+                    
+                    <strong><u><a href="#" onClick={this.getNews} id={i}>{news.name}</a></u></strong><br />
                     {news.abstract}
                 </div>;
 
@@ -164,7 +164,7 @@ class News extends Component {
                             {dialog}
                         </QueueAnim>
                     </ScrollOverPack>
-                    <p><a id="news-link" href="/news">All news</a></p>
+                    <p className="news-link-p"><a id="news-link" href="/news">All news</a></p>
                     </Col>
                     </Row>
                     <ScrollToTop showUnder={50}>
